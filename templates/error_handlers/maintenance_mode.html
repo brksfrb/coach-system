@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Bakım Modu</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); }
+      50% { transform: scale(1.2); }
+    }
+
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      margin: 0;
+      font-family: 'Roboto', Arial, sans-serif;
+      background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+      color: #333;
+      text-align: center;
+    }
+
+    .container {
+      max-width: 500px;
+      padding: 40px;
+      border-radius: 15px;
+      box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+      background-color: #fff;
+      transition: transform 0.3s ease;
+    }
+
+    .container:hover {
+      transform: translateY(-5px);
+    }
+
+    h1 {
+      font-size: 38px;
+      margin-bottom: 20px;
+      color: #ff6b6b;
+    }
+
+    .icon {
+      font-size: 60px;
+      display: inline-block;
+      margin-bottom: 15px;
+      animation: pulse 1.5s infinite;
+    }
+
+    p {
+      font-size: 18px;
+      margin-bottom: 25px;
+      color: #555;
+      line-height: 1.5;
+    }
+
+    a {
+      display: inline-block;
+      text-decoration: none;
+      color: #007bff;
+      font-weight: 600;
+      border: 2px solid #007bff;
+      padding: 8px 20px;
+      border-radius: 8px;
+      transition: all 0.3s ease;
+    }
+
+    a:hover {
+      background-color: #007bff;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="icon">⚠️</div>
+    <h1>Site Bakımda</h1>
+    <p>Şu anda sistem bakımı yapılıyor. Lütfen daha sonra tekrar deneyin.</p>
+  </div>
+</body>
+</html>

@@ -1,0 +1,52 @@
+{% extends "layout.html" %}
+{% block content %}
+  <h2 style="margin-bottom:20px;">⚙️ Ayarlar</h2>
+
+  <div class="grid">
+    <!-- Genel Ayarlar Card -->
+    <div class="card" style="width:100%">
+      <h3 style="margin-bottom:20px;">⚙️ Genel Ayarlar</h3>
+      <form method="POST" action="{{ url_for('common_routes.settings_page') }}">
+        {{ form.hidden_tag() }}
+
+        <!-- Tema Seçimi -->
+        <div class="form-group">
+          {{ form.theme.label }}
+          {{ form.theme() }}
+        </div>
+
+        <div style="text-align:right; margin-top:15px;">
+          <button type="submit">Kaydet</button>
+        </div>
+      </form>
+    </div>
+
+    <!-- Profil Düzenleme Card -->
+    <div class="card">
+      <h3 style="margin-bottom:20px;">👤 Profilim</h3>
+      <p style="margin-bottom:15px;"><strong>Ad Soyad:</strong> {{ user.fullname }}</p>
+      <p style="margin-bottom:15px;"><strong>Kullanıcı Adı:</strong> {{ user.username }}</p>
+      <p style="margin-bottom:15px;"><strong>Cinsiyet:</strong> {% if user.gender == "male" %} Erkek {% else %} Kadın {% endif %}</p>
+      <p style="margin-bottom:15px;"><strong>Rol:</strong> {{ user.role_turkish }}</p>
+      {% if user.role == "teacher" %}<p style="margin-bottom:15px;"><strong>Öğrenci Limitiniz:</strong> {{ user.students | length }}/{{ user.config.MAX_STUDENTS }}</p>{% endif %}
+      <p style="margin-bottom:15px;"><strong>Şifre:</strong> <button data-url="{{ url_for('common_routes.change_password_page') }}" style="margin-left:5px;" type="button" class="ajax-btn">⚙️ Değiştir</button>
+</p>
+
+    </div>
+  </div>
+
+<style>
+/* Ensure grid stretches full width */
+.content .grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(clamp(250px, 100%, 1fr), 1fr));
+  gap: 20px;
+  width: 100%;
+}
+
+.content .card {
+  width: 100%;
+}
+
+</style>
+{% endblock %}

@@ -1,0 +1,3930 @@
+[
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958246,
+        "objective_code":"T.9.1",
+        "objective":"OKUMA (METNİ ANLAMA VE ÇÖZÜMLEME) ",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958247,
+        "objective_code":"T.9.1.1",
+        "objective":"   GİRİŞ ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958248,
+        "objective_code":"T.9.1.1.1",
+        "objective":"      Standart dil, ağız, şive, lehçe ile argo, jargon kavramları üzerinde durulur. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958249,
+        "objective_code":"T.9.1.2",
+        "objective":"   ŞİİR ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958250,
+        "objective_code":"T.9.1.2.1",
+        "objective":"      Metinde geçen kelime ve kelime gruplarının anlamlarını tespit eder. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958259,
+        "objective_code":"T.9.1.2.10",
+        "objective":"      Şair ile şiir arasındaki ilişkiyi değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958260,
+        "objective_code":"T.9.1.2.11",
+        "objective":"      Türün\/biçimin ve dönemin\/akımın diğer önemli yazarlarını ve eserlerini sıralar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958261,
+        "objective_code":"T.9.1.2.12",
+        "objective":"      Metinden hareketle dil bilgisi çalışmaları yapar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958262,
+        "objective_code":"T.9.1.2.13",
+        "objective":"      Metinler arası karşılaştırmalar yapar.  ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958263,
+        "objective_code":"T.9.1.2.14",
+        "objective":"      Metindeki sıfatları bulur ve bunların metindeki işlevlerini belirler",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958264,
+        "objective_code":"T.9.1.2.15",
+        "objective":"      Metinler üzerinden imla ve noktalama çalışmaları yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958251,
+        "objective_code":"T.9.1.2.2",
+        "objective":"      Şiirin temasını belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958252,
+        "objective_code":"T.9.1.2.3",
+        "objective":"      Şiirde ahengi sağlayan özellikleri\/unsurları belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958253,
+        "objective_code":"T.9.1.2.4",
+        "objective":"      Şiirin nazım biçimini ve nazım türünü tespit eder. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958254,
+        "objective_code":"T.9.1.2.5",
+        "objective":"      Şiirdeki mazmun, imge ve edebî sanatları belirleyerek bunların anlama katkısını değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958255,
+        "objective_code":"T.9.1.2.6",
+        "objective":"      Şiirde söyleyici ile hitap edilen kişi\/varlık arasındaki ilişkiyi belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958256,
+        "objective_code":"T.9.1.2.7",
+        "objective":"      Şiirde millî, manevi ve evrensel değerler ile sosyal, siyasi, tarihî ve mitolojik ögeleri belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958257,
+        "objective_code":"T.9.1.2.8",
+        "objective":"      Şiirde edebiyat, sanat ve fikir akımlarının\/anlayışlarının yansımalarını değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958258,
+        "objective_code":"T.9.1.2.9",
+        "objective":"      Şiiri yorumlar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958265,
+        "objective_code":"T.9.1.3",
+        "objective":"   ÖYKÜLEYİCİ (ANLATMAYA BAĞLI) EDEBÎ METİNLER (Masal\/Fabl, Destan, Mesnevi, Hikâye, Roman vb.) ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958266,
+        "objective_code":"T.9.1.3.1",
+        "objective":"      Metinde geçen kelime ve kelime gruplarının anlamlarını tespit eder. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958275,
+        "objective_code":"T.9.1.3.10",
+        "objective":"      Metnin üslup özelliklerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958276,
+        "objective_code":"T.9.1.3.11",
+        "objective":"      Metinde millî, manevi ve evrensel değerler ile sosyal, siyasi, tarihî ve mitolojik ögeleri belirler.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958277,
+        "objective_code":"T.9.1.3.12",
+        "objective":"      Metinde edebiyat, sanat ve fikir akımlarının\/anlayışlarının yansımalarını değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958278,
+        "objective_code":"T.9.1.3.13",
+        "objective":"      Metni yorumlar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958279,
+        "objective_code":"T.9.1.3.14",
+        "objective":"      Yazar ile metin arasındaki ilişkiyi değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958280,
+        "objective_code":"T.9.1.3.15",
+        "objective":"      Türün ve dönemin\/akımın diğer önemli yazarlarını ve eserlerini sıralar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958281,
+        "objective_code":"T.9.1.3.16",
+        "objective":"      Metinlerden hareketle dil bilgisi çalışmaları yapar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958282,
+        "objective_code":"T.9.1.3.17",
+        "objective":"      Metindeki isimleri bulur ve bunların metindeki işlevlerini belirler.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958283,
+        "objective_code":"T.9.1.3.18",
+        "objective":"      Metinler üzerinden imla ve noktalama çalışmaları yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958284,
+        "objective_code":"T.9.1.3.19",
+        "objective":"      Metindeki edat, bağlaç ve ünlemleri bulur ve bunların metindeki işlevlerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958267,
+        "objective_code":"T.9.1.3.2",
+        "objective":"      Metnin türünün ortaya çıkışı ve tarihsel dönem ile ilişkisini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958285,
+        "objective_code":"T.9.1.3.20",
+        "objective":"      Metindeki zamirleri bulur ve bunların metindeki işlevlerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958268,
+        "objective_code":"T.9.1.3.3",
+        "objective":"      Metnin tema ve konusunu belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958269,
+        "objective_code":"T.9.1.3.4",
+        "objective":"      Metindeki çatışmaları belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958270,
+        "objective_code":"T.9.1.3.5",
+        "objective":"      Metnin olay örgüsünü belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958271,
+        "objective_code":"T.9.1.3.6",
+        "objective":"      Metindeki şahıs kadrosunun özelliklerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958272,
+        "objective_code":"T.9.1.3.7",
+        "objective":"      Metindeki zaman ve mekânın özelliklerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958273,
+        "objective_code":"T.9.1.3.8",
+        "objective":"      Metinde anlatıcı ve bakış açısının işlevini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958274,
+        "objective_code":"T.9.1.3.9",
+        "objective":"      Metindeki anlatım biçimleri ve tekniklerinin işlevlerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958286,
+        "objective_code":"T.9.1.4",
+        "objective":"   TİYATRO ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958287,
+        "objective_code":"T.9.1.4.1",
+        "objective":"      Metinde geçen kelime ve kelime gruplarının anlamlarını tespit eder. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958296,
+        "objective_code":"T.9.1.4.10",
+        "objective":"      Metinde edebiyat, sanat ve fikir akımlarının\/anlayışlarının yansımalarını değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958297,
+        "objective_code":"T.9.1.4.11",
+        "objective":"      Metni yorumlar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958298,
+        "objective_code":"T.9.1.4.12",
+        "objective":"      Yazar ve metin arasındaki ilişkiyi değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958299,
+        "objective_code":"T.9.1.4.13",
+        "objective":"      Türün ve dönemin\/akımın diğer önemli yazarlarını ve eserlerini sıralar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958300,
+        "objective_code":"T.9.1.4.14",
+        "objective":"      Metinlerden hareketle dil bilgisi çalışmaları yapar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958301,
+        "objective_code":"T.9.1.4.15",
+        "objective":"      Metinler üzerinden imla ve noktalama çalışmaları yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958302,
+        "objective_code":"T.9.1.4.16",
+        "objective":"      Metindeki zarfları bulur ve bunların metindeki işlevlerini belirler.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958288,
+        "objective_code":"T.9.1.4.2",
+        "objective":"      Metnin türünün ortaya çıkışı ve tarihsel dönemle ilişkisini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958289,
+        "objective_code":"T.9.1.4.3",
+        "objective":"      Metnin tema ve konusunu belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958290,
+        "objective_code":"T.9.1.4.4",
+        "objective":"      Metindeki çatışmaları belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958291,
+        "objective_code":"T.9.1.4.5",
+        "objective":"      Metindeki olay örgüsünü belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958292,
+        "objective_code":"T.9.1.4.6",
+        "objective":"      Metindeki şahıs kadrosunun özelliklerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958293,
+        "objective_code":"T.9.1.4.7",
+        "objective":"      Metindeki zaman ve mekânın özelliklerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958294,
+        "objective_code":"T.9.1.4.8",
+        "objective":"      Metnin dil, üslup ve anlatım\/sunum özelliklerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958295,
+        "objective_code":"T.9.1.4.9",
+        "objective":"      Metinde millî, manevi ve evrensel değerler ile sosyal, siyasi, tarihî ve mitolojik ögeleri belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958303,
+        "objective_code":"T.9.1.5",
+        "objective":"   BİLGİLENDİRİCİ (ÖĞRETİCİ) METİNLER ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958304,
+        "objective_code":"T.9.1.5.1",
+        "objective":"      Metinde geçen kelime ve kelime gruplarının anlamlarını tespit eder. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958313,
+        "objective_code":"T.9.1.5.10",
+        "objective":"      Metinde yazarın bakış açısını belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958314,
+        "objective_code":"T.9.1.5.11",
+        "objective":"      Metinde fikrî, felsefi veya siyasi akım, gelenek veya anlayışların yansımalarını değerlendirir.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958315,
+        "objective_code":"T.9.1.5.12",
+        "objective":"      Metni yorumlar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958316,
+        "objective_code":"T.9.1.5.13",
+        "objective":"      Yazar ve metin arasındaki ilişkiyi değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958317,
+        "objective_code":"T.9.1.5.14",
+        "objective":"      Türün ve dönemin\/akımın diğer önemli yazarlarını ve eserlerini sıralar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958305,
+        "objective_code":"T.9.1.5.2",
+        "objective":"      Metnin türünün ortaya çıkışı ve tarihsel dönemle ilişkisini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958306,
+        "objective_code":"T.9.1.5.3",
+        "objective":"      Metin ile metnin konusu, amacı ve hedef kitlesi arasında ilişki kurar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958307,
+        "objective_code":"T.9.1.5.4",
+        "objective":"      Metnin ana düşüncesi ve yardımcı düşüncelerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958308,
+        "objective_code":"T.9.1.5.5",
+        "objective":"      Metindeki anlatım biçimlerini, düşünceyi geliştirme yollarını ve bunların işlevlerini belirler.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958309,
+        "objective_code":"T.9.1.5.6",
+        "objective":"      Metnin görsel unsurlarla ilişkisini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958310,
+        "objective_code":"T.9.1.5.7",
+        "objective":"      Metnin üslup özelliklerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958311,
+        "objective_code":"T.9.1.5.8",
+        "objective":"      Metinde millî, manevi ve evrensel değerler ile sosyal, siyasi, tarihî ve mitolojik ögeleri belirler.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958312,
+        "objective_code":"T.9.1.5.9",
+        "objective":"      Metinde ortaya konulan bilgi ve yorumları ayırt eder. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958318,
+        "objective_code":"T.9.1.6",
+        "objective":"   BİYOGRAFİ\/OTOBİYOGRAFİ ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958319,
+        "objective_code":"T.9.1.6.1",
+        "objective":"      Metindeki fiilleri bulur ve bunların metindeki işlevlerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958320,
+        "objective_code":"T.9.1.6.2",
+        "objective":"      Metinler üzerinden imla ve noktalama çalışmaları yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958321,
+        "objective_code":"T.9.1.7",
+        "objective":"   MEKTUP\/E -POSTA",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958322,
+        "objective_code":"T.9.1.7.1",
+        "objective":"      Metindeki fiilleri bulur ve bunların metindeki işlevlerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958323,
+        "objective_code":"T.9.1.7.2",
+        "objective":"      Metinler üzerinden imla ve noktalama çalışmaları yapılır.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958324,
+        "objective_code":"T.9.1.8",
+        "objective":"   GÜNLÜK\/BLOG",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958325,
+        "objective_code":"T.9.1.8.1",
+        "objective":"      Metindeki fiilleri bulur ve bunların metindeki işlevlerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958326,
+        "objective_code":"T.9.1.8.2",
+        "objective":"      Metinler üzerinden imla ve noktalama çalışmaları yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958327,
+        "objective_code":"T.9.1.8.3",
+        "objective":"      Metinlerden hareketle dil bilgisi çalışmaları yapar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958328,
+        "objective_code":"T.9.2",
+        "objective":"YAZMA ",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958329,
+        "objective_code":"T.9.2.1",
+        "objective":"   Farklı türlerde metinler yazar. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958338,
+        "objective_code":"T.9.2.10",
+        "objective":"   Yazdığı metni gözden geçirir. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958339,
+        "objective_code":"T.9.2.11",
+        "objective":"   Ürettiği ve paylaştığı metinlerin sorumluluğunu üstlenir. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958340,
+        "objective_code":"T.9.2.12",
+        "objective":"   Yazdığı metni başkalarıyla paylaşır. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958330,
+        "objective_code":"T.9.2.2",
+        "objective":"   Yazacağı metnin türüne göre konu, tema, ana düşünce, amaç ve hedef kitleyi belirler. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958331,
+        "objective_code":"T.9.2.3",
+        "objective":"   Yazma konusuyla ilgili hazırlık yapar. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958332,
+        "objective_code":"T.9.2.4",
+        "objective":"   Yazacağı metni planlar. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958333,
+        "objective_code":"T.9.2.5",
+        "objective":"   Metin türüne özgü yapı özelliklerine uygun yazar.",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958334,
+        "objective_code":"T.9.2.6",
+        "objective":"   Metin türüne özgü dil ve anlatım özelliklerine uygun yazar. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958335,
+        "objective_code":"T.9.2.7",
+        "objective":"   İyi bir anlatımda bulunması gereken özelliklere dikkat ederek yazar. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958336,
+        "objective_code":"T.9.2.8",
+        "objective":"   Farklı cümle yapılarını ve türlerini kullanır. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958337,
+        "objective_code":"T.9.2.9",
+        "objective":"   Görsel ve işitsel unsurları doğru ve etkili kullanır. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958341,
+        "objective_code":"T.9.3",
+        "objective":"SÖZLÜ İLETİŞİM ",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958342,
+        "objective_code":"T.9.3.1",
+        "objective":"   KONUŞMA ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958343,
+        "objective_code":"T.9.3.1.1",
+        "objective":"      İletişim sürecini oluşturan ögeleri ve iletişimde dilin önemini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958352,
+        "objective_code":"T.9.3.1.10",
+        "objective":"      Konuşurken gereksiz ses ve kelimeler kullanmaktan kaçınır. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958353,
+        "objective_code":"T.9.3.1.11",
+        "objective":"      Konuşmasında beden dilini doğru ve etkili biçimde kullanır. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958354,
+        "objective_code":"T.9.3.1.12",
+        "objective":"      Konuşmasına etkili bir başlangıç yapar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958355,
+        "objective_code":"T.9.3.1.13",
+        "objective":"      Konuşmasının içeriğini zenginleştirir. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958356,
+        "objective_code":"T.9.3.1.14",
+        "objective":"      Konuşmasında önemli noktaları vurgulayan ve konuşmayı takip etmeyi kolaylaştıran ifadeler kullanır. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958357,
+        "objective_code":"T.9.3.1.15",
+        "objective":"      Konuşmasını etkili bir biçimde sonlandırır. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958358,
+        "objective_code":"T.9.3.1.16",
+        "objective":"      Konuşmasında süreyi verimli kullanır. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958359,
+        "objective_code":"T.9.3.1.17",
+        "objective":"      Konuşmasında teknolojik araçları etkili biçimde kullanır. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958344,
+        "objective_code":"T.9.3.1.2",
+        "objective":"      Konuşmanın konusunu, amacını, hedef kitlesini ve türünü belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958345,
+        "objective_code":"T.9.3.1.3",
+        "objective":"      Konuyla ilgili gözlem, inceleme veya araştırma yapar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958346,
+        "objective_code":"T.9.3.1.4",
+        "objective":"      Konuşma metnini planlar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958347,
+        "objective_code":"T.9.3.1.5",
+        "objective":"      Konuşma planına uygun olarak konuşma kartları hazırlar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958348,
+        "objective_code":"T.9.3.1.6",
+        "objective":"      Konuşmasında yararlanacağı görsel ve işitsel araçları hazırlar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958349,
+        "objective_code":"T.9.3.1.7",
+        "objective":"      Konuşmasına uygun sunu hazırlar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958350,
+        "objective_code":"T.9.3.1.8",
+        "objective":"      Konuşma provası yapar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958351,
+        "objective_code":"T.9.3.1.9",
+        "objective":"      Boğumlama, vurgulama, tonlama ve duraklamaya dikkat ederek konuşur. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958360,
+        "objective_code":"T.9.3.2",
+        "objective":"   DİNLEME ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958361,
+        "objective_code":"T.9.3.2.1",
+        "objective":"      Amacına uygun dinleme tekniklerini kullanır. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958362,
+        "objective_code":"T.9.3.2.2",
+        "objective":"      Dinlediği konuşmanın konu ve ana düşüncesini tespit eder. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958363,
+        "objective_code":"T.9.3.2.3",
+        "objective":"      Dinlediği konuşmada konu akışını takip eder. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958364,
+        "objective_code":"T.9.3.2.4",
+        "objective":"      Dinlediği konuşmadaki açık ve örtük iletileri belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958365,
+        "objective_code":"T.9.3.2.5",
+        "objective":"      Dinlediklerini özetler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958366,
+        "objective_code":"T.9.3.2.6",
+        "objective":"      Dinlediklerini ön bilgileriyle karşılaştırır. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958367,
+        "objective_code":"T.9.3.2.7",
+        "objective":"      Dinlediği konuşmanın tutarlılığını sorgular. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"turkish",
+        "code":958368,
+        "objective_code":"T.9.3.2.8",
+        "objective":"      Dinlediği konuşmada öne sürülen düşüncelerin dayanaklarının geçerliliğini sorgular. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958369,
+        "objective_code":"T.10.1",
+        "objective":"OKUMA (METNİ ANLAMA VE ÇÖZÜMLEME) ",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958370,
+        "objective_code":"T.10.1.1",
+        "objective":"   GİRİŞ ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958371,
+        "objective_code":"T.10.1.1.1",
+        "objective":"      Metinler üzerinden imla ve noktalama çalışmaları yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958372,
+        "objective_code":"T.10.1.2",
+        "objective":"   ŞİİR ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958373,
+        "objective_code":"T.10.1.2.1",
+        "objective":"      Metinde geçen kelime ve kelime gruplarının anlamlarını tespit eder. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958382,
+        "objective_code":"T.10.1.2.10",
+        "objective":"      Şair ile şiir arasındaki ilişkiyi değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958383,
+        "objective_code":"T.10.1.2.11",
+        "objective":"      Türün\/biçimin ve dönemin\/akımın diğer önemli yazarlarını ve eserlerini sıralar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958384,
+        "objective_code":"T.10.1.2.12",
+        "objective":"      Metinden hareketle dil bilgisi çalışmaları yapar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958385,
+        "objective_code":"T.10.1.2.13",
+        "objective":"      Metinler arası karşılaştırmalar yapar.  ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958386,
+        "objective_code":"T.10.1.2.14",
+        "objective":"      Metindeki isim tamlamalarını bulur ve bunların metindeki işlevlerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958387,
+        "objective_code":"T.10.1.2.15",
+        "objective":"      Metinler üzerinden imla ve noktalama çalışmaları yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958374,
+        "objective_code":"T.10.1.2.2",
+        "objective":"      Şiirin temasını belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958375,
+        "objective_code":"T.10.1.2.3",
+        "objective":"      Şiirde ahengi sağlayan özellikleri\/unsurları belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958376,
+        "objective_code":"T.10.1.2.4",
+        "objective":"      Şiirin nazım biçimini ve nazım türünü tespit eder. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958377,
+        "objective_code":"T.10.1.2.5",
+        "objective":"      Şiirdeki mazmun, imge ve edebî sanatları belirleyerek bunların anlama katkısını değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958378,
+        "objective_code":"T.10.1.2.6",
+        "objective":"      Şiirde söyleyici ile hitap edilen kişi\/varlık arasındaki ilişkiyi belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958379,
+        "objective_code":"T.10.1.2.7",
+        "objective":"      Şiirde millî, manevi ve evrensel değerler ile sosyal, siyasi, tarihî ve mitolojik ögeleri belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958380,
+        "objective_code":"T.10.1.2.8",
+        "objective":"      Şiirde edebiyat, sanat ve fikir akımlarının\/anlayışlarının yansımalarını değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958381,
+        "objective_code":"T.10.1.2.9",
+        "objective":"      Şiiri yorumlar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958388,
+        "objective_code":"T.10.1.3",
+        "objective":"   ÖYKÜLEYİCİ (ANLATMAYA BAĞLI) EDEBÎ METİNLER (Masal\/Fabl, Destan, Mesnevi, Hikâye, Roman vb.) ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958389,
+        "objective_code":"T.10.1.3.1",
+        "objective":"      Metinde geçen kelime ve kelime gruplarının anlamlarını tespit eder. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958398,
+        "objective_code":"T.10.1.3.10",
+        "objective":"      Metnin üslup özelliklerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958399,
+        "objective_code":"T.10.1.3.11",
+        "objective":"      Metinde millî, manevi ve evrensel değerler ile sosyal, siyasi, tarihî ve mitolojik ögeleri belirler.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958400,
+        "objective_code":"T.10.1.3.12",
+        "objective":"      Metinde edebiyat, sanat ve fikir akımlarının\/anlayışlarının yansımalarını değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958401,
+        "objective_code":"T.10.1.3.13",
+        "objective":"      Metni yorumlar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958402,
+        "objective_code":"T.10.1.3.14",
+        "objective":"      Yazar ile metin arasındaki ilişkiyi değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958403,
+        "objective_code":"T.10.1.3.15",
+        "objective":"      Türün ve dönemin\/akımın diğer önemli yazarlarını ve eserlerini sıralar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958404,
+        "objective_code":"T.10.1.3.16",
+        "objective":"      Metinlerden hareketle dil bilgisi çalışmaları yapar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958405,
+        "objective_code":"T.10.1.3.17",
+        "objective":"      Metindeki fiilimsileri bulur ve bunların metindeki işlevlerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958406,
+        "objective_code":"T.10.1.3.18",
+        "objective":"      Metinler üzerinden imla ve noktalama çalışmaları yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958407,
+        "objective_code":"T.10.1.3.19",
+        "objective":"      Metindeki sıfat tamlamalarını bulur ve bunların metindeki işlevlerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958390,
+        "objective_code":"T.10.1.3.2",
+        "objective":"      Metnin türünün ortaya çıkışı ve tarihsel dönem ile ilişkisini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958408,
+        "objective_code":"T.10.1.3.20",
+        "objective":"      Metindeki cümle çeşitlerini bulur ve bunların metindeki işlevlerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958391,
+        "objective_code":"T.10.1.3.3",
+        "objective":"      Metnin tema ve konusunu belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958392,
+        "objective_code":"T.10.1.3.4",
+        "objective":"      Metindeki çatışmaları belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958393,
+        "objective_code":"T.10.1.3.5",
+        "objective":"      Metnin olay örgüsünü belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958394,
+        "objective_code":"T.10.1.3.6",
+        "objective":"      Metindeki şahıs kadrosunun özelliklerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958395,
+        "objective_code":"T.10.1.3.7",
+        "objective":"      Metindeki zaman ve mekânın özelliklerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958396,
+        "objective_code":"T.10.1.3.8",
+        "objective":"      Metinde anlatıcı ve bakış açısının işlevini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958397,
+        "objective_code":"T.10.1.3.9",
+        "objective":"      Metindeki anlatım biçimleri ve tekniklerinin işlevlerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958409,
+        "objective_code":"T.10.1.4",
+        "objective":"   TİYATRO ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958410,
+        "objective_code":"T.10.1.4.1",
+        "objective":"      Metinde geçen kelime ve kelime gruplarının anlamlarını tespit eder. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958419,
+        "objective_code":"T.10.1.4.10",
+        "objective":"      Metinde edebiyat, sanat ve fikir akımlarının\/anlayışlarının yansımalarını değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958420,
+        "objective_code":"T.10.1.4.11",
+        "objective":"      Metni yorumlar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958421,
+        "objective_code":"T.10.1.4.12",
+        "objective":"      Yazar ve metin arasındaki ilişkiyi değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958422,
+        "objective_code":"T.10.1.4.13",
+        "objective":"      Türün ve dönemin\/akımın diğer önemli yazarlarını ve eserlerini sıralar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958423,
+        "objective_code":"T.10.1.4.14",
+        "objective":"      Metinlerden hareketle dil bilgisi çalışmaları yapar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958424,
+        "objective_code":"T.10.1.4.15",
+        "objective":"      Metindeki cümle çeşitlerini bulur ve bunların metindeki işlevlerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958425,
+        "objective_code":"T.10.1.4.16",
+        "objective":"      Metinler üzerinden imla ve noktalama çalışmaları yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958411,
+        "objective_code":"T.10.1.4.2",
+        "objective":"      Metnin türünün ortaya çıkışı ve tarihsel dönemle ilişkisini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958412,
+        "objective_code":"T.10.1.4.3",
+        "objective":"      Metnin tema ve konusunu belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958413,
+        "objective_code":"T.10.1.4.4",
+        "objective":"      Metindeki çatışmaları belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958414,
+        "objective_code":"T.10.1.4.5",
+        "objective":"      Metindeki olay örgüsünü belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958415,
+        "objective_code":"T.10.1.4.6",
+        "objective":"      Metindeki şahıs kadrosunun özelliklerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958416,
+        "objective_code":"T.10.1.4.7",
+        "objective":"      Metindeki zaman ve mekânın özelliklerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958417,
+        "objective_code":"T.10.1.4.8",
+        "objective":"      Metnin dil, üslup ve anlatım\/sunum özelliklerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958418,
+        "objective_code":"T.10.1.4.9",
+        "objective":"      Metinde millî, manevi ve evrensel değerler ile sosyal, siyasi, tarihî ve mitolojik ögeleri belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958426,
+        "objective_code":"T.10.1.5",
+        "objective":"   BİLGİLENDİRİCİ (ÖĞRETİCİ) METİNLER ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958427,
+        "objective_code":"T.10.1.5.1",
+        "objective":"      Metinde geçen kelime ve kelime gruplarının anlamlarını tespit eder. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958436,
+        "objective_code":"T.10.1.5.10",
+        "objective":"      Metinde yazarın bakış açısını belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958437,
+        "objective_code":"T.10.1.5.11",
+        "objective":"      Metinde fikrî, felsefi veya siyasi akım, gelenek veya anlayışların yansımalarını değerlendirir.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958438,
+        "objective_code":"T.10.1.5.12",
+        "objective":"      Metni yorumlar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958439,
+        "objective_code":"T.10.1.5.13",
+        "objective":"      Yazar ve metin arasındaki ilişkiyi değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958440,
+        "objective_code":"T.10.1.5.14",
+        "objective":"      Türün ve dönemin\/akımın diğer önemli yazarlarını ve eserlerini sıralar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958441,
+        "objective_code":"T.10.1.5.15",
+        "objective":"      Metinlerden hareketle dil bilgisi çalışmaları yapar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958428,
+        "objective_code":"T.10.1.5.2",
+        "objective":"      Metnin türünün ortaya çıkışı ve tarihsel dönemle ilişkisini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958429,
+        "objective_code":"T.10.1.5.3",
+        "objective":"      Metin ile metnin konusu, amacı ve hedef kitlesi arasında ilişki kurar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958430,
+        "objective_code":"T.10.1.5.4",
+        "objective":"      Metnin ana düşüncesi ve yardımcı düşüncelerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958431,
+        "objective_code":"T.10.1.5.5",
+        "objective":"      Metindeki anlatım biçimlerini, düşünceyi geliştirme yollarını ve bunların işlevlerini belirler.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958432,
+        "objective_code":"T.10.1.5.6",
+        "objective":"      Metnin görsel unsurlarla ilişkisini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958433,
+        "objective_code":"T.10.1.5.7",
+        "objective":"      Metnin üslup özelliklerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958434,
+        "objective_code":"T.10.1.5.8",
+        "objective":"      Metinde millî, manevi ve evrensel değerler ile sosyal, siyasi, tarihî ve mitolojik ögeleri belirler.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958435,
+        "objective_code":"T.10.1.5.9",
+        "objective":"      Metinde ortaya konulan bilgi ve yorumları ayırt eder. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958442,
+        "objective_code":"T.10.1.6",
+        "objective":"   ANI (HATIRA) ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958443,
+        "objective_code":"T.10.1.6.1",
+        "objective":"      Metindeki cümle çeşitlerini bulur ve bunların metindeki işlevlerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958444,
+        "objective_code":"T.10.1.6.2",
+        "objective":"      Metinler üzerinden imla ve noktalama çalışmaları yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958445,
+        "objective_code":"T.10.1.7",
+        "objective":"   HABER METNİ ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958446,
+        "objective_code":"T.10.1.7.1",
+        "objective":"      Metindeki cümle çeşitlerini bulur ve bunların metindeki işlevlerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958447,
+        "objective_code":"T.10.1.7.2",
+        "objective":"      Metinler üzerinden imla ve noktalama çalışmaları yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958448,
+        "objective_code":"T.10.1.8",
+        "objective":"   GEZİ YAZISI ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958449,
+        "objective_code":"T.10.1.8.1",
+        "objective":"      Metindeki cümle çeşitlerini bulur ve bunların metindeki işlevlerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958450,
+        "objective_code":"T.10.1.8.2",
+        "objective":"      Metinler üzerinden imla ve noktalama çalışmaları yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958451,
+        "objective_code":"T.10.2",
+        "objective":"YAZMA ",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958452,
+        "objective_code":"T.10.2.1",
+        "objective":"   Farklı türlerde metinler yazar. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958461,
+        "objective_code":"T.10.2.10",
+        "objective":"   Yazdığı metni gözden geçirir. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958462,
+        "objective_code":"T.10.2.11",
+        "objective":"   Ürettiği ve paylaştığı metinlerin sorumluluğunu üstlenir. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958463,
+        "objective_code":"T.10.2.12",
+        "objective":"   Yazdığı metni başkalarıyla paylaşır. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958453,
+        "objective_code":"T.10.2.2",
+        "objective":"   Yazacağı metnin türüne göre konu, tema, ana düşünce, amaç ve hedef kitleyi belirler. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958454,
+        "objective_code":"T.10.2.3",
+        "objective":"   Yazma konusuyla ilgili hazırlık yapar. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958455,
+        "objective_code":"T.10.2.4",
+        "objective":"   Yazacağı metni planlar. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958456,
+        "objective_code":"T.10.2.5",
+        "objective":"   Metin türüne özgü yapı özelliklerine uygun yazar.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958457,
+        "objective_code":"T.10.2.6",
+        "objective":"   Metin türüne özgü dil ve anlatım özelliklerine uygun yazar. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958458,
+        "objective_code":"T.10.2.7",
+        "objective":"   İyi bir anlatımda bulunması gereken özelliklere dikkat ederek yazar. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958459,
+        "objective_code":"T.10.2.8",
+        "objective":"   Farklı cümle yapılarını ve türlerini kullanır. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958460,
+        "objective_code":"T.10.2.9",
+        "objective":"   Görsel ve işitsel unsurları doğru ve etkili kullanır. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958464,
+        "objective_code":"T.10.3",
+        "objective":"SÖZLÜ İLETİŞİM ",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958465,
+        "objective_code":"T.10.3.1",
+        "objective":"   KONUŞMA ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958466,
+        "objective_code":"T.10.3.1.1",
+        "objective":"      İletişim sürecini oluşturan ögeleri ve iletişimde dilin önemini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958475,
+        "objective_code":"T.10.3.1.10",
+        "objective":"      Konuşurken gereksiz ses ve kelimeler kullanmaktan kaçınır. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958476,
+        "objective_code":"T.10.3.1.11",
+        "objective":"      Konuşmasında beden dilini doğru ve etkili biçimde kullanır. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958477,
+        "objective_code":"T.10.3.1.12",
+        "objective":"      Konuşmasına etkili bir başlangıç yapar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958478,
+        "objective_code":"T.10.3.1.13",
+        "objective":"      Konuşmasının içeriğini zenginleştirir. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958479,
+        "objective_code":"T.10.3.1.14",
+        "objective":"      Konuşmasında önemli noktaları vurgulayan ve konuşmayı takip etmeyi kolaylaştıran ifadeler kullanır. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958480,
+        "objective_code":"T.10.3.1.15",
+        "objective":"      Konuşmasını etkili bir biçimde sonlandırır. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958481,
+        "objective_code":"T.10.3.1.16",
+        "objective":"      Konuşmasında süreyi verimli kullanır. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958482,
+        "objective_code":"T.10.3.1.17",
+        "objective":"      Konuşmasında teknolojik araçları etkili biçimde kullanır. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958467,
+        "objective_code":"T.10.3.1.2",
+        "objective":"      Konuşmanın konusunu, amacını, hedef kitlesini ve türünü belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958468,
+        "objective_code":"T.10.3.1.3",
+        "objective":"      Konuyla ilgili gözlem, inceleme veya araştırma yapar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958469,
+        "objective_code":"T.10.3.1.4",
+        "objective":"      Konuşma metnini planlar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958470,
+        "objective_code":"T.10.3.1.5",
+        "objective":"      Konuşma planına uygun olarak konuşma kartları hazırlar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958471,
+        "objective_code":"T.10.3.1.6",
+        "objective":"      Konuşmasında yararlanacağı görsel ve işitsel araçları hazırlar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958472,
+        "objective_code":"T.10.3.1.7",
+        "objective":"      Konuşmasına uygun sunu hazırlar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958473,
+        "objective_code":"T.10.3.1.8",
+        "objective":"      Konuşma provası yapar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958474,
+        "objective_code":"T.10.3.1.9",
+        "objective":"      Boğumlama, vurgulama, tonlama ve duraklamaya dikkat ederek konuşur. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958483,
+        "objective_code":"T.10.3.2",
+        "objective":"   DİNLEME ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958484,
+        "objective_code":"T.10.3.2.1",
+        "objective":"      Amacına uygun dinleme tekniklerini kullanır. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958485,
+        "objective_code":"T.10.3.2.2",
+        "objective":"      Dinlediği konuşmanın konu ve ana düşüncesini tespit eder. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958486,
+        "objective_code":"T.10.3.2.3",
+        "objective":"      Dinlediği konuşmada konu akışını takip eder. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958487,
+        "objective_code":"T.10.3.2.4",
+        "objective":"      Dinlediği konuşmadaki açık ve örtük iletileri belirler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958488,
+        "objective_code":"T.10.3.2.5",
+        "objective":"      Dinlediklerini özetler. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958489,
+        "objective_code":"T.10.3.2.6",
+        "objective":"      Dinlediklerini ön bilgileriyle karşılaştırır. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958490,
+        "objective_code":"T.10.3.2.7",
+        "objective":"      Dinlediği konuşmanın tutarlılığını sorgular. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"turkish",
+        "code":958491,
+        "objective_code":"T.10.3.2.8",
+        "objective":"      Dinlediği konuşmada öne sürülen düşüncelerin dayanaklarının geçerliliğini sorgular. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958492,
+        "objective_code":"T.11.1",
+        "objective":"OKUMA (METNİ ANLAMA VE ÇÖZÜMLEME) ",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958493,
+        "objective_code":"T.11.1.1",
+        "objective":"   GİRİŞ ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958494,
+        "objective_code":"T.11.1.1.1",
+        "objective":"      Metinler üzerinden imla ve noktalama çalışmaları yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958495,
+        "objective_code":"T.11.1.2",
+        "objective":"   ŞİİR ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958496,
+        "objective_code":"T.11.1.2.1",
+        "objective":"      Metinde geçen kelime ve kelime gruplarının anlamlarını tespit eder. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958505,
+        "objective_code":"T.11.1.2.10",
+        "objective":"      Şair ile şiir arasındaki ilişkiyi değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958506,
+        "objective_code":"T.11.1.2.11",
+        "objective":"      Türün\/biçimin ve dönemin\/akımın diğer önemli yazarlarını ve eserlerini sıralar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958507,
+        "objective_code":"T.11.1.2.12",
+        "objective":"      Metinden hareketle dil bilgisi çalışmaları yapar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958508,
+        "objective_code":"T.11.1.2.13",
+        "objective":"      Metinler arası karşılaştırmalar yapar.  ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958509,
+        "objective_code":"T.11.1.2.14",
+        "objective":"      Metindeki cümlelerin ögeleri bulunur.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958510,
+        "objective_code":"T.11.1.2.15",
+        "objective":"      Metinler üzerinden imla ve noktalama çalışmaları yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958497,
+        "objective_code":"T.11.1.2.2",
+        "objective":"      Şiirin temasını belirler. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958498,
+        "objective_code":"T.11.1.2.3",
+        "objective":"      Şiirde ahengi sağlayan özellikleri\/unsurları belirler. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958499,
+        "objective_code":"T.11.1.2.4",
+        "objective":"      Şiirin nazım biçimini ve nazım türünü tespit eder. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958500,
+        "objective_code":"T.11.1.2.5",
+        "objective":"      Şiirdeki mazmun, imge ve edebî sanatları belirleyerek bunların anlama katkısını değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958501,
+        "objective_code":"T.11.1.2.6",
+        "objective":"      Şiirde söyleyici ile hitap edilen kişi\/varlık arasındaki ilişkiyi belirler. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958502,
+        "objective_code":"T.11.1.2.7",
+        "objective":"      Şiirde millî, manevi ve evrensel değerler ile sosyal, siyasi, tarihî ve mitolojik ögeleri belirler. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958503,
+        "objective_code":"T.11.1.2.8",
+        "objective":"      Şiirde edebiyat, sanat ve fikir akımlarının\/anlayışlarının yansımalarını değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958504,
+        "objective_code":"T.11.1.2.9",
+        "objective":"      Şiiri yorumlar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958511,
+        "objective_code":"T.11.1.3",
+        "objective":"   ÖYKÜLEYİCİ (ANLATMAYA BAĞLI) EDEBÎ METİNLER (Masal\/Fabl, Destan, Mesnevi, Hikâye, Roman vb.) ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958512,
+        "objective_code":"T.11.1.3.1",
+        "objective":"      Metinde geçen kelime ve kelime gruplarının anlamlarını tespit eder. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958521,
+        "objective_code":"T.11.1.3.10",
+        "objective":"      Metnin üslup özelliklerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958522,
+        "objective_code":"T.11.1.3.11",
+        "objective":"      Metinde millî, manevi ve evrensel değerler ile sosyal, siyasi, tarihî ve mitolojik ögeleri belirler.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958523,
+        "objective_code":"T.11.1.3.12",
+        "objective":"      Metinde edebiyat, sanat ve fikir akımlarının\/anlayışlarının yansımalarını değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958524,
+        "objective_code":"T.11.1.3.13",
+        "objective":"      Metni yorumlar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958525,
+        "objective_code":"T.11.1.3.14",
+        "objective":"      Yazar ile metin arasındaki ilişkiyi değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958526,
+        "objective_code":"T.11.1.3.15",
+        "objective":"      Türün ve dönemin\/akımın diğer önemli yazarlarını ve eserlerini sıralar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958527,
+        "objective_code":"T.11.1.3.16",
+        "objective":"      Metinlerden hareketle dil bilgisi çalışmaları yapar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958528,
+        "objective_code":"T.11.1.3.17",
+        "objective":"      Metindeki cümlelerin ögeleri bulunur.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958529,
+        "objective_code":"T.11.1.3.18",
+        "objective":"      Metinler üzerinden imla ve noktalama çalışmaları yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958530,
+        "objective_code":"T.11.1.3.19",
+        "objective":"      Anlatım bozukluklarıyla ilgili çalışmalar yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958513,
+        "objective_code":"T.11.1.3.2",
+        "objective":"      Metnin türünün ortaya çıkışı ve tarihsel dönem ile ilişkisini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958514,
+        "objective_code":"T.11.1.3.3",
+        "objective":"      Metnin tema ve konusunu belirler. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958515,
+        "objective_code":"T.11.1.3.4",
+        "objective":"      Metindeki çatışmaları belirler. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958516,
+        "objective_code":"T.11.1.3.5",
+        "objective":"      Metnin olay örgüsünü belirler. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958517,
+        "objective_code":"T.11.1.3.6",
+        "objective":"      Metindeki şahıs kadrosunun özelliklerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958518,
+        "objective_code":"T.11.1.3.7",
+        "objective":"      Metindeki zaman ve mekânın özelliklerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958519,
+        "objective_code":"T.11.1.3.8",
+        "objective":"      Metinde anlatıcı ve bakış açısının işlevini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958520,
+        "objective_code":"T.11.1.3.9",
+        "objective":"      Metindeki anlatım biçimleri ve tekniklerinin işlevlerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958531,
+        "objective_code":"T.11.1.4",
+        "objective":"   TİYATRO ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958532,
+        "objective_code":"T.11.1.4.1",
+        "objective":"      Metinde geçen kelime ve kelime gruplarının anlamlarını tespit eder. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958541,
+        "objective_code":"T.11.1.4.10",
+        "objective":"      Metinde edebiyat, sanat ve fikir akımlarının\/anlayışlarının yansımalarını değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958542,
+        "objective_code":"T.11.1.4.11",
+        "objective":"      Metni yorumlar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958543,
+        "objective_code":"T.11.1.4.12",
+        "objective":"      Yazar ve metin arasındaki ilişkiyi değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958544,
+        "objective_code":"T.11.1.4.13",
+        "objective":"      Türün ve dönemin\/akımın diğer önemli yazarlarını ve eserlerini sıralar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958545,
+        "objective_code":"T.11.1.4.14",
+        "objective":"      Metinlerden hareketle dil bilgisi çalışmaları yapar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958546,
+        "objective_code":"T.11.1.4.15",
+        "objective":"      Anlatım bozukluklarıyla ilgili çalışmalar yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958547,
+        "objective_code":"T.11.1.4.16",
+        "objective":"      Metinler üzerinden imla ve noktalama çalışmaları yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958533,
+        "objective_code":"T.11.1.4.2",
+        "objective":"      Metnin türünün ortaya çıkışı ve tarihsel dönemle ilişkisini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958534,
+        "objective_code":"T.11.1.4.3",
+        "objective":"      Metnin tema ve konusunu belirler. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958535,
+        "objective_code":"T.11.1.4.4",
+        "objective":"      Metindeki çatışmaları belirler. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958536,
+        "objective_code":"T.11.1.4.5",
+        "objective":"      Metindeki olay örgüsünü belirler. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958537,
+        "objective_code":"T.11.1.4.6",
+        "objective":"      Metindeki şahıs kadrosunun özelliklerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958538,
+        "objective_code":"T.11.1.4.7",
+        "objective":"      Metindeki zaman ve mekânın özelliklerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958539,
+        "objective_code":"T.11.1.4.8",
+        "objective":"      Metnin dil, üslup ve anlatım\/sunum özelliklerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958540,
+        "objective_code":"T.11.1.4.9",
+        "objective":"      Metinde millî, manevi ve evrensel değerler ile sosyal, siyasi, tarihî ve mitolojik ögeleri belirler. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958548,
+        "objective_code":"T.11.1.5",
+        "objective":"   BİLGİLENDİRİCİ (ÖĞRETİCİ) METİNLER ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958549,
+        "objective_code":"T.11.1.5.1",
+        "objective":"      Metinde geçen kelime ve kelime gruplarının anlamlarını tespit eder. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958558,
+        "objective_code":"T.11.1.5.10",
+        "objective":"      Metinde yazarın bakış açısını belirler. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958559,
+        "objective_code":"T.11.1.5.11",
+        "objective":"      Metinde fikrî, felsefi veya siyasi akım, gelenek veya anlayışların yansımalarını değerlendirir.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958560,
+        "objective_code":"T.11.1.5.12",
+        "objective":"      Metni yorumlar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958561,
+        "objective_code":"T.11.1.5.13",
+        "objective":"      Yazar ve metin arasındaki ilişkiyi değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958562,
+        "objective_code":"T.11.1.5.14",
+        "objective":"      Türün ve dönemin\/akımın diğer önemli yazarlarını ve eserlerini sıralar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958563,
+        "objective_code":"T.11.1.5.15",
+        "objective":"      Metinlerden hareketle dil bilgisi çalışmaları yapar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958550,
+        "objective_code":"T.11.1.5.2",
+        "objective":"      Metnin türünün ortaya çıkışı ve tarihsel dönemle ilişkisini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958551,
+        "objective_code":"T.11.1.5.3",
+        "objective":"      Metin ile metnin konusu, amacı ve hedef kitlesi arasında ilişki kurar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958552,
+        "objective_code":"T.11.1.5.4",
+        "objective":"      Metnin ana düşüncesi ve yardımcı düşüncelerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958553,
+        "objective_code":"T.11.1.5.5",
+        "objective":"      Metindeki anlatım biçimlerini, düşünceyi geliştirme yollarını ve bunların işlevlerini belirler.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958554,
+        "objective_code":"T.11.1.5.6",
+        "objective":"      Metnin görsel unsurlarla ilişkisini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958555,
+        "objective_code":"T.11.1.5.7",
+        "objective":"      Metnin üslup özelliklerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958556,
+        "objective_code":"T.11.1.5.8",
+        "objective":"      Metinde millî, manevi ve evrensel değerler ile sosyal, siyasi, tarihî ve mitolojik ögeleri belirler.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958557,
+        "objective_code":"T.11.1.5.9",
+        "objective":"      Metinde ortaya konulan bilgi ve yorumları ayırt eder. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958564,
+        "objective_code":"T.11.1.6",
+        "objective":"   MAKALE ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958565,
+        "objective_code":"T.11.1.6.1",
+        "objective":"      Metnin seçilmiş bölümündeki cümlelerin ögeleri bulunur.  ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958566,
+        "objective_code":"T.11.1.6.2",
+        "objective":"      Metinler üzerinden imla ve noktalama çalışmaları yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958567,
+        "objective_code":"T.11.1.7",
+        "objective":"   SOHBET VE FIKRA ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958568,
+        "objective_code":"T.11.1.7.1",
+        "objective":"      Metindeki cümlelerin ögeleri bulunur. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958569,
+        "objective_code":"T.11.1.7.2",
+        "objective":"      Metinler üzerinden imla ve noktalama çalışmaları yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958570,
+        "objective_code":"T.11.1.8",
+        "objective":"   ELEŞTİRİ ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958571,
+        "objective_code":"T.11.1.8.1",
+        "objective":"      Anlatım bozukluklarıyla ilgili çalışmalar yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958572,
+        "objective_code":"T.11.1.8.2",
+        "objective":"      Metinler üzerinden imla ve noktalama çalışmaları yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958573,
+        "objective_code":"T.11.1.9",
+        "objective":"   MÜLAKAT\/RÖPORTAJ ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958574,
+        "objective_code":"T.11.1.9.1",
+        "objective":"      Anlatım bozukluklarıyla ilgili çalışmalar yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958575,
+        "objective_code":"T.11.1.9.2",
+        "objective":"      Metinler üzerinden imla ve noktalama çalışmaları yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958576,
+        "objective_code":"T.11.2",
+        "objective":"YAZMA ",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958577,
+        "objective_code":"T.11.2.1",
+        "objective":"   Farklı türlerde metinler yazar. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958586,
+        "objective_code":"T.11.2.10",
+        "objective":"   Yazdığı metni gözden geçirir. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958587,
+        "objective_code":"T.11.2.11",
+        "objective":"   Ürettiği ve paylaştığı metinlerin sorumluluğunu üstlenir. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958588,
+        "objective_code":"T.11.2.12",
+        "objective":"   Yazdığı metni başkalarıyla paylaşır. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958578,
+        "objective_code":"T.11.2.2",
+        "objective":"   Yazacağı metnin türüne göre konu, tema, ana düşünce, amaç ve hedef kitleyi belirler. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958579,
+        "objective_code":"T.11.2.3",
+        "objective":"   Yazma konusuyla ilgili hazırlık yapar. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958580,
+        "objective_code":"T.11.2.4",
+        "objective":"   Yazacağı metni planlar. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958581,
+        "objective_code":"T.11.2.5",
+        "objective":"   Metin türüne özgü yapı özelliklerine uygun yazar.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958582,
+        "objective_code":"T.11.2.6",
+        "objective":"   Metin türüne özgü dil ve anlatım özelliklerine uygun yazar. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958583,
+        "objective_code":"T.11.2.7",
+        "objective":"   İyi bir anlatımda bulunması gereken özelliklere dikkat ederek yazar. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958584,
+        "objective_code":"T.11.2.8",
+        "objective":"   Farklı cümle yapılarını ve türlerini kullanır. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958585,
+        "objective_code":"T.11.2.9",
+        "objective":"   Görsel ve işitsel unsurları doğru ve etkili kullanır. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958589,
+        "objective_code":"T.11.3",
+        "objective":"SÖZLÜ İLETİŞİM ",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958590,
+        "objective_code":"T.11.3.1",
+        "objective":"   KONUŞMA ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958591,
+        "objective_code":"T.11.3.1.1",
+        "objective":"      İletişim sürecini oluşturan ögeleri ve iletişimde dilin önemini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958600,
+        "objective_code":"T.11.3.1.10",
+        "objective":"      Konuşurken gereksiz ses ve kelimeler kullanmaktan kaçınır. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958601,
+        "objective_code":"T.11.3.1.11",
+        "objective":"      Konuşmasında beden dilini doğru ve etkili biçimde kullanır. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958602,
+        "objective_code":"T.11.3.1.12",
+        "objective":"      Konuşmasına etkili bir başlangıç yapar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958603,
+        "objective_code":"T.11.3.1.13",
+        "objective":"      Konuşmasının içeriğini zenginleştirir. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958604,
+        "objective_code":"T.11.3.1.14",
+        "objective":"      Konuşmasında önemli noktaları vurgulayan ve konuşmayı takip etmeyi kolaylaştıran ifadeler kullanır. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958605,
+        "objective_code":"T.11.3.1.15",
+        "objective":"      Konuşmasını etkili bir biçimde sonlandırır. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958606,
+        "objective_code":"T.11.3.1.16",
+        "objective":"      Konuşmasında süreyi verimli kullanır. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958607,
+        "objective_code":"T.11.3.1.17",
+        "objective":"      Konuşmasında teknolojik araçları etkili biçimde kullanır. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958592,
+        "objective_code":"T.11.3.1.2",
+        "objective":"      Konuşmanın konusunu, amacını, hedef kitlesini ve türünü belirler. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958593,
+        "objective_code":"T.11.3.1.3",
+        "objective":"      Konuyla ilgili gözlem, inceleme veya araştırma yapar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958594,
+        "objective_code":"T.11.3.1.4",
+        "objective":"      Konuşma metnini planlar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958595,
+        "objective_code":"T.11.3.1.5",
+        "objective":"      Konuşma planına uygun olarak konuşma kartları hazırlar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958596,
+        "objective_code":"T.11.3.1.6",
+        "objective":"      Konuşmasında yararlanacağı görsel ve işitsel araçları hazırlar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958597,
+        "objective_code":"T.11.3.1.7",
+        "objective":"      Konuşmasına uygun sunu hazırlar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958598,
+        "objective_code":"T.11.3.1.8",
+        "objective":"      Konuşma provası yapar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958599,
+        "objective_code":"T.11.3.1.9",
+        "objective":"      Boğumlama, vurgulama, tonlama ve duraklamaya dikkat ederek konuşur. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958608,
+        "objective_code":"T.11.3.2",
+        "objective":"   DİNLEME ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958609,
+        "objective_code":"T.11.3.2.1",
+        "objective":"      Amacına uygun dinleme tekniklerini kullanır. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958610,
+        "objective_code":"T.11.3.2.2",
+        "objective":"      Dinlediği konuşmanın konu ve ana düşüncesini tespit eder. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958611,
+        "objective_code":"T.11.3.2.3",
+        "objective":"      Dinlediği konuşmada konu akışını takip eder. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958612,
+        "objective_code":"T.11.3.2.4",
+        "objective":"      Dinlediği konuşmadaki açık ve örtük iletileri belirler. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958613,
+        "objective_code":"T.11.3.2.5",
+        "objective":"      Dinlediklerini özetler. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958614,
+        "objective_code":"T.11.3.2.6",
+        "objective":"      Dinlediklerini ön bilgileriyle karşılaştırır. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958615,
+        "objective_code":"T.11.3.2.7",
+        "objective":"      Dinlediği konuşmanın tutarlılığını sorgular. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"turkish",
+        "code":958616,
+        "objective_code":"T.11.3.2.8",
+        "objective":"      Dinlediği konuşmada öne sürülen düşüncelerin dayanaklarının geçerliliğini sorgular. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958617,
+        "objective_code":"T.12.1",
+        "objective":"OKUMA (METNİ ANLAMA VE ÇÖZÜMLEME) ",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958618,
+        "objective_code":"T.12.1.1",
+        "objective":"   GİRİŞ    ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958619,
+        "objective_code":"T.12.1.1.1",
+        "objective":"      Metinler üzerinden imla ve noktalama çalışmaları yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958620,
+        "objective_code":"T.12.1.1.2",
+        "objective":"      Kelimede anlam ile ilgili çalışmalar yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958621,
+        "objective_code":"T.12.1.2",
+        "objective":"   ŞİİR ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958622,
+        "objective_code":"T.12.1.2.1",
+        "objective":"      Metinde geçen kelime ve kelime gruplarının anlamlarını tespit eder. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958631,
+        "objective_code":"T.12.1.2.10",
+        "objective":"      Şair ile şiir arasındaki ilişkiyi değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958632,
+        "objective_code":"T.12.1.2.11",
+        "objective":"      Türün\/biçimin ve dönemin\/akımın diğer önemli yazarlarını ve eserlerini sıralar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958633,
+        "objective_code":"T.12.1.2.12",
+        "objective":"      Metinden hareketle dil bilgisi çalışmaları yapar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958634,
+        "objective_code":"T.12.1.2.13",
+        "objective":"      Metinler arası karşılaştırmalar yapar.  ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958635,
+        "objective_code":"T.12.1.2.14",
+        "objective":"      Metinler üzerinden imla ve noktalama çalışmaları yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958636,
+        "objective_code":"T.12.1.2.15",
+        "objective":"      Metinler üzerinde kelimede anlam ile ilgili çalışmalar yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958623,
+        "objective_code":"T.12.1.2.2",
+        "objective":"      Şiirin temasını belirler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958624,
+        "objective_code":"T.12.1.2.3",
+        "objective":"      Şiirde ahengi sağlayan özellikleri\/unsurları belirler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958625,
+        "objective_code":"T.12.1.2.4",
+        "objective":"      Şiirin nazım biçimini ve nazım türünü tespit eder. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958626,
+        "objective_code":"T.12.1.2.5",
+        "objective":"      Şiirdeki mazmun, imge ve edebî sanatları belirleyerek bunların anlama katkısını değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958627,
+        "objective_code":"T.12.1.2.6",
+        "objective":"      Şiirde söyleyici ile hitap edilen kişi\/varlık arasındaki ilişkiyi belirler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958628,
+        "objective_code":"T.12.1.2.7",
+        "objective":"      Şiirde millî, manevi ve evrensel değerler ile sosyal, siyasi, tarihî ve mitolojik ögeleri belirler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958629,
+        "objective_code":"T.12.1.2.8",
+        "objective":"      Şiirde edebiyat, sanat ve fikir akımlarının\/anlayışlarının yansımalarını değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958630,
+        "objective_code":"T.12.1.2.9",
+        "objective":"      Şiiri yorumlar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958637,
+        "objective_code":"T.12.1.3",
+        "objective":"   ÖYKÜLEYİCİ (ANLATMAYA BAĞLI) EDEBÎ METİNLER (Masal\/Fabl, Destan, Mesnevi, Hikâye, Roman vb.) ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958638,
+        "objective_code":"T.12.1.3.1",
+        "objective":"      Metinde geçen kelime ve kelime gruplarının anlamlarını tespit eder. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958647,
+        "objective_code":"T.12.1.3.10",
+        "objective":"      Metnin üslup özelliklerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958648,
+        "objective_code":"T.12.1.3.11",
+        "objective":"      Metinde millî, manevi ve evrensel değerler ile sosyal, siyasi, tarihî ve mitolojik ögeleri belirler.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958649,
+        "objective_code":"T.12.1.3.12",
+        "objective":"      Metinde edebiyat, sanat ve fikir akımlarının\/anlayışlarının yansımalarını değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958650,
+        "objective_code":"T.12.1.3.13",
+        "objective":"      Metni yorumlar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958651,
+        "objective_code":"T.12.1.3.14",
+        "objective":"      Yazar ile metin arasındaki ilişkiyi değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958652,
+        "objective_code":"T.12.1.3.15",
+        "objective":"      Türün ve dönemin\/akımın diğer önemli yazarlarını ve eserlerini sıralar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958653,
+        "objective_code":"T.12.1.3.16",
+        "objective":"      Metinlerden hareketle dil bilgisi çalışmaları yapar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958654,
+        "objective_code":"T.12.1.3.17",
+        "objective":"      Metinler üzerinden imla ve noktalama çalışmaları yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958655,
+        "objective_code":"T.12.1.3.18",
+        "objective":"      Metinler üzerinde kelimede anlam ile ilgili çalışmalar yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958656,
+        "objective_code":"T.12.1.3.19",
+        "objective":"      Paragrafta anlam ile ilgili çalışmalar yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958639,
+        "objective_code":"T.12.1.3.2",
+        "objective":"      Metnin türünün ortaya çıkışı ve tarihsel dönem ile ilişkisini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958640,
+        "objective_code":"T.12.1.3.3",
+        "objective":"      Metnin tema ve konusunu belirler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958641,
+        "objective_code":"T.12.1.3.4",
+        "objective":"      Metindeki çatışmaları belirler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958642,
+        "objective_code":"T.12.1.3.5",
+        "objective":"      Metnin olay örgüsünü belirler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958643,
+        "objective_code":"T.12.1.3.6",
+        "objective":"      Metindeki şahıs kadrosunun özelliklerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958644,
+        "objective_code":"T.12.1.3.7",
+        "objective":"      Metindeki zaman ve mekânın özelliklerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958645,
+        "objective_code":"T.12.1.3.8",
+        "objective":"      Metinde anlatıcı ve bakış açısının işlevini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958646,
+        "objective_code":"T.12.1.3.9",
+        "objective":"      Metindeki anlatım biçimleri ve tekniklerinin işlevlerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958657,
+        "objective_code":"T.12.1.4",
+        "objective":"   TİYATRO ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958658,
+        "objective_code":"T.12.1.4.1",
+        "objective":"      Metinde geçen kelime ve kelime gruplarının anlamlarını tespit eder. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958667,
+        "objective_code":"T.12.1.4.10",
+        "objective":"      Metinde edebiyat, sanat ve fikir akımlarının\/anlayışlarının yansımalarını değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958668,
+        "objective_code":"T.12.1.4.11",
+        "objective":"      Metni yorumlar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958669,
+        "objective_code":"T.12.1.4.12",
+        "objective":"      Yazar ve metin arasındaki ilişkiyi değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958670,
+        "objective_code":"T.12.1.4.13",
+        "objective":"      Türün ve dönemin\/akımın diğer önemli yazarlarını ve eserlerini sıralar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958671,
+        "objective_code":"T.12.1.4.14",
+        "objective":"      Metinlerden hareketle dil bilgisi çalışmaları yapar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958672,
+        "objective_code":"T.12.1.4.15",
+        "objective":"      Metinler üzerinden imla ve noktalama çalışmaları yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958673,
+        "objective_code":"T.12.1.4.16",
+        "objective":"      Paragrafta anlam ile ilgili çalışmalar yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958659,
+        "objective_code":"T.12.1.4.2",
+        "objective":"      Metnin türünün ortaya çıkışı ve tarihsel dönemle ilişkisini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958660,
+        "objective_code":"T.12.1.4.3",
+        "objective":"      Metnin tema ve konusunu belirler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958661,
+        "objective_code":"T.12.1.4.4",
+        "objective":"      Metindeki çatışmaları belirler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958662,
+        "objective_code":"T.12.1.4.5",
+        "objective":"      Metindeki olay örgüsünü belirler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958663,
+        "objective_code":"T.12.1.4.6",
+        "objective":"      Metindeki şahıs kadrosunun özelliklerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958664,
+        "objective_code":"T.12.1.4.7",
+        "objective":"      Metindeki zaman ve mekânın özelliklerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958665,
+        "objective_code":"T.12.1.4.8",
+        "objective":"      Metnin dil, üslup ve anlatım\/sunum özelliklerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958666,
+        "objective_code":"T.12.1.4.9",
+        "objective":"      Metinde millî, manevi ve evrensel değerler ile sosyal, siyasi, tarihî ve mitolojik ögeleri belirler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958674,
+        "objective_code":"T.12.1.5",
+        "objective":"   BİLGİLENDİRİCİ (ÖĞRETİCİ) METİNLER ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958675,
+        "objective_code":"T.12.1.5.1",
+        "objective":"      Metinde geçen kelime ve kelime gruplarının anlamlarını tespit eder. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958684,
+        "objective_code":"T.12.1.5.10",
+        "objective":"      Metinde yazarın bakış açısını belirler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958685,
+        "objective_code":"T.12.1.5.11",
+        "objective":"      Metinde fikrî, felsefi veya siyasi akım, gelenek veya anlayışların yansımalarını değerlendirir.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958686,
+        "objective_code":"T.12.1.5.12",
+        "objective":"      Metni yorumlar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958687,
+        "objective_code":"T.12.1.5.13",
+        "objective":"      Yazar ve metin arasındaki ilişkiyi değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958688,
+        "objective_code":"T.12.1.5.14",
+        "objective":"      Türün ve dönemin\/akımın diğer önemli yazarlarını ve eserlerini sıralar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958689,
+        "objective_code":"T.12.1.5.15",
+        "objective":"      Metinlerden hareketle dil bilgisi çalışmaları yapar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958676,
+        "objective_code":"T.12.1.5.2",
+        "objective":"      Metnin türünün ortaya çıkışı ve tarihsel dönemle ilişkisini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958677,
+        "objective_code":"T.12.1.5.3",
+        "objective":"      Metin ile metnin konusu, amacı ve hedef kitlesi arasında ilişki kurar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958678,
+        "objective_code":"T.12.1.5.4",
+        "objective":"      Metnin ana düşüncesi ve yardımcı düşüncelerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958679,
+        "objective_code":"T.12.1.5.5",
+        "objective":"      Metindeki anlatım biçimlerini, düşünceyi geliştirme yollarını ve bunların işlevlerini belirler.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958680,
+        "objective_code":"T.12.1.5.6",
+        "objective":"      Metnin görsel unsurlarla ilişkisini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958681,
+        "objective_code":"T.12.1.5.7",
+        "objective":"      Metnin üslup özelliklerini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958682,
+        "objective_code":"T.12.1.5.8",
+        "objective":"      Metinde millî, manevi ve evrensel değerler ile sosyal, siyasi, tarihî ve mitolojik ögeleri belirler.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958683,
+        "objective_code":"T.12.1.5.9",
+        "objective":"      Metinde ortaya konulan bilgi ve yorumları ayırt eder. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958690,
+        "objective_code":"T.12.1.6",
+        "objective":"   DENEME ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958691,
+        "objective_code":"T.12.1.6.1",
+        "objective":"      Metinler üzerinden imla ve noktalama çalışmaları yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958692,
+        "objective_code":"T.12.1.6.2",
+        "objective":"      Paragrafta anlam ile ilgili çalışmalar yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958693,
+        "objective_code":"T.12.1.7",
+        "objective":"   SÖYLEV (NUTUK) ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958694,
+        "objective_code":"T.12.1.7.1",
+        "objective":"      Paragrafta anlam ile ilgili çalışmalar yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958695,
+        "objective_code":"T.12.1.7.2",
+        "objective":"      Metinler üzerinden imla ve noktalama çalışmaları yapılır. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958696,
+        "objective_code":"T.12.2",
+        "objective":"YAZMA ",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958697,
+        "objective_code":"T.12.2.1",
+        "objective":"   Farklı türlerde metinler yazar. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958706,
+        "objective_code":"T.12.2.10",
+        "objective":"   Yazdığı metni gözden geçirir. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958707,
+        "objective_code":"T.12.2.11",
+        "objective":"   Ürettiği ve paylaştığı metinlerin sorumluluğunu üstlenir. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958708,
+        "objective_code":"T.12.2.12",
+        "objective":"   Yazdığı metni başkalarıyla paylaşır. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958698,
+        "objective_code":"T.12.2.2",
+        "objective":"   Yazacağı metnin türüne göre konu, tema, ana düşünce, amaç ve hedef kitleyi belirler. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958699,
+        "objective_code":"T.12.2.3",
+        "objective":"   Yazma konusuyla ilgili hazırlık yapar. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958700,
+        "objective_code":"T.12.2.4",
+        "objective":"   Yazacağı metni planlar. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958701,
+        "objective_code":"T.12.2.5",
+        "objective":"   Metin türüne özgü yapı özelliklerine uygun yazar.",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958702,
+        "objective_code":"T.12.2.6",
+        "objective":"   Metin türüne özgü dil ve anlatım özelliklerine uygun yazar. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958703,
+        "objective_code":"T.12.2.7",
+        "objective":"   İyi bir anlatımda bulunması gereken özelliklere dikkat ederek yazar. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958704,
+        "objective_code":"T.12.2.8",
+        "objective":"   Farklı cümle yapılarını ve türlerini kullanır. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958705,
+        "objective_code":"T.12.2.9",
+        "objective":"   Görsel ve işitsel unsurları doğru ve etkili kullanır. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958709,
+        "objective_code":"T.12.3",
+        "objective":"SÖZLÜ İLETİŞİM ",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958710,
+        "objective_code":"T.12.3.1",
+        "objective":"   KONUŞMA ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958711,
+        "objective_code":"T.12.3.1.1",
+        "objective":"      İletişim sürecini oluşturan ögeleri ve iletişimde dilin önemini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958720,
+        "objective_code":"T.12.3.1.10",
+        "objective":"      Konuşurken gereksiz ses ve kelimeler kullanmaktan kaçınır. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958721,
+        "objective_code":"T.12.3.1.11",
+        "objective":"      Konuşmasında beden dilini doğru ve etkili biçimde kullanır. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958722,
+        "objective_code":"T.12.3.1.12",
+        "objective":"      Konuşmasına etkili bir başlangıç yapar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958723,
+        "objective_code":"T.12.3.1.13",
+        "objective":"      Konuşmasının içeriğini zenginleştirir. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958724,
+        "objective_code":"T.12.3.1.14",
+        "objective":"      Konuşmasında önemli noktaları vurgulayan ve konuşmayı takip etmeyi kolaylaştıran ifadeler kullanır. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958725,
+        "objective_code":"T.12.3.1.15",
+        "objective":"      Konuşmasını etkili bir biçimde sonlandırır. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958726,
+        "objective_code":"T.12.3.1.16",
+        "objective":"      Konuşmasında süreyi verimli kullanır. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958727,
+        "objective_code":"T.12.3.1.17",
+        "objective":"      Konuşmasında teknolojik araçları etkili biçimde kullanır. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958712,
+        "objective_code":"T.12.3.1.2",
+        "objective":"      Konuşmanın konusunu, amacını, hedef kitlesini ve türünü belirler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958713,
+        "objective_code":"T.12.3.1.3",
+        "objective":"      Konuyla ilgili gözlem, inceleme veya araştırma yapar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958714,
+        "objective_code":"T.12.3.1.4",
+        "objective":"      Konuşma metnini planlar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958715,
+        "objective_code":"T.12.3.1.5",
+        "objective":"      Konuşma planına uygun olarak konuşma kartları hazırlar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958716,
+        "objective_code":"T.12.3.1.6",
+        "objective":"      Konuşmasında yararlanacağı görsel ve işitsel araçları hazırlar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958717,
+        "objective_code":"T.12.3.1.7",
+        "objective":"      Konuşmasına uygun sunu hazırlar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958718,
+        "objective_code":"T.12.3.1.8",
+        "objective":"      Konuşma provası yapar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958719,
+        "objective_code":"T.12.3.1.9",
+        "objective":"      Boğumlama, vurgulama, tonlama ve duraklamaya dikkat ederek konuşur. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958728,
+        "objective_code":"T.12.3.2",
+        "objective":"   DİNLEME ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958729,
+        "objective_code":"T.12.3.2.1",
+        "objective":"      Amacına uygun dinleme tekniklerini kullanır. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958730,
+        "objective_code":"T.12.3.2.2",
+        "objective":"      Dinlediği konuşmanın konu ve ana düşüncesini tespit eder. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958731,
+        "objective_code":"T.12.3.2.3",
+        "objective":"      Dinlediği konuşmada konu akışını takip eder. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958732,
+        "objective_code":"T.12.3.2.4",
+        "objective":"      Dinlediği konuşmadaki açık ve örtük iletileri belirler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958733,
+        "objective_code":"T.12.3.2.5",
+        "objective":"      Dinlediklerini özetler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958734,
+        "objective_code":"T.12.3.2.6",
+        "objective":"      Dinlediklerini ön bilgileriyle karşılaştırır. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958735,
+        "objective_code":"T.12.3.2.7",
+        "objective":"      Dinlediği konuşmanın tutarlılığını sorgular. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"turkish",
+        "code":958736,
+        "objective_code":"T.12.3.2.8",
+        "objective":"      Dinlediği konuşmada öne sürülen düşüncelerin dayanaklarının geçerliliğini sorgular. ",
+        "depth":3
+    }
+]

@@ -1,0 +1,1170 @@
+[
+    {
+        "grade":9,
+        "subject":"geography",
+        "code":959756,
+        "objective_code":"COĞ.9.1",
+        "objective":"DOĞAL SİSTEMLER ",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"geography",
+        "code":959757,
+        "objective_code":"COĞ.9.1.1",
+        "objective":"   Doğa ve insan etkileşimini örneklerle açıklar.  ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"geography",
+        "code":959766,
+        "objective_code":"COĞ.9.1.10",
+        "objective":"   Örneklerden yararlanarak hava durumu ile iklim özelliklerini etkileri açısından karşılaştırır.     ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"geography",
+        "code":959767,
+        "objective_code":"COĞ.9.1.11",
+        "objective":"   İklim elemanlarının oluşumunu ve dağılışını açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"geography",
+        "code":959768,
+        "objective_code":"COĞ.9.1.12",
+        "objective":"   Yeryüzündeki farklı iklim tiplerinin özellikleri ve dağılışları hakkında çıkarımlarda bulunur",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"geography",
+        "code":959769,
+        "objective_code":"COĞ.9.1.13",
+        "objective":"   Türkiye’de görülen iklim tiplerinin özellikleri hakkında çıkarımlarda bulunur. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"geography",
+        "code":959758,
+        "objective_code":"COĞ.9.1.2",
+        "objective":"   Coğrafyanın konularını ve bölümlenmesini açıklar.",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"geography",
+        "code":959759,
+        "objective_code":"COĞ.9.1.3",
+        "objective":"   Coğrafya biliminin gelişimini açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"geography",
+        "code":959760,
+        "objective_code":"COĞ.9.1.4",
+        "objective":"   Dünya’nın şekli ve hareketlerinin etkilerini değerlendirir. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"geography",
+        "code":959761,
+        "objective_code":"COĞ.9.1.5",
+        "objective":"   Koordinat sistemini kullanarak zaman ve yere ait özellikler hakkında çıkarımlarda bulunur. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"geography",
+        "code":959762,
+        "objective_code":"COĞ.9.1.6",
+        "objective":"   Haritayı oluşturan unsurlardan yararlanarak harita kullanır. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"geography",
+        "code":959763,
+        "objective_code":"COĞ.9.1.7",
+        "objective":"   Bilgileri haritalara aktarmada kullanılan yöntem ve teknikleri açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"geography",
+        "code":959764,
+        "objective_code":"COĞ.9.1.8",
+        "objective":"   Haritalarda yer şekillerinin gösteriminde kullanılan yöntem ve teknikleri açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"geography",
+        "code":959765,
+        "objective_code":"COĞ.9.1.9",
+        "objective":"   Atmosferin katmanları ve özellikleri ile hava olaylarını ilişkilendirir. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"geography",
+        "code":959770,
+        "objective_code":"COĞ.9.2",
+        "objective":"BEŞERÎ SİSTEMLER ",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"geography",
+        "code":959771,
+        "objective_code":"COĞ.9.2.1",
+        "objective":"   Yerleşmelerin gelişimini etkileyen faktörleri analiz eder.",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"geography",
+        "code":959772,
+        "objective_code":"COĞ.9.2.2",
+        "objective":"   Yerleşme doku ve tiplerinin oluşumunda etkili olan faktörleri örneklerle açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"geography",
+        "code":959773,
+        "objective_code":"COĞ.9.2.3",
+        "objective":"   Türkiye’de yerleşmelerin dağılışını etkileyen faktörleri örneklerle açıklar.",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"geography",
+        "code":959774,
+        "objective_code":"COĞ.9.2.4",
+        "objective":"   Türkiye’deki yerleşim birimlerini idari fonksiyonlarına göre ayırt eder. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"geography",
+        "code":959775,
+        "objective_code":"COĞ.9.3",
+        "objective":"KÜRESEL ORTAM: BÖLGELER VE ÜLKELER ",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"geography",
+        "code":959776,
+        "objective_code":"COĞ.9.3.1",
+        "objective":"   Dünyadaki farklı bölge örneklerini, özellikleri ve bölge belirlemede kullanılan kriterler açısından değerlendirir. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"geography",
+        "code":959777,
+        "objective_code":"COĞ.9.3.2",
+        "objective":"   Bölge sınırlarının amaca göre değişebilirliğini örneklerle açıklar.",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"geography",
+        "code":959778,
+        "objective_code":"COĞ.9.3.3",
+        "objective":"   Harita kullanarak çeşitli coğrafi kriterlerle belirlenmiş bölgelerde bulunan ülkeleri sınıflandırır. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"geography",
+        "code":959779,
+        "objective_code":"COĞ.9.4",
+        "objective":"ÇEVRE VE TOPLUM ",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"geography",
+        "code":959780,
+        "objective_code":"COĞ.9.4.1",
+        "objective":"   İnsanların doğal çevreyi kullanma biçimlerini örneklendirir. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"geography",
+        "code":959781,
+        "objective_code":"COĞ.9.4.2",
+        "objective":"   Doğal ortamda insan etkisiyle meydana gelen değişimleri sonuçları açısından değerlendirir. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959782,
+        "objective_code":"COĞ.10.1",
+        "objective":"DOĞAL SİSTEMLER ",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959783,
+        "objective_code":"COĞ.10.1.1",
+        "objective":"   Dünya’nın tektonik oluşumunu açıklar.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959792,
+        "objective_code":"COĞ.10.1.10",
+        "objective":"   Türkiye’deki su varlıklarının genel özelliklerini ve dağılışını açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959793,
+        "objective_code":"COĞ.10.1.11",
+        "objective":"   Türkiye’deki su varlığını verimli kullanmanın ekonomik, sosyal ve kültürel etkilerini değerlendirir. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959794,
+        "objective_code":"COĞ.10.1.12",
+        "objective":"   Yeryüzündeki toprak çeşitliliğini oluşum süreçleri ile ilişkilendirir. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959795,
+        "objective_code":"COĞ.10.1.13",
+        "objective":"   Türkiye’deki toprakların dağılışını etkileyen faktörler ile toprak tiplerini ilişkilendirir. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959796,
+        "objective_code":"COĞ.10.1.14",
+        "objective":"   Türkiye topraklarının kullanımını verimlilik açısından değerlendirir. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959797,
+        "objective_code":"COĞ.10.1.15",
+        "objective":"   Bitki toplulukları ve türlerini genel özelliklerine göre sınıflandırır.   ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959798,
+        "objective_code":"COĞ.10.1.16",
+        "objective":"   Bitki topluluklarının dağılışı ile iklim ve yer şekillerini ilişkilendirir. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959799,
+        "objective_code":"COĞ.10.1.17",
+        "objective":"   Türkiye’deki doğal bitki topluluklarının dağılışını yetişme şartları açısından analiz eder.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959784,
+        "objective_code":"COĞ.10.1.2",
+        "objective":"   Jeolojik zamanların özelliklerini tektonik olaylarla ilişkilendirerek açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959785,
+        "objective_code":"COĞ.10.1.3",
+        "objective":"   İç kuvvetleri; yer şekillerinin oluşum sürecine etkileri açısından açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959786,
+        "objective_code":"COĞ.10.1.4",
+        "objective":"   Kayaçların özellikleri ile yeryüzü şekillerinin oluşum süreçlerini ilişkilendirir. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959787,
+        "objective_code":"COĞ.10.1.5",
+        "objective":"   Türkiye’deki yer şekillerinin oluşum sürecine iç kuvvetlerin etkisini açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959788,
+        "objective_code":"COĞ.10.1.6",
+        "objective":"   Dış kuvvetleri yer şekillerinin oluşum sürecine etkileri açısından açıklar.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959789,
+        "objective_code":"COĞ.10.1.7",
+        "objective":"   Türkiye’deki yer şekillerinin oluşum sürecine dış kuvvetlerin etkisini açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959790,
+        "objective_code":"COĞ.10.1.8",
+        "objective":"   Türkiye’deki ana yer şekillerini temel özellikleri ve dağılışları açısından değerlendirir.  ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959791,
+        "objective_code":"COĞ.10.1.9",
+        "objective":"   Yeryüzündeki su varlıklarını özelliklerine göre sınıflandırır. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959800,
+        "objective_code":"COĞ.10.2",
+        "objective":"BEŞERÎ SİSTEMLER ",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959801,
+        "objective_code":"COĞ.10.2.1",
+        "objective":"   İstatistiki verilerden yararlanarak nüfus özellikleri ve nüfusun önemi hakkında çıkarımlarda bulunur.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959810,
+        "objective_code":"COĞ.10.2.10",
+        "objective":"   Göçün mekânsal etkilerini Türkiye'den örneklerle açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959811,
+        "objective_code":"COĞ.10.2.11",
+        "objective":"   Ekonomik faaliyetleri temel özelliklerine göre ayırt eder. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959812,
+        "objective_code":"COĞ.10.2.12",
+        "objective":"   Ekonomik faaliyet türlerinin oransal dağılımına ilişkin verileri, ülkelerin gelişmişlik düzeyleriyle ilişkilendirerek çıkarımda bulunur. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959802,
+        "objective_code":"COĞ.10.2.2",
+        "objective":"   İstatistiki verilerden yararlanarak dünya nüfusunun tarihsel süreçteki değişimine ilişkin çıkarımlarda bulunur. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959803,
+        "objective_code":"COĞ.10.2.3",
+        "objective":"   Nüfusun dağılışı üzerinde etkili olan faktörler ile dünya nüfusunun dağılışını ilişkilendirir. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959804,
+        "objective_code":"COĞ.10.2.4",
+        "objective":"   Nüfus piramitlerinden hareketle nüfusun yapısıyla ilgili çıkarımlarda bulunur. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959805,
+        "objective_code":"COĞ.10.2.5",
+        "objective":"   Türkiye’de nüfusun tarihsel seyrini sosyal ve ekonomik faktörler açısından değerlendirir. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959806,
+        "objective_code":"COĞ.10.2.6",
+        "objective":"   Türkiye’de nüfusun dağılışını, nüfusun dağılışında etkili olan faktörler açısından değerlendirir.   ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959807,
+        "objective_code":"COĞ.10.2.7",
+        "objective":"   Güncel verilerden yararlanarak Türkiye nüfusunun yapısal özelliklerini analiz eder. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959808,
+        "objective_code":"COĞ.10.2.8",
+        "objective":"   Tarihî metin, belge ve haritalardan yararlanarak dünyadaki göçlerin nedenleri ve sonuçları hakkında çıkarımlarda bulunur. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959809,
+        "objective_code":"COĞ.10.2.9",
+        "objective":"   Türkiye’deki göçleri sebep ve sonuçları açısından değerlendirir. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959813,
+        "objective_code":"COĞ.10.3",
+        "objective":"KÜRESEL ORTAM: BÖLGELER VE ÜLKELER ",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959814,
+        "objective_code":"COĞ.10.3.1",
+        "objective":"   Uluslararası ulaşım hatlarını bölgesel ve küresel etkileri açısından analiz eder. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959815,
+        "objective_code":"COĞ.10.4",
+        "objective":"ÇEVRE VE TOPLUM",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959816,
+        "objective_code":"COĞ.10.4.1",
+        "objective":"   Afetlerin oluşum nedenlerini ve özelliklerini açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959817,
+        "objective_code":"COĞ.10.4.2",
+        "objective":"   Afetlerin dağılışları ile etkilerini ilişkilendirir.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959818,
+        "objective_code":"COĞ.10.4.3",
+        "objective":"   Türkiye’deki afetlerin dağılışları ile etkilerini ilişkilendirir. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"geography",
+        "code":959819,
+        "objective_code":"COĞ.10.4.4",
+        "objective":"   Afetlerden korunma yöntemlerini açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959820,
+        "objective_code":"COĞ.11.1",
+        "objective":"DOĞAL SİSTEMLER",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959821,
+        "objective_code":"COĞ.11.1.1",
+        "objective":"   Biyoçeşitliliğin oluşumu ve azalmasında etkili olan faktörleri açıklar.   ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959822,
+        "objective_code":"COĞ.11.1.2",
+        "objective":"   Ekosistemi oluşturan unsurları ayırt eder. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959823,
+        "objective_code":"COĞ.11.1.3",
+        "objective":"   Madde döngüleri ve enerji akışını ekosistemin devamlılığı açısından analiz eder.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959824,
+        "objective_code":"COĞ.11.1.4",
+        "objective":"   Su ekosisteminin unsurlarını ve işleyişini açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959825,
+        "objective_code":"COĞ.11.2",
+        "objective":"BEŞERÎ SİSTEMLER ",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959826,
+        "objective_code":"COĞ.11.2.1",
+        "objective":"   Ülkelerin farklı dönemlerde izledikleri nüfus politikaları ve sonuçlarını karşılaştırır.   ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959835,
+        "objective_code":"COĞ.11.2.10",
+        "objective":"   Üretim, dağıtım ve tüketim sektörleri arasındaki ilişkiyi ekonomiye etkisi açısından değerlendirir. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959836,
+        "objective_code":"COĞ.11.2.11",
+        "objective":"   Doğal kaynaklar ile ekonomi ilişkisini açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959837,
+        "objective_code":"COĞ.11.2.12",
+        "objective":"   Türkiye’deki doğal kaynaklar ile ekonomi arasındaki ilişkiyi analiz eder. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959838,
+        "objective_code":"COĞ.11.2.13",
+        "objective":"   Türkiye’de uygulanan ekonomi politikalarını mekânsal etkileri açısından değerlendirir. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959839,
+        "objective_code":"COĞ.11.2.14",
+        "objective":"   Türkiye ekonomisinin sektörel dağılımından hareketle ülke ekonomisi hakkında çıkarımlarda bulunur. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959840,
+        "objective_code":"COĞ.11.2.15",
+        "objective":"   Türkiye’de tarım sektörünün özelliklerini açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959841,
+        "objective_code":"COĞ.11.2.16",
+        "objective":"   Tarımın Türkiye ekonomisindeki yerini açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959842,
+        "objective_code":"COĞ.11.2.17",
+        "objective":"   Türkiye'nin madenleri ve enerji kaynaklarının dağılışını açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959843,
+        "objective_code":"COĞ.11.2.18",
+        "objective":"   Türkiye’nin maden ve enerji kaynaklarının etkin kullanımını ülke ekonomisine katkısı açısından değerlendirir. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959844,
+        "objective_code":"COĞ.11.2.19",
+        "objective":"   Türkiye'de sanayi sektörünün özelliklerini açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959827,
+        "objective_code":"COĞ.11.2.2",
+        "objective":"   Türkiye’nin nüfus politikalarını gerekçeleri açısından değerlendirir.   ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959845,
+        "objective_code":"COĞ.11.2.20",
+        "objective":"   Türkiye sanayisini, ülke ekonomisindeki yeri açısından analiz eder. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959828,
+        "objective_code":"COĞ.11.2.3",
+        "objective":"   Türkiye’nin nüfus projeksiyonlarına dayalı senaryolar oluşturur. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959829,
+        "objective_code":"COĞ.11.2.4",
+        "objective":"   Şehirleri fonksiyonel özellikleri açısından karşılaştırır. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959830,
+        "objective_code":"COĞ.11.2.5",
+        "objective":"   Şehirlerin küresel ve bölgesel etkilerini fonksiyonel açıdan yorumlar.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959831,
+        "objective_code":"COĞ.11.2.6",
+        "objective":"   Türkiye’deki şehirleri fonksiyonlarına göre ayırt eder. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959832,
+        "objective_code":"COĞ.11.2.7",
+        "objective":"   Türkiye’deki kır yerleşme tiplerini ayırt eder. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959833,
+        "objective_code":"COĞ.11.2.8",
+        "objective":"   Doğal unsurları üretim, dağıtım ve tüketim süreçleri üzerindeki etkisi açısından değerlendirir. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959834,
+        "objective_code":"COĞ.11.2.9",
+        "objective":"   Beşerî unsurları üretim, dağıtım ve tüketim süreçleri üzerindeki etkisi açısından değerlendirir. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959846,
+        "objective_code":"COĞ.11.3",
+        "objective":"KÜRESEL ORTAM: BÖLGELER VE ÜLKELER ",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959847,
+        "objective_code":"COĞ.11.3.1",
+        "objective":"   İlk kültür merkezlerinin ortaya çıkışı, yayılışı ve dağılışlarını belirleyen faktörleri açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959848,
+        "objective_code":"COĞ.11.3.2",
+        "objective":"   Farklı kültürel bölgelerin yeryüzünde yayılışına etki eden faktörleri açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959849,
+        "objective_code":"COĞ.11.3.3",
+        "objective":"   Türk kültürünün yayılış alanlarını bölgesel özellikler açısından analiz eder. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959850,
+        "objective_code":"COĞ.11.3.4",
+        "objective":"   Türkiye’nin tarih boyunca medeniyetler merkezi olmasını konumu açısından değerlendirir.   ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959851,
+        "objective_code":"COĞ.11.3.5",
+        "objective":"   Ülkeler ve bölgeler arasındaki ticaret ile ham madde, üretim ve pazar alanlarını ilişkilendirir. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959852,
+        "objective_code":"COĞ.11.3.6",
+        "objective":"   Ülkeler arası etkileşimde turizm faaliyetlerinin rolünü açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959853,
+        "objective_code":"COĞ.11.3.7",
+        "objective":"   Sanayileşmiş bir ülkeyi sanayileşme süreçleri açısından değerlendirir. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959854,
+        "objective_code":"COĞ.11.3.8",
+        "objective":"   Farklı gelişmişlik düzeylerine sahip ülkelerin tarım-ekonomi ilişkisini analiz eder. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959855,
+        "objective_code":"COĞ.11.3.9",
+        "objective":"   Bölgesel ve küresel ölçekteki örgütleri etki alanları açısından değerlendirir. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959856,
+        "objective_code":"COĞ.11.4",
+        "objective":"ÇEVRE VE TOPLUM ",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959857,
+        "objective_code":"COĞ.11.4.1",
+        "objective":"   Çevre sorunlarını oluşum sebeplerine göre sınıflandırır. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959858,
+        "objective_code":"COĞ.11.4.2",
+        "objective":"   Madenlerin ve enerji kaynaklarının çevre üzerindeki etkilerini örneklerle açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959859,
+        "objective_code":"COĞ.11.4.3",
+        "objective":"   Yenilenemeyen kaynakların kullanımını tükenebilirlik ve alternatif kaynaklar açısından analiz eder. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959860,
+        "objective_code":"COĞ.11.4.4",
+        "objective":"   Farklı gelişmişliğe sahip ülkelerdeki doğal kaynak kullanımını çevresel etkileri açısından değerlendirir. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959861,
+        "objective_code":"COĞ.11.4.5",
+        "objective":"   Arazi kullanımına ilişkin farklı uygulamaları çevre üzerindeki etkileri açısından değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959862,
+        "objective_code":"COĞ.11.4.6",
+        "objective":"   Çevre sorunlarının oluşum ve yayılma süreçlerini küresel etkileri açısından analiz eder.  ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"geography",
+        "code":959863,
+        "objective_code":"COĞ.11.4.7",
+        "objective":"   Doğal kaynakların sürdürülebilir kullanımını geri dönüşüm stratejileri açısından değerlendirir. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959864,
+        "objective_code":"COĞ.12.1",
+        "objective":"DOĞAL SİSTEMLER ",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959865,
+        "objective_code":"COĞ.12.1.1",
+        "objective":"   Doğa olaylarının ekstrem durumlarını ve etkilerini açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959866,
+        "objective_code":"COĞ.12.1.2",
+        "objective":"   Doğal sistemlerdeki değişimlerle ilgili geleceğe yönelik çıkarımlarda bulunur. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959867,
+        "objective_code":"COĞ.12.2",
+        "objective":"BEŞERÎ SİSTEMLER",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959868,
+        "objective_code":"COĞ.12.2.1",
+        "objective":"   Bir bölgedeki baskın ekonomik faaliyet türünü sosyal ve kültürel hayata etkileri açısından analiz eder. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959877,
+        "objective_code":"COĞ.12.2.10",
+        "objective":"   Dünya ticaret merkezleri ve ağlarını küresel ekonomideki yerleri açısından analiz eder. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959878,
+        "objective_code":"COĞ.12.2.11",
+        "objective":"   Türkiye’deki ticaret merkezlerinin ticarete konu olan ürünlere ve akış yönlerine etkilerini açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959879,
+        "objective_code":"COĞ.12.2.12",
+        "objective":"   Tarihî ticaret yollarını Türkiye'nin konumu açısından değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959880,
+        "objective_code":"COĞ.12.2.13",
+        "objective":"   Türkiye’nin dış ticaretini ve dünya pazarlarındaki yerini ticarete konu olan ürünler açısından analiz eder.   ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959881,
+        "objective_code":"COĞ.12.2.14",
+        "objective":"   Türkiye'deki doğal ve kültürel sembollerin mekânla ilişkisini açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959882,
+        "objective_code":"COĞ.12.2.15",
+        "objective":"   Türkiye’nin turizm potansiyelini ve varlıklarını açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959883,
+        "objective_code":"COĞ.12.2.16",
+        "objective":"   Türkiye’nin turizm politikalarını çevresel, kültürel ve ekonomik etkileri açısından değerlendirir. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959884,
+        "objective_code":"COĞ.12.2.17",
+        "objective":"   Turizmin Türkiye ekonomisindeki yerini değerlendirir. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959869,
+        "objective_code":"COĞ.12.2.2",
+        "objective":"   Şehirleşme, göç ve sanayileşme ilişkisini toplumsal etkileri açısından yorumlar.  ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959870,
+        "objective_code":"COĞ.12.2.3",
+        "objective":"   Nüfus, yerleşme ve ekonomik faaliyetlerde gelecekte olabilecek değişimlerle ilgili çıkarımlarda bulunur. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959871,
+        "objective_code":"COĞ.12.2.4",
+        "objective":"   Ülkemizdeki işlevsel bölgeleri özelliklerine göre analiz eder. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959872,
+        "objective_code":"COĞ.12.2.5",
+        "objective":"   Türkiye’deki bölgesel kalkınma projelerini ekonomik, sosyal ve kültürel etkileri açısından değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959873,
+        "objective_code":"COĞ.12.2.6",
+        "objective":"   Hizmet sektörünün Türkiye’nin ekonomik kalkınmasıyla olan ilişkisini açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959874,
+        "objective_code":"COĞ.12.2.7",
+        "objective":"   Ulaşım sisteminin gelişiminde etkili olan faktörleri açıklar.   ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959875,
+        "objective_code":"COĞ.12.2.8",
+        "objective":"   Ulaşım ağları ile yerleşme ve ekonomik faaliyetler arasında ilişki kurar. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959876,
+        "objective_code":"COĞ.12.2.9",
+        "objective":"   Türkiye’deki ulaşım sisteminin gelişim sürecini açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959885,
+        "objective_code":"COĞ.12.3",
+        "objective":"KÜRESEL ORTAM: BÖLGELER VE ÜLKELER ",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959886,
+        "objective_code":"COĞ.12.3.1",
+        "objective":"   Kıtaların ve okyanusların konumsal önemindeki değişimi örneklerle açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959895,
+        "objective_code":"COĞ.12.3.10",
+        "objective":"   Dünyadaki başlıca enerji nakil hatlarının bölge ve ülkelere etkisini açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959896,
+        "objective_code":"COĞ.12.3.11",
+        "objective":"   Ülkeler arasında sorun oluşturan mekânsal unsurları günümüz çatışma alanlarıyla ilişkilendirir. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959887,
+        "objective_code":"COĞ.12.3.2",
+        "objective":"   Ülkelerin konumunun bölgesel ve küresel etkilerini değerlendirir. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959888,
+        "objective_code":"COĞ.12.3.3",
+        "objective":"   Tarihsel süreçte Türkiye’nin jeopolitik konumunu değerlendirir. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959889,
+        "objective_code":"COĞ.12.3.4",
+        "objective":"   Türkiye’nin içinde yer aldığı jeopolitik bölgelerle olan ilişkisini açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959890,
+        "objective_code":"COĞ.12.3.5",
+        "objective":"   Türk kültür bölgeleri ile ülkemiz arasındaki tarihî ve kültürel bağları açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959891,
+        "objective_code":"COĞ.12.3.6",
+        "objective":"   Teknolojik gelişmelerin, bölgeler ve ülkeler arası kültürel ve ekonomik etkileşimdeki rolünü açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959892,
+        "objective_code":"COĞ.12.3.7",
+        "objective":"   Ülkelerin gelişmişlik seviyelerinin belirlenmesinde etkili olan faktörleri açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959893,
+        "objective_code":"COĞ.12.3.8",
+        "objective":"   Gelişmiş ve gelişmekte olan ülkelerin ekonomik özelliklerini karşılaştırır.   ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959894,
+        "objective_code":"COĞ.12.3.9",
+        "objective":"   Ülkelerin bölgesel ve küresel ilişkilerini doğal kaynak potansiyeli açısından değerlendirir. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959897,
+        "objective_code":"COĞ.12.4",
+        "objective":"ÇEVRE VE TOPLUM ",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959898,
+        "objective_code":"COĞ.12.4.1",
+        "objective":"   Doğal çevrenin sınırlılığını açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959899,
+        "objective_code":"COĞ.12.4.2",
+        "objective":"   Farklı gelişmişlik düzeyine sahip ülkelerin çevre sorunlarının önlenmesine yönelik politika ve uygulamalarını karşılaştırır. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959900,
+        "objective_code":"COĞ.12.4.3",
+        "objective":"   Çevresel örgüt ve anlaşmaların çevre yönetimi ve korunmasına etkilerini açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"geography",
+        "code":959901,
+        "objective_code":"COĞ.12.4.4",
+        "objective":"   Ortak doğal ve kültürel mirasa yönelik tehditleri açıklar. ",
+        "depth":2
+    }
+]

@@ -1,0 +1,230 @@
+@import url("/static/css/tables.css");
+@import "mobile.css";
+@import "chatbot.css";
+@import "modals.css";
+@import "forms.css";
+@import "sidebar.css";
+@import "flash-modal.css";
+@import "buttons.css";
+
+/* Genel */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+    width: 100%;
+    display: flex;
+    min-height: 100vh;
+    min-width: 100vw;
+    background: #f4f6f9;
+    color: #333;
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* IE and Edge */
+}
+
+html {
+    width: 100%;
+    min-width: 100vw;
+}
+/* Hide the scrollbar for all browsers */
+body::-webkit-scrollbar {
+  width: 0px;
+  background: transparent; /* optional: just to be safe */
+}
+
+/* Main Content */
+.main {
+  margin-left: 240px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  transition: margin-left 0.3s;
+}
+
+.navbar {
+  height: 60px;
+  background: rgba(255, 255, 255, 0.0);
+  backdrop-filter: blur(16px);
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.content {
+  flex: 1;
+  padding: 30px;
+  animation: fadeIn 0.6s ease-in-out;
+  transition: opacity 0.25s ease;
+}
+
+.inner-content {
+  flex: 1;
+  padding: 0px;
+  animation: fadeIn 0.6s ease-in-out;
+  transition: opacity 0.25s ease;
+}
+
+/* Card styles */
+.card {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  max-width: 100%;
+}
+
+
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+}
+
+.card form label {
+  font-weight: 600;
+  display: block;
+  margin-top: 10px;
+}
+
+.card input {
+  width: 100%;
+  margin-top: 5px;
+}
+.card ul {
+  list-style: none;
+  padding: 0;
+}
+
+.card ul li {
+  background: #ecf0f1;
+  margin: 6px 0;
+  padding: 10px;
+  border-radius: 8px;
+  transition: 0.2s;
+}
+
+.card ul li:hover {
+  background: #dfe6e9;
+  transform: translateX(5px);
+}
+
+/* =======================
+   Content Fade-in
+   ======================= */
+.content > * {
+  opacity: 0;
+  transform: translateY(10px);
+  transition: opacity 0.4s ease, transform 0.4s ease;
+}
+
+.content.loaded > * {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.inner-content > * {
+  opacity: 0;
+  transform: translateY(10px);
+  transition: opacity 0.4s ease, transform 0.4s ease;
+}
+
+.inner-content.loaded > * {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Two-column layout for the forms */
+.two-columns {
+display: flex;
+gap: 30px; /* space between columns */
+flex-wrap: wrap; /* wrap on smaller screens */
+}
+.two-columns > .card {
+flex: 1;
+min-width: 300px; /* prevent too narrow */
+}
+
+.multiple-columns {
+  display: grid;
+  gap: 30px;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+.divide-columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* 2 columns */
+  gap: 20px; /* space between columns */
+}
+
+.divide-columns .field {
+  display: flex;
+  flex-direction: column; /* label on top of input */
+  gap: 5px; /* space between label and input */
+}
+
+.divide-columns input,
+.divide-columns select,
+.divide-columns textarea {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.form-fields {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* 2 columns */
+  gap: 20px; /* space between columns */
+}
+
+.form-fields .field {
+  display: flex;
+  flex-direction: column; /* label on top of input */
+  gap: 5px; /* space between label and input */
+}
+
+.form-fields input,
+.form-fields select,
+.form-fields textarea {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+
+/* Responsive: stack in one column on small screens */
+@media (max-width: 700px) {
+  .divide-columns {
+    grid-template-columns: 1fr;
+  }
+}
+
+.card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+/* GHOST CSS
+
+* {
+  background: #000 !important;
+  color: #0f0 !important;
+  outline: solid #f00 1px !important;
+}
+
+*/

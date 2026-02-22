@@ -1,0 +1,27 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<h2 style="margin-bottom: 30px;">📃 Recent Logs</h2>
+{% if logs %}
+<style>
+    pre {
+        font-family: monospace;
+        background: #1e1e1e;
+        color: #d4d4d4;
+        padding: 20px;
+        white-space: pre-wrap;
+        word-break: break-word;
+        overflow-x: auto;
+    }
+</style>
+<pre>
+{% for line in logs %}
+{{ line }}
+{% endfor %}
+</pre>
+{% else %}
+<div class="card">
+    <h3>🏗️ Under Construction</h3>
+</div>
+{% endif %}
+{% endblock %}

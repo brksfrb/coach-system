@@ -1,0 +1,212 @@
+{% extends "layout.html" %}
+{% block content %}
+<style>
+    html, body { overflow: hidden; }
+    .container {
+        display: flex;
+        height: calc(100vh - 60px);
+        padding: 0;
+    }
+
+    .content { padding: 0; }
+    /* Left column */
+    .left-column {
+        width: 250px;
+        background-color: #333;
+        color: white;
+    }
+
+     .main-content {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between; /* pushes input to bottom */
+        height: 100%;
+        overflow: hidden;
+    }
+
+    .messages {
+        flex: 1;
+        overflow-y: auto;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        padding: 20px;
+        scroll-behaviour: smooth;
+    }
+
+    /* Message bubbles */
+    .message {
+        max-width: 60%;
+        padding: 10px;
+        border-radius: 8px;
+    }
+
+    .message.left {
+        align-self: flex-start;
+        background: #e0f7fa;
+    }
+
+    .message.right {
+        align-self: flex-end;
+        background: #ffe0b2;
+    }
+
+    .message-area {
+        padding: 10px 20px;
+        border-top: 1px solid #ccc;
+        background: #fff;
+        display: flex;
+        justify-content: center;
+    }
+
+    .message-form {
+        display: flex;
+        gap: 10px;
+        width: 100%;
+        max-width: 800px;
+    }
+
+    .message-form input {
+        flex: 1;
+        padding: 10px;
+        border-radius: 20px;
+        border: 1px solid #ccc;
+        outline: none;
+    }
+
+    .message-form button {
+        padding: 10px 20px;
+        border-radius: 20px;
+        border: none;
+        background: #4caf50;
+        color: white;
+        cursor: pointer;
+        transition: background 0.2s;
+    }
+
+    .message-form button:hover {
+       background: #45a049;
+    }
+
+
+</style>
+
+<div class="container">
+    <div class="left-column">
+        <h2 style="text-align: center; margin-top: 10px;">Mesajlar</h2>
+        <ul>
+            {% for contact in contacts %}
+            <li style="list-style: none; margin-left: 10px; margin-top: 10px; margin-right: 10px;"><button class="switch-chat-button" data-username="{{ contact.username }}">{{ contact.fullname }} ({{ contact.username }})</button></li>
+            {% endfor %}
+        </ul>
+    </div>
+    <div class="main-content">
+        <div class="messages">
+            <p style="margin-top: 300px; text-align: center;"><em>Başlamak için bir kişi seçin</em></p>
+        </div>
+        <div class="message-area">
+            <form method="post" class="message-form" id="message-form">
+                {{ form.hidden_tag() }}
+                {{ form.message() }}
+                {{ form.md_id(id="md-id") }}
+                <button type="submit">Gönder</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+<script>
+    function loadSocketIO(callback) {
+        const script = document.createElement('script');
+        script.src = "https://cdn.socket.io/4.6.1/socket.io.min.js";
+        script.onload = callback;
+        document.head.appendChild(script);
+    }
+
+    function changeChat(username, all_messages) {
+        const messageDiv = document.querySelector(".messages");
+        messageDiv.innerHTML = "";
+        let messages = [];
+        let md_id = 0;
+        for (const msg of all_messages) {
+            if (msg.contacts_as_username.includes(username)) {
+                messages = msg.messages;
+                md_id = msg.id;
+            }
+        }
+        for (const message of messages) {
+            const newMessage = document.createElement("p");
+            newMessage.textContent = message.message;
+            if (message.from_who == "{{ user.username }}") newMessage.classList.add("message", "right");
+            else newMessage.classList.add("message", "left");
+            messageDiv.appendChild(newMessage);
+        }
+        const md_input = document.getElementById("md-id");
+        md_input.value = md_id;
+        messageDiv.scrollTop = messageDiv.scrollHeight;
+        messageInput = document.getElementById("message");
+        messageInput.value = "";
+    }
+
+    function newMessage(message, side) {
+        const messageDiv = document.querySelector(".messages");
+        const newMessage = document.createElement("p");
+        newMessage.textContent = message;
+        newMessage.classList.add("message", side);
+        messageDiv.appendChild(newMessage);
+        messageDiv.scrollTop = messageDiv.scrollHeight;
+    }
+
+    function runPageScripts() {
+        const socket = io("/messaging");
+
+        let all_messages = {{ messages | safe }};
+        socket.on("message_out", (data) => {
+            let side = "left"
+            if (data.from_who == "{{ user.username }}") side = "right";
+            newMessage(data.message, side);
+            for (const md of all_messages) {
+                if (md.id == data.md_id) {
+                    md.messages.push({ "message": data.message, "from_who": data.from_who });
+                }
+            }
+        });
+
+        buttons = document.querySelectorAll(".switch-chat-button");
+        buttons.forEach(button => {
+            button.addEventListener("click", () => {
+                changeChat(button.dataset.username, all_messages);
+            });
+        });
+
+        document.getElementById("message-form").addEventListener("submit", function(e) {
+            e.preventDefault();
+
+            const form = e.target;
+
+            const message_input = document.getElementById("message");
+            const message = message_input.value.trim();
+            if (!message) return;
+
+            const csrfToken = form.querySelector('input[name="csrf_token"]').value;
+            const md_id = form.querySelector('#md-id').value;
+
+            message_input.value = "";
+
+            socket.emit("message_in", { message: message, md_id: md_id });
+
+        });
+    }
+
+    // Initial load
+    if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", loadSocketIO(runPageScripts));
+    }
+    else {
+        loadSocketIO(runPageScripts);
+    }
+</script>
+
+
+{% endblock %}

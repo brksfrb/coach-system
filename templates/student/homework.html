@@ -1,0 +1,92 @@
+{% extends "layout.html" %}
+{% block content %}
+<style>p { margin-top: 10px; }</style>
+
+<div class="modal" id="homework-modal">
+  <div class="modal-content" style="text-align: center;">
+      <h2 style="margin-bottom: 15px;">Ödev Detayları</h2>
+      <div style="text-align: left;">
+          <p><strong>Başlık: </strong><span id="homework-title"></span></p>
+          <p><strong>Açıklama: </strong><span id="homework-description"></span></p>
+          <p><strong>Ders: </strong><span id="homework-subject"></span></p>
+          <p><strong>Kazanım: </strong><span id="homework-objective"></span></p>
+          <p><strong>Soru Sayısı: </strong><span id="homework-num-questions"></span></p>
+          <p><strong>Başlangıç Tarihi: </strong><span id="homework-start_date"></span></p>
+          <p><strong>Bitiş Tarihi: </strong><span id="homework-end_date"></span></p>
+      </div>
+      <button onclick="hideHomeworkDetails()" style="margin-top: 10px;">Kapat</button>
+  </div>
+</div>
+
+<h2 style="margin-bottom: 30px;">Ödevlerim</h2>
+<div class="two-columns">
+    <div class="card">
+        <h3>Genel Bakış</h3>
+        <p><strong>Toplam Ödev Sayısı: </strong>{{ numbers[0] }}</p>
+        <p><strong>Yapılmış Ödev Sayısı: </strong>{{ numbers[1] }}</p>
+        <p><strong>Yapılmamış Ödev Sayısı: </strong>{{ numbers[2] }}</p>
+    </div>
+    <div class="card">
+        <h3>Tüm Ödevler</h3>
+        {% if homeworks %}
+        <table class="hover-table">
+            <tr>
+                <th>Başlık</th>
+                <th></th>
+            </tr>
+            {% for homework in homeworks %}
+            <tr>
+                <td>{{ homework.title }}</td>
+                <td><button class="show-homework-button" data-homework='{{ homework.jsonized | tojson }}'>Detaylar</button></td>
+            </tr>
+            {% endfor %}
+        </table>
+        {% else %}
+        <p><em>Henüz ödev eklenmemiş</em></p>
+        {% endif %}
+    </div>
+</div>
+
+<script>
+    function showHomeworkDetails(hw) {
+        const homework_modal = document.getElementById("homework-modal");
+        // Update each field
+        document.getElementById("homework-title").textContent = hw.title;
+        document.getElementById("homework-description").textContent = hw.description;
+        document.getElementById("homework-subject").textContent = hw.subject;
+        document.getElementById("homework-objective").textContent = hw.objective;
+        document.getElementById("homework-num-questions").textContent = hw.num_questions;
+        document.getElementById("homework-start_date").textContent = hw.start_date;
+        document.getElementById("homework-end_date").textContent = hw.end_date;
+        homework_modal.classList.add("show");
+    }
+
+    function hideHomeworkDetails() {
+        document.getElementById("homework-modal").classList.remove("show");
+    }
+
+    function runPageScripts() {
+        document.querySelectorAll(".show-homework-button").forEach(btn => {
+            btn.addEventListener("click", () => {
+                const hw = JSON.parse(btn.dataset.homework);
+                showHomeworkDetails(hw);
+            });
+        });
+
+        document.addEventListener("click", function (e) {
+            const modal = document.getElementById("homework-modal");
+            if (!modal) return;
+
+            if (e.target === modal) modal.classList.remove("show");
+        });
+    }
+
+    if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", runPageScripts);
+    }
+    else {
+        runPageScripts();
+    }
+</script>
+
+{% endblock %}

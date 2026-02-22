@@ -1,0 +1,12 @@
+{% extends "layout.html" %}
+{% block content %}
+<style>h3 { margin-bottom: 10px; }</style>
+
+<h2 style="margin-bottom: 30px;">📚 Derslerim</h2>
+<div class="card">
+    {% for lesson in lessons %}
+    <h3>{{ lesson[0] }}, {{ lesson[1] }}</h3>
+    {% endfor %}
+</div>
+
+{% endblock %}

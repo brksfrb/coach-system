@@ -1,0 +1,21 @@
+{% extends "teacher/manage_student_layout.html" %}
+{% block inner_content %}
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<div class="two-columns">
+    <div class="card">
+        <p style="margin-bottom: 5px;"><strong>Adı: </strong>{{ student.name }}</p>
+        <p style="margin-bottom: 5px;"><strong>Soyadı: </strong>{{ student.surname }}</p>
+        <p style="margin-bottom: 5px;"><strong>Cinsiyeti: </strong>{% if student.gender == "female" %} Kadın {% else %} Erkek {% endif %}</p>
+        <p style="margin-bottom: 5px;"><strong>Sınıf Düzeyi: </strong>{{ student.grade }}</p>
+    </div>
+    <div class="card">
+        <h3>Öğrenci Notları</h3>
+        <form method="post">
+            {{ notes_form.hidden_tag() }}
+            {{ notes_form.notes(rows=5, cols=50) }}
+            <br>
+            <button type="submit" style="margin-top: 10px;">Kaydet</button>
+        </form>
+    </div>
+</div>
+{% endblock %}

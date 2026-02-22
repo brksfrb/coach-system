@@ -1,0 +1,163 @@
+@import "buttons.css";
+
+/* Login Page */
+body.login-page {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+
+  /* Your animated gradient background */
+  background: linear-gradient(270deg, #2d3e50, #1abc9c, #16a085, #32a8a8);
+  background-size: 800% 800%;
+  animation: gradientAnimation 20s ease infinite;
+  overflow: hidden; /* Prevent scrollbars from animation */
+  z-index: 0;
+}
+
+/* Logo pattern overlay */
+body.login-page::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background-image: url('../images/logo.png'); /* correct relative path */
+  background-repeat: repeat;
+  background-size: 130px auto; /* Size of each logo */
+  opacity: 0.3; /* Make logos faint, adjust as you like */
+  animation: glideBackground 30s linear infinite;
+  pointer-events: none;
+  z-index: 1;
+}
+
+/* Animate logos sliding diagonally (left-bottom) */
+@keyframes glideBackground {
+  from {
+    background-position: 0 0;
+  }
+  to {
+    background-position: -500px 500px;
+  }
+}
+
+/* Login card styling */
+.login-card {
+  position: relative;
+  background: rgba(255, 255, 255, 0.9); /* White with slight transparency */
+  padding: 30px 40px;
+  border-radius: 10px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+  z-index: 10; /* On top of everything */
+  max-width: 400px;
+  width: 90%;
+  text-align: center;
+}
+
+
+.login-card {
+  background: white;
+  padding: 30px;
+  border-radius: 15px;
+  width: 350px;
+  text-align: center;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+  animation: fadeIn 0.6s ease-in-out;
+}
+
+.login-card h2 {
+  margin-bottom: 20px;
+}
+
+.login-card input {
+  width: 100%;
+  margin: 8px 0;
+}
+
+.login-card button {
+  width: 100%;
+  margin-top: 12px;
+}
+
+/* Animated gradient keyframes */
+@keyframes gradientAnimation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* Logo Animation */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Forms */
+form {
+  margin: 15px 0;
+}
+
+input, select {
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  outline: none;
+  transition: border 0.2s, box-shadow 0.2s;
+}
+
+input:focus, select:focus {
+  border: 1px solid #1abc9c;
+  box-shadow: 0 0 5px rgba(26, 188, 156, 0.5);
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+
+form button {
+  background: #1abc9c;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+form button:hover {
+  background: #16a085;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  background: #f4f6f9;
+  color: #333;
+}
+
+body::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
+}
+
+.error {
+  color: red;
+  margin-bottom: 10px;
+  font-weight: bold;
+}

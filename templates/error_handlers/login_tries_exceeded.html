@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Too Many Login Attempts</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            text-align: center;
+            padding-top: 80px;
+        }
+        .container {
+            background-color: white;
+            padding: 40px;
+            margin: auto;
+            width: 50%;
+            border-radius: 12px;
+            box-shadow: 0px 0px 15px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #d9534f;
+        }
+        p {
+            font-size: 1.1rem;
+            color: #333;
+        }
+        a {
+            color: #0275d8;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .timer {
+            font-weight: bold;
+            color: #d9534f;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🚫 Too Many Login Attempts</h1>
+        <p>You’ve exceeded the number of allowed login attempts. This is a security measure to prevent brute-force attacks.</p>
+        <p>Please wait before trying again.</p>
+        <p class="timer">Try again in <span id="countdown">{{ retry_after }}</span> seconds.</p>
+        <p><a href="/login">Return to Login Page</a></p>
+    </div>
+
+    <script>
+    const retryAfterSeconds = {{ retry_after }};
+    const blockKey = "login_block_until";
+
+    // If no block deadline is stored, store it now
+    if (!localStorage.getItem(blockKey)) {
+        const blockUntil = Date.now() + retryAfterSeconds * 1000;
+        localStorage.setItem(blockKey, blockUntil);
+    }
+
+    const countdownElem = document.getElementById('countdown');
+
+    function updateCountdown() {
+        const blockUntil = parseInt(localStorage.getItem(blockKey), 10);
+        const now = Date.now();
+        const diff = Math.ceil((blockUntil - now) / 1000);
+
+        if (diff <= 0) {
+            localStorage.removeItem(blockKey);
+            window.location.href = "/login";
+        } else {
+            countdownElem.textContent = diff;
+        }
+    }
+
+    updateCountdown(); // set initial countdown immediately
+    const interval = setInterval(updateCountdown, 1000);
+</script>
+
+</body>
+</html>

@@ -1,0 +1,834 @@
+[
+    {
+        "grade":9,
+        "subject":"history",
+        "code":959652,
+        "objective_code":"TAR.9.1",
+        "objective":"TARİH VE ZAMAN",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"history",
+        "code":959653,
+        "objective_code":"TAR.9.1.1",
+        "objective":"   Bir araştırma alanı ve bilim dalı olarak tarihin konusunu, kapsamını ve diğer bilim dallarıyla ilişkisini açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"history",
+        "code":959654,
+        "objective_code":"TAR.9.1.2",
+        "objective":"   Tarih öğrenmenin amaç ve yararlarını kavrar. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"history",
+        "code":959655,
+        "objective_code":"TAR.9.1.3",
+        "objective":"   Zamanı anlama ve anlamlandırmaya yönelik farklı yaklaşımları analiz eder. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"history",
+        "code":959656,
+        "objective_code":"TAR.9.2",
+        "objective":"İNSANLIĞIN İLK DÖNEMLERİ ",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"history",
+        "code":959657,
+        "objective_code":"TAR.9.2.1",
+        "objective":"   Kanıtlardan yola çıkarak yazının icadından önceki zamanlarda yaşayan insanların hayatı hakkında çıkarımlarda bulunur. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"history",
+        "code":959658,
+        "objective_code":"TAR.9.2.2",
+        "objective":"   Yazının icadının insanlık tarihinde meydana getirdiği değişimi fark eder. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"history",
+        "code":959659,
+        "objective_code":"TAR.9.2.3",
+        "objective":"   İlk Çağ’da yeryüzündeki belli başlı medeniyet havzalarını tanır.",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"history",
+        "code":959660,
+        "objective_code":"TAR.9.2.4",
+        "objective":"   İlk Çağ’da coğrafya ve iklimin, insanların hayat ve geçim tarzları üzerindeki belirleyici etkisini analiz eder.  ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"history",
+        "code":959661,
+        "objective_code":"TAR.9.2.5",
+        "objective":"   İlk Çağ’da siyasi gücün kaynaklarını siyasi organizasyon türleriyle ilişkilendirir. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"history",
+        "code":959662,
+        "objective_code":"TAR.9.2.6",
+        "objective":"   İlk Çağ’da hukuk sistemlerinin oluşturulmasında etkili olan dinî ve beşerî kaynakları kavrar. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"history",
+        "code":959663,
+        "objective_code":"TAR.9.3",
+        "objective":"ORTA ÇAĞ’DA DÜNYA ",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"history",
+        "code":959664,
+        "objective_code":"TAR.9.3.1",
+        "objective":"   Orta Çağ’da yeryüzünün çeşitli bölgelerinde kurulan siyasi ve sosyal yapıları tanır. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"history",
+        "code":959665,
+        "objective_code":"TAR.9.3.2",
+        "objective":"   Orta Çağ’da tarım ve ticaretin yaygın ekonomik faaliyetler olduklarını kavrar. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"history",
+        "code":959666,
+        "objective_code":"TAR.9.3.3",
+        "objective":"   Orta Çağ’da Asya ve Avrupa’da askerî organizasyon biçimleri ile toplumların yaşam tarzları (konar-göçer ve yerleşik) arasındaki bağlantıları analiz eder. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"history",
+        "code":959667,
+        "objective_code":"TAR.9.3.4",
+        "objective":"   İlk Çağ’ın sonlarından itibaren gerçekleştirilen hukuki düzenlemelerin günümüzün evrensel hukuk ilkelerine temel teşkil ettiğini kavrar. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"history",
+        "code":959668,
+        "objective_code":"TAR.9.4",
+        "objective":"İLK VE ORTA ÇAĞLARDA TÜRK DÜNYASI  ",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"history",
+        "code":959669,
+        "objective_code":"TAR.9.4.1",
+        "objective":"   Türklerin Asya’da tarih sahnesine çıktıkları ve yaşadıkları alanlar ile başlıca kültür çevrelerini tanır. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"history",
+        "code":959670,
+        "objective_code":"TAR.9.4.2",
+        "objective":"   İlk ve Orta Çağlarda İç Asya’daki Türk siyasi teşekküllerinin güç ve yönetim yapısını kavrar.",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"history",
+        "code":959671,
+        "objective_code":"TAR.9.4.3",
+        "objective":"   İslamiyet öncesi dönemde Türklerin yaşadığı coğrafyalar ile hayat tarzları arasındaki ilişkiyi analiz eder.",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"history",
+        "code":959672,
+        "objective_code":"TAR.9.4.4",
+        "objective":"   Kavimler Göçü’nün sebep ve sonuçlarını siyasi ve sosyal açılardan analiz eder. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"history",
+        "code":959673,
+        "objective_code":"TAR.9.4.5",
+        "objective":"   Asya merkezli Türk Devletlerinin çevrelerindeki devletlerle ilişkilerinin çok boyutlu yapısını analiz eder. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"history",
+        "code":959674,
+        "objective_code":"TAR.9.5",
+        "objective":"İSLAM MEDENİYETİNİN DOĞUŞU ",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"history",
+        "code":959675,
+        "objective_code":"TAR.9.5.1",
+        "objective":"   İslamiyet’in doğuşu sırasında Arap Yarımadası, Asya, Avrupa ve Afrika’nın genel durumunu açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"history",
+        "code":959676,
+        "objective_code":"TAR.9.5.2",
+        "objective":"   Hz. Muhammed ve Dört Halife Dönemi’nde Müslümanların Arap Yarımadası ve çevresinde siyasi hâkimiyet kurmaya yönelik faaliyetlerini kavrar. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"history",
+        "code":959677,
+        "objective_code":"TAR.9.5.3",
+        "objective":"   Emeviler ile birlikte İslam Devleti’nin yapısında meydana gelen değişimi analiz eder. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"history",
+        "code":959678,
+        "objective_code":"TAR.9.5.4",
+        "objective":"   Türklerin Abbasi Devleti’ndeki askerî ve siyasi gelişmelerde oynadıkları rolleri kavrar. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"history",
+        "code":959679,
+        "objective_code":"TAR.9.5.5",
+        "objective":"   Sekizinci ve on ikinci yüzyıllar arasında İslam medeniyeti çerçevesindeki ilmî faaliyetleri değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"history",
+        "code":959680,
+        "objective_code":"TAR.9.6",
+        "objective":"TÜRKLERİN İSLAMİYET’İ KABULÜ VE İLK TÜRK İSLAM DEVLETLERİ ",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"history",
+        "code":959681,
+        "objective_code":"TAR.9.6.1",
+        "objective":"   Türklerin İslamiyet’i kabul etmeye başlamaları ile Türkiye Selçuklu Devleti’nin kuruluşu arasındaki süreçte meydana gelen başlıca siyasi gelişmeleri tarih şeridi ve haritalar üzerinde gösterir. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"history",
+        "code":959682,
+        "objective_code":"TAR.9.6.2",
+        "objective":"   Türklerin İslamiyet’i kabul etme sürecine etki eden faktörleri açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"history",
+        "code":959683,
+        "objective_code":"TAR.9.6.3",
+        "objective":"   Karahanlı ve Gazneli örneklerinden hareketle İslamiyet’in kabulünün Türk devlet yapısında ve toplumsal hayatta meydana getirdiği değişimleri analiz eder.",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"history",
+        "code":959684,
+        "objective_code":"TAR.9.6.4",
+        "objective":"   Büyük Selçuklu Devleti Dönemi’ndeki başlıca siyasi gelişmeleri Türk tarihi içerisindeki önemi bağlamında açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"history",
+        "code":959685,
+        "objective_code":"TAR.9.6.5",
+        "objective":"   Büyük Selçuklu Devleti’nin yönetim ve toplum yapısını kavrar. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959686,
+        "objective_code":"TAR.10.1",
+        "objective":"YERLEŞME VE DEVLETLEŞME SÜRECİNDE SELÇUKLU TÜRKİYESİ  ",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959687,
+        "objective_code":"TAR.10.1.1",
+        "objective":"   Türklerin Anadolu’ya yerleşmeye başlaması ile Türkiye Selçuklu Devleti’nin yıkılışı arasındaki süreçte meydana gelen başlıca siyasi gelişmeleri tarih şeridi ve haritalar üzerinde gösterir. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959688,
+        "objective_code":"TAR.10.2",
+        "objective":null,
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959689,
+        "objective_code":"TAR.10.2.1",
+        "objective":"   Anadolu’ya yapılan Türk göçlerinin sosyokültürel etkilerini analiz eder. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959690,
+        "objective_code":"TAR.10.2.2",
+        "objective":"   Anadolu’daki ilk Türk siyasi teşekküllerinin birbirleriyle ve çevre devletlerle olan ilişkilerini uzlaşma ve çatışma bağlamında değerlendirir. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959691,
+        "objective_code":"TAR.10.2.3",
+        "objective":"   Türklerin Anadolu’da devletleşme sürecini etkileyen faktörleri açıklar.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959692,
+        "objective_code":"TAR.10.2.4",
+        "objective":"   İslam dünyasının korunması bağlamında Türkiye Selçuklu Devleti ve Eyyubi Devleti’nin Haçlılarla yaptıkları mücadelelerin sosyokültürel etkilerini analiz eder.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959693,
+        "objective_code":"TAR.10.2.5",
+        "objective":"   Moğol İstilası'nın Anadolu’da meydana getirdiği siyasi ve sosyal değişimi analiz eder.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959694,
+        "objective_code":"TAR.10.3",
+        "objective":"BEYLİKTEN DEVLETE OSMANLI SİYASETİ (1302-1453) ",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959695,
+        "objective_code":"TAR.10.3.1",
+        "objective":"   1302-1453 yılları arasındaki süreçte meydana gelen başlıca siyasi gelişmeleri tarih şeridi ve haritalar üzerinde gösterir. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959696,
+        "objective_code":"TAR.10.3.2",
+        "objective":"   Osmanlı Beyliği’nin kuruluşu hakkında ileri sürülen çeşitli nazariyeleri analiz eder.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959697,
+        "objective_code":"TAR.10.3.3",
+        "objective":"   Osmanlı Beyliği’nin devletleşme sürecini Bizans’la olan ilişkileri çerçevesinde analiz eder.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959698,
+        "objective_code":"TAR.10.3.4",
+        "objective":"   Rumeli’deki fetihler ile iskân (şenlendirme) ve istimâlet politikalarının amaçlarını ve etkilerini analiz eder.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959699,
+        "objective_code":"TAR.10.3.5",
+        "objective":"   Osmanlı Devleti’nin Anadolu’da Türk siyasi birliğini sağlamaya yönelik faaliyetlerini analiz eder. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959700,
+        "objective_code":"TAR.10.3.6",
+        "objective":"   Osmanlı Devleti ile Timur Devleti arasındaki mücadeleyi ve bu mücadelenin sonuçlarını değerlendirir. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959701,
+        "objective_code":"TAR.10.4",
+        "objective":"DEVLETLEŞME SÜRECİNDE SAVAŞÇILAR VE ASKERLER  ",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959702,
+        "objective_code":"TAR.10.4.1",
+        "objective":"   Kuruluş Dönemi’nde Osmanlı askerî gücünün farklı muharip unsurlardan meydana geldiğini kavrar. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959703,
+        "objective_code":"TAR.10.4.2",
+        "objective":"   Tımar sisteminin özelliklerini siyasi, sosyal ve ekonomik açılardan değerlendirir.  ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959704,
+        "objective_code":"TAR.10.4.3",
+        "objective":"   Yeniçeri Ocağının ve devşirme sisteminin Osmanlı devletleşme sürecine etkisini analiz eder. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959705,
+        "objective_code":"TAR.10.5",
+        "objective":"BEYLİKTEN DEVLETE OSMANLI MEDENİYETİ",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959706,
+        "objective_code":"TAR.10.5.1",
+        "objective":"   Sûfîlerin ve âlimlerin öğretilerinin Anadolu’nun İslamlaşmasına etkisini kavrar.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959707,
+        "objective_code":"TAR.10.6",
+        "objective":null,
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959708,
+        "objective_code":"TAR.10.6.1",
+        "objective":"   Osmanlı devlet idaresinin ilmiye, kalemiye ve seyfiye sınıflarının birlikteliğine dayalı yapısını analiz eder.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959709,
+        "objective_code":"TAR.10.6.2",
+        "objective":"   Osmanlı coğrafyasında sözlü ve yazılı kültürün toplum hayatına etkilerini analiz eder.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959710,
+        "objective_code":"TAR.10.6.3",
+        "objective":"   Osmanlı coğrafyasındaki zanaat, sanat ve kültür faaliyetleri ile bunlara bağlı olarak sosyal hayatta meydana gelen değişimleri analiz eder.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959711,
+        "objective_code":"TAR.10.7",
+        "objective":"DÜNYA GÜCÜ OSMANLI (1453-1595) ",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959712,
+        "objective_code":"TAR.10.7.1",
+        "objective":"   1453-1520 yılları arasındaki süreçte meydana gelen başlıca siyasi gelişmeleri tarih şeridi ve haritalar üzerinde gösterir.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959713,
+        "objective_code":"TAR.10.7.2",
+        "objective":"   İstanbul’un Fethi’nin sebeplerini, fetih sürecini ve fethin stratejik sonuçlarını kavrar.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959714,
+        "objective_code":"TAR.10.7.3",
+        "objective":"   Osmanlı Devleti’nin İslam coğrafyasında hâkimiyet kurmasının Türk ve İslam dünyası üzerindeki etkilerini analiz eder.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959715,
+        "objective_code":"TAR.10.7.4",
+        "objective":"   1520-1595 yılları arasındaki süreçte meydana gelen başlıca siyasi gelişmeleri tarih şeridi ve haritalar üzerinde gösterir. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959716,
+        "objective_code":"TAR.10.7.5",
+        "objective":"   Kanuni Dönemi’nden itibaren Osmanlı Devleti’nin siyasi sınırlar ve devlet teşkilatı bakımından olgunluğa eriştiğini kavrar. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959717,
+        "objective_code":"TAR.10.7.6",
+        "objective":"   Uyguladığı uzun vadeli stratejinin Osmanlı Devleti’nin dünya gücü haline gelmesindeki rolünü analiz eder. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959718,
+        "objective_code":"TAR.10.7.7",
+        "objective":"   Osmanlı Devleti’nin takip ettiği kara ve deniz politikalarını analiz eder. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959719,
+        "objective_code":"TAR.10.8",
+        "objective":"SULTAN VE OSMANLI MERKEZ TEŞKİLATI ",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959720,
+        "objective_code":"TAR.10.8.1",
+        "objective":"   Topkapı Sarayı’nın devlet idaresinin yanı sıra devlet adamı yetiştirilmesinde ve şehir kültürünün gelişmesindeki rollerini analiz eder.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959721,
+        "objective_code":"TAR.10.8.2",
+        "objective":"   Osmanlı Devleti’nde merkezi otoriteyi güçlendirmeye yönelik düzenlemeleri analiz eder.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959722,
+        "objective_code":"TAR.10.9",
+        "objective":"KLASİK ÇAĞDA OSMANLI TOPLUM DÜZENİ ",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959723,
+        "objective_code":"TAR.10.9.1",
+        "objective":"   Osmanlı Devleti’nde millet sisteminin yapısını analiz eder. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959724,
+        "objective_code":"TAR.10.9.2",
+        "objective":"   Osmanlı Devleti’nin fethettiği yerleşim yerlerinin İslam kültürünün etkisiyle geçirdiği dönüşümü analiz eder. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959725,
+        "objective_code":"TAR.10.9.3",
+        "objective":"   Osmanlı ekonomik sistemi içerisinde tarımsal üretimin önemini fark eder. ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959726,
+        "objective_code":"TAR.10.9.4",
+        "objective":"   Lonca Teşkilatının Osmanlı ekonomik sistemi ve toplum yapısındaki yerini analiz eder.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"history",
+        "code":959727,
+        "objective_code":"TAR.10.9.5",
+        "objective":"   Osmanlı Devleti’nde vakıfların sosyal hayattaki yerini ve önemini kavrar. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"history",
+        "code":959728,
+        "objective_code":"TAR.11.1",
+        "objective":"DEĞİŞEN DÜNYA DENGELERİ KARŞISINDA OSMANLI SİYASETİ (1595-1774)",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"history",
+        "code":959729,
+        "objective_code":"TAR.11.1.1",
+        "objective":"   1595-1700 yılları arasındaki süreçte meydana gelen başlıca siyasi gelişmeleri tarih şeridi ve haritalar üzerinde gösterir. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"history",
+        "code":959730,
+        "objective_code":"TAR.11.1.2",
+        "objective":"   XVII. yüzyılda değişen siyasi rekabet içerisinde Osmanlı Devleti’nin ittifak girişimlerini açıklar.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"history",
+        "code":959731,
+        "objective_code":"TAR.11.1.3",
+        "objective":"   Modern devletler hukukunun ortaya çıkışında Westphalia (Vestfalya) Barışı’nın rolünü kavrar.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"history",
+        "code":959732,
+        "objective_code":"TAR.11.1.4",
+        "objective":"   Denizcilik faaliyetlerinin içdenizlerden okyanuslara taşınmasının dünya siyasetine ve ticaretine etkilerini analiz eder. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"history",
+        "code":959733,
+        "objective_code":"TAR.11.1.5",
+        "objective":"   1700-1774 yılları arasındaki süreçte meydana gelen başlıca siyasi gelişmeleri tarih şeridi ve haritalar üzerinde gösterir. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"history",
+        "code":959734,
+        "objective_code":"TAR.11.2",
+        "objective":"DEĞİŞİM ÇAĞINDA AVRUPA VE OSMANLI ",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"history",
+        "code":959735,
+        "objective_code":"TAR.11.2.1",
+        "objective":"   Avrupa düşüncesinde meydana gelen değişimleri ve bunların etkilerini analiz eder. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"history",
+        "code":959736,
+        "objective_code":"TAR.11.2.2",
+        "objective":"   Avrupa’daki gelişmelere bağlı olarak Osmanlı idari, askerî ve ekonomik yapısında meydana gelen değişimleri analiz eder. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"history",
+        "code":959737,
+        "objective_code":"TAR.11.2.3",
+        "objective":"   Osmanlı devlet idaresi ve toplum düzenindeki çözülmeleri önleme çabalarını analiz eder.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"history",
+        "code":959738,
+        "objective_code":"TAR.11.3",
+        "objective":"ULUSLARARASI İLİŞKİLERDE DENGE STRATEJİSİ (1774-1914)",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"history",
+        "code":959739,
+        "objective_code":"TAR.11.3.1",
+        "objective":"   1774-1914 yılları arasındaki süreçte meydana gelen başlıca siyasi gelişmeleri tarih şeridi ve haritalar üzerinde gösterir. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"history",
+        "code":959740,
+        "objective_code":"TAR.11.3.2",
+        "objective":"   Osmanlı Devleti’nin siyasi varlığına yönelik tehditleri analiz eder.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"history",
+        "code":959741,
+        "objective_code":"TAR.11.3.3",
+        "objective":"   Mehmet Ali Paşa’nın Osmanlı Devleti’nin merkezi yönetimine rağmen güç kazanması ve nüfuz alanını genişletme çabalarını analiz eder. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"history",
+        "code":959742,
+        "objective_code":"TAR.11.3.4",
+        "objective":"   Osmanlı ile Rusya arasındaki rekabetin Osmanlı Devleti’nin Avrupa ve Asya siyasetindeki önemini kavrar.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"history",
+        "code":959743,
+        "objective_code":"TAR.11.4",
+        "objective":"DEVRİMLER ÇAĞINDA DEĞİŞEN DEVLET-TOPLUM İLİŞKİLERİ ",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"history",
+        "code":959744,
+        "objective_code":"TAR.11.4.1",
+        "objective":"   Fransız İhtilali ve Avrupa’da Sanayi Devrimi ile birlikte devlet-toplum ilişkilerinde meydana gelen dönüşümü kavrar. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"history",
+        "code":959745,
+        "objective_code":"TAR.11.4.2",
+        "objective":"   Osmanlı Devleti’nde modern ordu teşkilatı ve yurttaş askerliği konularındaki düzenlemelerin siyasi ve sosyal boyutlarını analiz eder.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"history",
+        "code":959746,
+        "objective_code":"TAR.11.4.3",
+        "objective":"   Ulus devletleşme ve endüstrileşme süreçlerinin sosyal hayata yansımalarını analiz eder. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"history",
+        "code":959747,
+        "objective_code":"TAR.11.4.4",
+        "objective":"   Tanzimat Fermanı, Islahat Fermanı ve Kanun-ı Esasi’nin içeriklerini küresel ve yerel siyasi şartlar bağlamında değerlendirir. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"history",
+        "code":959748,
+        "objective_code":"TAR.11.4.5",
+        "objective":"   1876-1913 arasında gerçekleştirilen darbelerin Osmanlı siyasi hayatı üzerindeki etkilerini değerlendirir. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"history",
+        "code":959749,
+        "objective_code":"TAR.11.5",
+        "objective":"SERMAYE VE EMEK ",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"history",
+        "code":959750,
+        "objective_code":"TAR.11.5.1",
+        "objective":"   Sanayi İnkılabı öncesindeki üretim tarzı ile endüstriyel üretim tarzı arasındaki farkları açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"history",
+        "code":959751,
+        "objective_code":"TAR.11.5.2",
+        "objective":"   Osmanlı Devleti’nin son dönemlerinde endüstriyel üretime geçiş çabalarını ve bu süreçte yaşanan zorlukları analiz eder.  ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"history",
+        "code":959752,
+        "objective_code":"TAR.11.5.3",
+        "objective":"   Osmanlı Devleti'nin son dönemlerinde hükûmetlerin ekonomik hayat üzerinde kontrol sağlamaya yönelik çabalarını ekonomik ve politik açılardan değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"history",
+        "code":959753,
+        "objective_code":"TAR.11.6",
+        "objective":"XIX VE XX. YÜZYILDA DEĞİŞEN GÜNDELİK HAYAT ",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"history",
+        "code":959754,
+        "objective_code":"TAR.11.6.1",
+        "objective":"   Osmanlı Devleti’nin son dönemlerindeki nüfus hareketlerinin siyasi, askerî ve ekonomik sebep ve sonuçlarını açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"history",
+        "code":959755,
+        "objective_code":"TAR.11.6.2",
+        "objective":"   Modernleşmeyle birlikte sosyal, ekonomik ve politik anlayışta yaşanan değişim ve dönüşümlerin gündelik hayata etkilerini analiz eder. ",
+        "depth":2
+    }
+]

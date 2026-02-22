@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Method Not Allowed</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f8f9fa;
+            color: #333;
+            text-align: center;
+            padding-top: 100px;
+        }
+        h1 {
+            font-size: 72px;
+            margin-bottom: 20px;
+            color: #fd7e14; /* orange for warning */
+        }
+        p {
+            font-size: 24px;
+            margin-bottom: 30px;
+        }
+        a {
+            text-decoration: none;
+            color: #007bff;
+            font-weight: bold;
+        }
+        a:hover {
+            color: #0056b3;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+        }
+        .icon {
+            font-size: 100px;
+            margin-bottom: 20px;
+            color: #fd7e14;
+        }
+        .hint {
+            font-size: 16px;
+            color: #6c757d;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="icon">⚠️</div>
+        <h1>405 Method Not Allowed</h1>
+        <p>Sorry — the request method used for this endpoint is not allowed.</p>
+        <p>Please check whether you should be using <strong>GET</strong> or <strong>POST</strong>, or return <a href="{{ url_for('common_routes.dashboard_page') }}">home</a>.</p>
+        <div class="hint">If you think this is a mistake, contact your administrator or review the route's allowed methods.</div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,107 @@
+/* ===== Mobile Sidebar ===== */
+@media (max-width: 768px) {
+
+  /* Sidebar toggle button (hamburger) */
+  #sidebar-toggle {
+    display: inline-flex !important;           /* ensure visible */
+    align-items: center !important;
+    justify-content: center !important;
+    background: none !important;
+    border: none !important;
+    font-size: 28px !important;
+    color: white !important;
+    cursor: pointer !important;
+    z-index: 1200 !important;                  /* above sidebar */
+  }
+
+  /* Sidebar hidden by default */
+  .sidebar {
+    position: fixed !important;
+    top: 0 !important;
+    left: -240px !important;                   /* hide sidebar */
+    width: 240px !important;
+    height: 100% !important;
+    background: #1b2735 !important;
+    color: white !important;
+    overflow-y: auto !important;
+    transition: left 0.3s ease !important;
+    z-index: 1201 !important;
+  }
+
+  /* Show sidebar when toggled */
+  .sidebar.show {
+    left: 0 !important;
+  }
+
+  /* Sidebar links */
+  .sidebar ul.menu {
+    list-style: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  .sidebar ul.menu li a {
+    display: block !important;
+    padding: 12px 16px !important;
+    color: white !important;
+    text-decoration: none !important;
+  }
+  .sidebar ul.menu li a:hover {
+    background: #2d3e50 !important;
+  }
+
+  /* Prevent scrolling when sidebar open */
+  body.sidebar-open {
+    overflow: hidden !important;
+  }
+
+  /* Navbar fixed on top */
+  .navbar {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    height: 60px !important;
+    background: linear-gradient(180deg, #2d3e50, #1b2735) !important;
+    color: white !important;
+    display: flex !important;
+    align-items: center !important;
+    padding: 0 15px !important;
+    z-index: 1100 !important; /* on top of sidebar */
+  }
+
+  /* Push content below navbar */
+  .main {
+    margin-top: 60px !important;
+    margin-left: 0 !important;
+  }
+
+  /* Prevent horizontal scrolling */
+  html, body {
+    overflow-x: hidden !important;
+    overscroll-behavior-x: none !important;
+  }
+
+  /* Two-columns stack vertically */
+  .two-columns {
+    flex-direction: column;
+    gap: 15px;
+  }
+  .two-columns > .card {
+    min-width: 100%;
+  }
+
+  /* Chatbot button fixed */
+  #chatbot-btn {
+    width: 50px;
+    height: 50px;
+    font-size: 24px;
+    bottom: 20px;
+    right: 20px;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    z-index: 1350; /* above sidebar & navbar */
+  }
+}

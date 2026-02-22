@@ -1,0 +1,23 @@
+button {
+  padding: 10px 16px;
+  border: none;
+  border-radius: 8px;
+  background: #1abc9c;
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.3s, transform 0.2s !important;
+}
+
+button:hover {
+  background: #16a085;
+  transform: scale(1.05);
+}
+
+button.danger {
+  background: #e74c3c;
+}
+
+button.danger:hover {
+  background: #c0392b;
+}

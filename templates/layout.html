@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="tr">
+{% if not session.get("username") %}
+<script>
+    window.location.href = "{{ url_for('common_routes.login_page') }}";
+</script>
+{% endif %}
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>E2L Dashboard</title>
+    {% if page_theme == "dark" %}
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style-dark.css') }}">
+    {% else %}
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    {% endif %}
+    {% if background %}
+    <style>body { background: linear-gradient(135deg, #fff8e1, #{{ background }}); }</style>
+    {% endif %}
+    <link rel="apple-touch-icon" sizes="120x120" href="{{ url_for('static', filename='apple_touch_icons/apple-touch-icon-120x120.png') }}">
+    <link rel="apple-touch-icon" sizes="120x120" href="{{ url_for('static', filename='apple_touch_icons/apple-touch-icon-120x120-precomposed.png') }}">
+    <link rel="apple-touch-icon" href="{{ url_for('static', filename='apple_touch_icons/apple-touch-icon.png') }}">
+    <link rel="apple-touch-icon" href="{{ url_for('static', filename='apple_touch_icons/apple-touch-icon-precomposed.png') }}">
+    <link rel="icon" type="image/png" href="{{ url_for('static', filename='apple_touch_icons/favicon.ico') }}">
+    <link rel="icon" type="image/x-icon" href="{{ url_for('static', filename='images/logo-short.ico') }}">
+
+
+    <style>
+        body { touch-action: manipulation; }
+        .sidebar ul.menu { list-style: none; padding-left: 0; margin: 0; }
+        .sidebar ul.menu li { margin-bottom: 10px; }
+    </style>
+</head>
+<body>
+
+<!-- Logout Modal -->
+<div id="logout-overlay" class="hide"></div>
+<div id="logout-modal" class="hide">
+  <p style="margin-bottom:20px; font-weight:bold;">Çıkış yapmak istediğinize emin misiniz?</p>
+  <button id="confirm-logout">Evet</button>
+  <button onclick="closeLogoutModal()">Hayır</button>
+</div>
+
+{% if not ajax %}
+<div class="sidebar">
+  <img src="{{ url_for('static', filename='images/logo.png') }}" style="width: 200px; height: auto;">
+  <ul class="menu">
+    {% for item in sidebar_links %}
+    <li>
+      <a href="{{ url_for(item.endpoint) if item.endpoint != '#' else '#' }}" {% if item.onclick %}onclick="{{ item.onclick }}"{% endif %}>
+        {{ item.name }}
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div class="main">
+  <div class="navbar">
+    <button id="sidebar-toggle">☰</button>
+    Hoş geldiniz, {{ name_surname if name_surname else 'Misafir' }}!
+  </div>
+
+  <div class="content">
+
+{% endif %}
+
+{% block content %}
+{% if not logged_in %}
+<script>
+    window.location.href = "{{ url_for('common_routes.login_page') }}";
+</script>
+{% endif %}
+{% endblock %}
+
+{% if not ajax %}
+  </div> <!-- content -->
+</div> <!-- main -->
+{% endif %}
+
+{% with messages = get_flashed_messages(with_categories=true) %}
+{% if messages %}
+  <div id="flash-overlay"></div>
+  <div id="flash-modal">
+    {% for category, msg in messages %}
+      <div class="flash {{ category }}">{{ msg | safe }}</div>
+    {% endfor %}
+    <button id="flash-close">Kapat</button>
+  </div>
+{% endif %}
+{% endwith %}
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+
+  // Flash messages
+  const flashOverlay = document.getElementById("flash-overlay");
+  const flashModal = document.getElementById("flash-modal");
+  const flashCloseBtn = document.getElementById("flash-close");
+  function hideFlash() {
+    if (!flashModal || !flashOverlay) return;
+    flashModal.classList.remove("show");
+    flashModal.classList.add("hide");
+    flashOverlay.classList.remove("show");
+    flashOverlay.classList.add("hide");
+    setTimeout(() => { flashOverlay.style.display = "none"; flashModal.style.display = "none"; }, 500);
+  }
+  if (flashOverlay && flashModal) {
+    flashOverlay.classList.add("show"); flashModal.classList.add("show");
+    if (flashCloseBtn) flashCloseBtn.addEventListener("click", hideFlash);
+    flashOverlay.addEventListener("click", hideFlash);
+    setTimeout(hideFlash, 300000);
+  }
+
+  // Logout modal
+  const logoutConfirmBtn = document.getElementById("confirm-logout");
+  function showLogoutModal() {
+    const overlay = document.getElementById('logout-overlay');
+    const modal = document.getElementById('logout-modal');
+    overlay.classList.remove('hide'); modal.classList.remove('hide');
+    overlay.style.display = 'block'; modal.style.display = 'block';
+    setTimeout(() => { overlay.classList.add('show'); modal.classList.add('show'); }, 10);
+  }
+  function closeLogoutModal() {
+    const overlay = document.getElementById('logout-overlay');
+    const modal = document.getElementById('logout-modal');
+    overlay.classList.remove('show'); modal.classList.remove('show');
+    setTimeout(() => { overlay.classList.add('hide'); modal.classList.add('hide'); overlay.style.display='none'; modal.style.display='none'; }, 300);
+  }
+  window.showLogoutModal = showLogoutModal;
+  window.closeLogoutModal = closeLogoutModal;
+  if (logoutConfirmBtn) logoutConfirmBtn.addEventListener("click", () => { window.location.href = "{{ url_for('common_routes.logout_page') }}"; });
+
+  // Sidebar toggle
+  const sidebar = document.querySelector('.sidebar');
+  const toggleBtn = document.getElementById('sidebar-toggle');
+  if (toggleBtn && sidebar) {
+    toggleBtn.addEventListener('click', () => { sidebar.classList.toggle('show'); document.body.classList.toggle('sidebar-open'); });
+    document.addEventListener('click', (e) => {
+      if (window.innerWidth <= 768 && sidebar.classList.contains('show') &&
+        !sidebar.contains(e.target) && !toggleBtn.contains(e.target)) {
+          sidebar.classList.remove('show'); document.body.classList.remove('sidebar-open');
+      }
+    });
+  }
+
+  // AJAX loader
+  function loadAjaxContent(url) {
+    const contentDiv = document.querySelector(".content");
+    if (!contentDiv) return;
+    contentDiv.classList.remove("loaded");
+    fetch(url, { headers: { "X-Requested-With": "XMLHttpRequest" } })
+      .then(res => res.text())
+      .then(html => {
+        contentDiv.innerHTML = html;
+        // Look for any page-specific init functions and run them
+        const scripts = contentDiv.querySelectorAll("script");
+        // Run any inline scripts
+        contentDiv.querySelectorAll("script").forEach(script => eval(script.textContent));
+
+        const loggedIn = {{ 'true' if logged_in else 'false' }};
+        // If user is no longer logged in, do a full reload
+        if (!loggedIn) {
+            // Use replace to avoid adding a history entry
+            window.location.replace("{{ url_for('common_routes.login_page') }}");
+            location.reload();
+            return;
+        }
+
+        setTimeout(() => contentDiv.classList.add("loaded"), 50);
+        window.scrollTo({ top: 0, behavior: "smooth" });
+        window.history.pushState(null, "", url);
+      })
+      .catch(err => console.error(err));
+  }
+
+  document.body.addEventListener('click', e => {
+    const ajaxBtn = e.target.closest('.ajax-btn');
+    if (ajaxBtn) { e.preventDefault(); const url = ajaxBtn.dataset.url; if(url) loadAjaxContent(url); return; }
+    const ajaxLink = e.target.closest('.ajax-link');
+    if (ajaxLink) { e.preventDefault(); const url = ajaxLink.href; loadAjaxContent(url); return; }
+    const sidebarLink = e.target.closest('.sidebar a');
+    if (sidebarLink) {
+      if (sidebarLink.textContent.includes("Çıkış")) { e.preventDefault(); showLogoutModal(); return; }
+      const url = sidebarLink.href; if (!url.includes(window.location.origin)) return;
+      e.preventDefault(); loadAjaxContent(url);
+      if (window.innerWidth <= 768 && sidebar.classList.contains('show')) { sidebar.classList.remove('show'); document.body.classList.remove('sidebar-open'); }
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+  });
+
+  window.addEventListener('popstate', () => { loadAjaxContent(window.location.href); });
+
+  // Initial content fade
+  const contentDiv = document.querySelector('.content');
+  if (contentDiv) setTimeout(() => contentDiv.classList.add('loaded'), 50);
+
+
+});
+</script>
+
+</body>
+</html>

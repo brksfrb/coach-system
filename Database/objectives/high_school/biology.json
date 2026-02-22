@@ -1,0 +1,1066 @@
+[
+    {
+        "grade":9,
+        "subject":"biology",
+        "code":959519,
+        "objective_code":"BİY.9.1",
+        "objective":"Yaşam Bilimi Biyoloji ",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"biology",
+        "code":959520,
+        "objective_code":"BİY.9.1.1",
+        "objective":"   Biyoloji ve Canlıların Ortak Özellikleri ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"biology",
+        "code":959521,
+        "objective_code":"BİY.9.1.1.1",
+        "objective":"      Canlıların ortak özelliklerini irdeler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"biology",
+        "code":959522,
+        "objective_code":"BİY.9.1.2",
+        "objective":"   Canlıların Yapısında Bulunan Temel Bileşikler ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"biology",
+        "code":959523,
+        "objective_code":"BİY.9.1.2.1",
+        "objective":"      Canlıların yapısını oluşturan organik ve inorganik bileşikleri açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"biology",
+        "code":959524,
+        "objective_code":"BİY.9.1.2.2",
+        "objective":"      Lipit, karbonhidrat, protein, vitamin, su ve minerallerin sağlıklı beslenme ile ilişkisini kurar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"biology",
+        "code":959525,
+        "objective_code":"BİY.9.2",
+        "objective":"Hücre ",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"biology",
+        "code":959526,
+        "objective_code":"BİY.9.2.1",
+        "objective":"   Hücre teorisine ilişkin çalışmaları açıklar. ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"biology",
+        "code":959527,
+        "objective_code":"BİY.9.2.1.1",
+        "objective":"      Hücre teorisine ilişkin çalışmaları açıklar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"biology",
+        "code":959528,
+        "objective_code":"BİY.9.2.1.2",
+        "objective":"      Hücresel yapıları ve görevlerini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"biology",
+        "code":959529,
+        "objective_code":"BİY.9.2.1.3",
+        "objective":"      Hücre zarından madde geçişine ilişkin kontrollü bir deney yapar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"biology",
+        "code":959530,
+        "objective_code":"BİY.9.3",
+        "objective":"Canlılar Dünyası ",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"biology",
+        "code":959531,
+        "objective_code":"BİY.9.3.1",
+        "objective":"   Canlıların Çeşitliliği ve Sınıflandırılması ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"biology",
+        "code":959532,
+        "objective_code":"BİY.9.3.1.1",
+        "objective":"      Canlıların çeşitliliğinin anlaşılmasında sınıflandırmanın önemini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"biology",
+        "code":959533,
+        "objective_code":"BİY.9.3.1.2",
+        "objective":"      Canlıların sınıflandırılmasında kullanılan kategorileri ve bu kategoriler arasındaki hiyerarşiyi örneklerle açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"biology",
+        "code":959534,
+        "objective_code":"BİY.9.3.2",
+        "objective":"   Canlı Âlemleri ve Özellikleri ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"biology",
+        "code":959535,
+        "objective_code":"BİY.9.3.2.1",
+        "objective":"      Canlıların sınıflandırılmasında kullanılan âlemleri ve bu âlemlerin genel özelliklerini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"biology",
+        "code":959536,
+        "objective_code":"BİY.9.3.2.2",
+        "objective":"      Canlıların biyolojik süreçlere, ekonomiye ve teknolojiye katkılarını örneklerle açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"biology",
+        "code":959537,
+        "objective_code":"BİY.9.3.2.3",
+        "objective":"      Virüslerin genel özelliklerini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"biology",
+        "code":959538,
+        "objective_code":"BİY.10.1",
+        "objective":"Hücre Bölünmeleri ",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"biology",
+        "code":959539,
+        "objective_code":"BİY.10.1.1",
+        "objective":"   Mitoz ve Eşeysiz Üreme ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"biology",
+        "code":959540,
+        "objective_code":"BİY.10.1.1.1",
+        "objective":"      Canlılarda hücre bölünmesinin gerekliliğini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"biology",
+        "code":959541,
+        "objective_code":"BİY.10.1.1.2",
+        "objective":"      Mitozu açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"biology",
+        "code":959542,
+        "objective_code":"BİY.10.1.1.3",
+        "objective":"      Eşeysiz üremeyi örneklerle açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"biology",
+        "code":959543,
+        "objective_code":"BİY.10.1.2",
+        "objective":"   Mayoz ve Eşeyli Üreme ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"biology",
+        "code":959544,
+        "objective_code":"BİY.10.1.2.1",
+        "objective":"      Mayozu açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"biology",
+        "code":959545,
+        "objective_code":"BİY.10.1.2.2",
+        "objective":"      Eşeyli üremeyi örneklerle açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"biology",
+        "code":959546,
+        "objective_code":"BİY.10.2",
+        "objective":"Kalıtımın Genel İlkeleri ",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"biology",
+        "code":959547,
+        "objective_code":"BİY.10.2.1",
+        "objective":"   Kalıtım ve Biyolojik Çeşitlilik ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"biology",
+        "code":959548,
+        "objective_code":"BİY.10.2.1.1",
+        "objective":"      Kalıtımın genel esaslarını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"biology",
+        "code":959549,
+        "objective_code":"BİY.10.2.1.2",
+        "objective":"      Genetik varyasyonların biyolojik çeşitliliği açıklamadaki rolünü sorgular. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"biology",
+        "code":959550,
+        "objective_code":"BİY.10.3",
+        "objective":"Ekosistem Ekolojisi ve Güncel Çevre Sorunları ",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"biology",
+        "code":959551,
+        "objective_code":"BİY.10.3.1",
+        "objective":"   Ekosistem Ekolojisi ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"biology",
+        "code":959552,
+        "objective_code":"BİY.10.3.1.1",
+        "objective":"      Ekosistemin canlı ve cansız bileşenleri arasındaki ilişkiyi açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"biology",
+        "code":959553,
+        "objective_code":"BİY.10.3.1.2",
+        "objective":"      Canlılardaki beslenme şekillerini örneklerle açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"biology",
+        "code":959554,
+        "objective_code":"BİY.10.3.1.3",
+        "objective":"      Ekosistemde madde ve enerji akışını analiz eder. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"biology",
+        "code":959555,
+        "objective_code":"BİY.10.3.1.4",
+        "objective":"      Madde döngüleri ve hayatın sürdürülebilirliği arasında ilişki kurar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"biology",
+        "code":959556,
+        "objective_code":"BİY.10.3.2",
+        "objective":"   Güncel Çevre Sorunları ve İnsan ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"biology",
+        "code":959557,
+        "objective_code":"BİY.10.3.2.1",
+        "objective":"      Güncel çevre sorunlarının sebeplerini ve olası sonuçlarını değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"biology",
+        "code":959558,
+        "objective_code":"BİY.10.3.2.2",
+        "objective":"      Birey olarak çevre sorunlarının ortaya çıkmasındaki rolünü sorgular. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"biology",
+        "code":959559,
+        "objective_code":"BİY.10.3.2.3",
+        "objective":"      Yerel ve küresel bağlamda çevre kirliliğinin önlenmesine yönelik çözüm önerilerinde bulunur. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"biology",
+        "code":959560,
+        "objective_code":"BİY.10.3.3",
+        "objective":"   Doğal Kaynaklar ve Biyolojik Çeşitliliğin Korunması ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"biology",
+        "code":959561,
+        "objective_code":"BİY.10.3.3.1",
+        "objective":"      Doğal kaynakların sürdürülebilirliğinin önemini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"biology",
+        "code":959562,
+        "objective_code":"BİY.10.3.3.2",
+        "objective":"      Biyolojik çeşitliliğin yaşam için önemini sorgular. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"biology",
+        "code":959563,
+        "objective_code":"BİY.10.3.3.3",
+        "objective":"      Biyolojik çeşitliliğin korunmasına yönelik çözüm önerilerinde bulunur. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959564,
+        "objective_code":"BİY.11.1",
+        "objective":"İnsan Fizyolojisi ",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959565,
+        "objective_code":"BİY.11.1.1",
+        "objective":"   Denetleyici ve Düzeleyici Sistem, Duyu Organları ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959566,
+        "objective_code":"BİY.11.1.1.1",
+        "objective":"      Sinir sisteminin yapı, görev ve işleyişini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959567,
+        "objective_code":"BİY.11.1.1.2",
+        "objective":"      Endokrin bezleri ve bu bezlerin salgıladıkları hormonları açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959568,
+        "objective_code":"BİY.11.1.1.3",
+        "objective":"      Sinir sistemi rahatsızlıklarına örnekler verir. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959569,
+        "objective_code":"BİY.11.1.1.4",
+        "objective":"      Sinir sisteminin sağlıklı yapısının korunması için yapılması gerekenlere ilişkin çıkarımlarda bulunur. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959570,
+        "objective_code":"BİY.11.1.1.5",
+        "objective":"      Duyu organlarının yapısını ve işleyişini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959571,
+        "objective_code":"BİY.11.1.1.6",
+        "objective":"      Duyu organları rahatsızlıklarını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959572,
+        "objective_code":"BİY.11.1.1.7",
+        "objective":"      Duyu organlarının sağlıklı yapısının korunması için yapılması gerekenlere ilişkin çıkarımlarda bulunur. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959573,
+        "objective_code":"BİY.11.1.2",
+        "objective":"   Destek ve Hareket Sistemi ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959574,
+        "objective_code":"BİY.11.1.2.1",
+        "objective":"      Destek ve hareket sisteminin yapı, görev ve işleyişini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959575,
+        "objective_code":"BİY.11.1.2.2",
+        "objective":"      Destek ve hareket sistemi rahatsızlıklarını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959576,
+        "objective_code":"BİY.11.1.2.3",
+        "objective":"      Destek ve hareket sisteminin sağlıklı yapısının korunması için yapılması gerekenlere ilişkin çıkarımlarda bulunur.  ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959577,
+        "objective_code":"BİY.11.1.3",
+        "objective":"   Sindirim Sistemi",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959578,
+        "objective_code":"BİY.11.1.3.1",
+        "objective":"      Sindirim sisteminin yapı, görev ve işleyişini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959579,
+        "objective_code":"BİY.11.1.3.2",
+        "objective":"      Sindirim sistemi rahatsızlıklarını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959580,
+        "objective_code":"BİY.11.1.3.3",
+        "objective":"      Sindirim sisteminin sağlıklı yapısının korunması için yapılması gerekenlere ilişkin çıkarımlarda bulunur. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959581,
+        "objective_code":"BİY.11.1.4",
+        "objective":"   Dolaşım Sistemleri ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959582,
+        "objective_code":"BİY.11.1.4.1",
+        "objective":"      Kalp, kan ve damarların yapı, görev ve işleyişini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959583,
+        "objective_code":"BİY.11.1.4.2",
+        "objective":"      Lenf dolaşımını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959584,
+        "objective_code":"BİY.11.1.4.3",
+        "objective":"      Dolaşım sistemi rahatsızlıklarını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959585,
+        "objective_code":"BİY.11.1.4.4",
+        "objective":"      Dolaşım sisteminin sağlıklı yapısının korunması için yapılması gerekenlere ilişkin çıkarımlarda bulunur. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959586,
+        "objective_code":"BİY.11.1.4.5",
+        "objective":"      Bağışıklık çeşitlerini ve vücudun doğal savunma mekanizmalarını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959587,
+        "objective_code":"BİY.11.1.5",
+        "objective":"   Solunum Sistemi",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959588,
+        "objective_code":"BİY.11.1.5.1",
+        "objective":"      Solunum sisteminin yapı, görev ve işleyişini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959589,
+        "objective_code":"BİY.11.1.5.2",
+        "objective":"      Alveollerden dokulara ve dokulardan alveollere gaz taşınmasını açıklar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959590,
+        "objective_code":"BİY.11.1.5.3",
+        "objective":"      Solunum sistemi hastalıklarına örnekler verir.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959591,
+        "objective_code":"BİY.11.1.5.4",
+        "objective":"      Solunum sisteminin sağlıklı yapısının korunması için yapılması gerekenlere ilişkin çıkarımlarda bulunur.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959592,
+        "objective_code":"BİY.11.1.6",
+        "objective":"   Üriner Sistem",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959593,
+        "objective_code":"BİY.11.1.6.1",
+        "objective":"      Üriner sistemin yapı, görev ve işleyişini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959594,
+        "objective_code":"BİY.11.1.6.2",
+        "objective":"      Homeostasinin sağlanmasında böbreklerin rolünü belirtir.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959595,
+        "objective_code":"BİY.11.1.6.3",
+        "objective":"      Üriner Sistem rahatsızlıklarına örnekler verir.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959596,
+        "objective_code":"BİY.11.1.6.4",
+        "objective":"      Üriner sistemin sağlıklı yapısının korunması için yapılması gerekenlere ilişkin çıkarımlarda bulunur.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959597,
+        "objective_code":"BİY.11.1.7",
+        "objective":"   Üreme Sistemi ve Embriyonik Gelişim",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959598,
+        "objective_code":"BİY.11.1.7.1",
+        "objective":"      Üreme sisteminin yapı, görev ve işleyişini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959599,
+        "objective_code":"BİY.11.1.7.2",
+        "objective":"      Üreme sisteminin sağlıklı yapısının korunması için yapılması gerekenlere ilişkin çıkarımlarda bulunur.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959600,
+        "objective_code":"BİY.11.1.7.3",
+        "objective":"      İnsanda embriyonik gelişim sürecini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959601,
+        "objective_code":"BİY.11.2",
+        "objective":"Komünite ve Popülasyon Ekolojisi",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959602,
+        "objective_code":"BİY.11.2.1",
+        "objective":"   Komünite Ekolojisi",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959603,
+        "objective_code":"BİY.11.2.1.1",
+        "objective":"      Komünitenin yapısına etki eden faktörleri açıklar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959604,
+        "objective_code":"BİY.11.2.1.2",
+        "objective":"      Komünitede tür içi ve türler arasındaki rekabeti örneklerle açıklar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959605,
+        "objective_code":"BİY.11.2.1.3",
+        "objective":"      Komünitede türler arasında simbiyotik ilişkileri örneklerle açıklar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959606,
+        "objective_code":"BİY.11.2.1.4",
+        "objective":"      Komünitelerdeki süksesyonu örneklerle açıklar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959607,
+        "objective_code":"BİY.11.2.2",
+        "objective":"   Popülasyon Ekolojisi",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"biology",
+        "code":959608,
+        "objective_code":"BİY.11.2.2.1",
+        "objective":"      Popülasyon dinamiğine etki eden faktörleri analiz eder.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959609,
+        "objective_code":"BİY.12.1",
+        "objective":"Genden Proteine",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959610,
+        "objective_code":"BİY.12.1.1",
+        "objective":"   Nükleik Asitlerin Keşfi ve Önemi",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959611,
+        "objective_code":"BİY.12.1.1.1",
+        "objective":"      Nükleik asitlerin keşif sürecini özetler.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959612,
+        "objective_code":"BİY.12.1.1.2",
+        "objective":"      Nükleik asitlerin çeşitlerini ve görevlerini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959613,
+        "objective_code":"BİY.12.1.1.3",
+        "objective":"      Hücredeki genetik materyalin organizasyonunda parça bütün ilişkisi kurar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959614,
+        "objective_code":"BİY.12.1.1.4",
+        "objective":"      DNA' nın kendini eşlemesini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959615,
+        "objective_code":"BİY.12.1.2",
+        "objective":"   Genetik Şifre ve Protein Sentezi",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959616,
+        "objective_code":"BİY.12.1.2.1",
+        "objective":"      Protein sentezinin mekanizmasını açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959617,
+        "objective_code":"BİY.12.1.2.2",
+        "objective":"      Genetik mühendisliği ve biyoteknoloji kavramlarını açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959618,
+        "objective_code":"BİY.12.1.2.3",
+        "objective":"      Genetik mühendisliği ve biyoteknoloji uygulamalarını açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959619,
+        "objective_code":"BİY.12.1.2.4",
+        "objective":"      Genetik mühendisliği ve biyoteknoloji uygulamalarının insan hayatına etkisini değerlendirir.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959620,
+        "objective_code":"BİY.12.2",
+        "objective":"Canlılarda Enerji Dönüşümleri",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959621,
+        "objective_code":"BİY.12.2.1",
+        "objective":"   Canlılık ve Enerji",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959622,
+        "objective_code":"BİY.12.2.1.1",
+        "objective":"      Canlılığın devamı için enerjinin gerekliliğini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959623,
+        "objective_code":"BİY.12.2.2",
+        "objective":"   Fotosentez",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959624,
+        "objective_code":"BİY.12.2.2.1",
+        "objective":"      Fotosentezin canlılar açısından önemini sorgular.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959625,
+        "objective_code":"BİY.12.2.2.2",
+        "objective":"      Fotosentez sürecini şema üzerinde açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959626,
+        "objective_code":"BİY.12.2.2.3",
+        "objective":"      Fotosentez hızını etkileyen faktörleri değerlendirir.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959627,
+        "objective_code":"BİY.12.2.3",
+        "objective":"   Kemosentez",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959628,
+        "objective_code":"BİY.12.2.3.1",
+        "objective":"      Kemosentez olayını açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959629,
+        "objective_code":"BİY.12.2.4",
+        "objective":"   Hücresel Solunum",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959630,
+        "objective_code":"BİY.12.2.4.1",
+        "objective":"      Hücresel solunumu açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959631,
+        "objective_code":"BİY.12.2.4.2",
+        "objective":"      Oksijenli solunumda reaksiyona girenler ve reaksiyon sonunda açığa çıkan son ürünlere ilişkin deney yapar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959632,
+        "objective_code":"BİY.12.2.4.3",
+        "objective":"      Fotosentez ve solunum ilişkisi ile ilgili çıkarımlarda bulunur.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959633,
+        "objective_code":"BİY.12.3",
+        "objective":"Bitki Biyolojisi",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959634,
+        "objective_code":"BİY.12.3.1",
+        "objective":"   Bitkilerin Yapısı",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959635,
+        "objective_code":"BİY.12.3.1.1",
+        "objective":"      Çiçekli bir bitkinin temel kısımlarının yapı ve görevlerini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959636,
+        "objective_code":"BİY.12.3.1.2",
+        "objective":"      Bitki gelişiminde hormonların etkisini örneklerle açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959637,
+        "objective_code":"BİY.12.3.1.3",
+        "objective":"      Bitki hareketlerini gözlemleyebileceği kontrollü deney yapar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959638,
+        "objective_code":"BİY.12.3.2",
+        "objective":"   Bitkilerde Madde Taşınması",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959639,
+        "objective_code":"BİY.12.3.2.1",
+        "objective":"      Köklerde su ve mineral emilimini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959640,
+        "objective_code":"BİY.12.3.2.2",
+        "objective":"      Bitkilerde su ve mineral taşınma mekanizmasını açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959641,
+        "objective_code":"BİY.12.3.2.3",
+        "objective":"      Bitkilerde fotosentez ürünlerinin taşınma mekanizmasını açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959642,
+        "objective_code":"BİY.12.3.2.4",
+        "objective":"      Bitkilerde su ve madde taşınması ile ilgili deney tasarlar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959643,
+        "objective_code":"BİY.12.3.3",
+        "objective":"   Bitkilerde Eşeyli Üreme",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959644,
+        "objective_code":"BİY.12.3.3.1",
+        "objective":"      Çiçeğin kısımlarını ve bu kısımların görevlerini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959645,
+        "objective_code":"BİY.12.3.3.2",
+        "objective":"      Çiçekli bitkilerde döllenmeyi, tohum ve meyvenin oluşumunu açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959646,
+        "objective_code":"BİY.12.3.3.3",
+        "objective":"      Tohum çimlenmesini gözleyebileceği deney tasarlar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959647,
+        "objective_code":"BİY.12.3.3.4",
+        "objective":"      Dormansi ve çimlenme arasında ilişki kurar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959648,
+        "objective_code":"BİY.12.4",
+        "objective":"Canlılar ve Çevre",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959649,
+        "objective_code":"BİY.12.4.1",
+        "objective":"   Canlılar ve Çevre",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959650,
+        "objective_code":"BİY.12.4.1.1",
+        "objective":"      Çevre şartlarının genetik değişimlerin sürekliliğine olan etkisini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"biology",
+        "code":959651,
+        "objective_code":"BİY.12.4.1.2",
+        "objective":"      Tarım ve hayvancılıkta yapay seçilim uygulamalarına örnekler verir.",
+        "depth":3
+    }
+]

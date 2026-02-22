@@ -1,0 +1,61 @@
+/* Tablolar */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 15px;
+  background: white;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+table th, table td {
+  padding: 14px;
+  text-align: left;
+  border-bottom: 1px solid #eee;
+}
+
+table th {
+  background: #1abc9c;
+  color: white;
+  font-weight: 600;
+}
+
+table tr:hover {
+  background: #f9f9f9;
+}
+
+/* Listeler */
+ul.list {
+  margin-top: 15px;
+}
+
+ul.list li {
+  background: #fff;
+  padding: 12px;
+  margin: 6px 0;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+
+
+  .hover-table {
+  transition: transform 0.3s ease, box-shadow 0.3s ease !important;
+}
+
+.hover-table:hover {
+  transform: translateY(-8px) !important;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15) !important;
+}
+
+
+.bordered-table th,
+.bordered-table td {
+    border: 1px solid #333;  /* table cell borders */
+    padding: 8px;
+    text-align: center;
+}

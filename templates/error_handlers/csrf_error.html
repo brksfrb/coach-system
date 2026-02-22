@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Unauthorized Access</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f8f9fa;
+            color: #333;
+            text-align: center;
+            padding-top: 100px;
+        }
+        h1 {
+            font-size: 72px;
+            margin-bottom: 20px;
+            color: #dc3545; /* red for forbidden */
+        }
+        p {
+            font-size: 24px;
+            margin-bottom: 30px;
+        }
+        a {
+            text-decoration: none;
+            color: #007bff;
+            font-weight: bold;
+        }
+        a:hover {
+            color: #0056b3;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+        }
+        .icon {
+            font-size: 100px;
+            margin-bottom: 20px;
+            color: #dc3545;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="icon">🚫</div>
+        <h1>401 Unauthorized</h1>
+        <p>Oops! You are not authorized to access this page.</p>
+        <p>Please contact your administrator or return <a href="{{ url_for('common_routes.dashboard_page') }}">home</a>.</p>
+    </div>
+</body>
+</html>

@@ -1,0 +1,45 @@
+{% extends "admin/admin_panel_layout.html" %}
+{% block inner_content %}
+<script src="https://cdn.socket.io/4.6.1/socket.io.min.js"></script>
+<style>h3 { margin-bottom: 10px; }</style>
+<div class="card">
+    <h3>CPU Usage: <span id="cpu-usage">0</span>%</h3>
+    <h3>Memory Usage: <span id="memory-usage">0</span>%</h3>
+    <h3>Disk Usage: <span id="disk-usage">0</span>%</h3>
+    <h3>GPU Usage: <span id="gpu-usage">0</span>%</h3>
+    <h3>GPU Temperature: <span id="gpu-temperature">0</span>°C</h3>
+</div>
+
+<script>
+    function loadSocketIO(callback) {
+        const script = document.createElement('script');
+        script.src = "https://cdn.socket.io/4.6.1/socket.io.min.js";
+        script.onload = callback;
+        document.head.appendChild(script);
+    }
+    function runPageScripts() {
+        const socket = io("/server-status");
+        const cpu_usage = document.getElementById("cpu-usage");
+        const memory_usage = document.getElementById("memory-usage");
+        const disk_usage = document.getElementById("disk-usage");
+        const gpu_usage = document.getElementById("gpu-usage");
+        const gpu_temperature = document.getElementById("gpu-temperature");
+        socket.on("status", data => {
+            cpu_usage.textContent = data.cpu;
+            memory_usage.textContent = data.memory;
+            disk_usage.textContent = data.disk;
+            gpu_usage.textContent = data.gpu;
+            gpu_temperature.textContent = data.gpu_temp;
+        });
+    }
+
+    // Initial load
+    if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", loadSocketIO(runPageScripts));
+    }
+    else {
+        loadSocketIO(runPageScripts);
+    }
+</script>
+
+{% endblock %}

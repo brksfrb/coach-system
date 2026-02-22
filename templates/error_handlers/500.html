@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Server Error</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f8f9fa;
+            color: #333;
+            text-align: center;
+            padding-top: 100px;
+        }
+        h1 {
+            font-size: 72px;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 24px;
+            margin-bottom: 30px;
+        }
+        a {
+            text-decoration: none;
+            color: #007bff;
+            font-weight: bold;
+        }
+        a:hover {
+            color: #0056b3;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>500</h1>
+        <p>Oops! Something went wrong on our server.</p>
+        <p>Please try again later or return <a href="{{ url_for('common_routes.dashboard_page') }}">home</a>.</p>
+    </div>
+</body>
+</html>

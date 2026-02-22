@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Blacklisted</title>
+    <style>
+        @keyframes pulseGlow {
+            0% {
+                text-shadow: 0 0 10px rgba(255, 0, 0, 0.6),
+                             0 0 20px rgba(255, 0, 0, 0.4),
+                             0 0 30px rgba(255, 0, 0, 0.2);
+            }
+            50% {
+                text-shadow: 0 0 20px rgba(255, 0, 0, 1),
+                             0 0 40px rgba(255, 0, 0, 0.8),
+                             0 0 60px rgba(255, 0, 0, 0.6);
+            }
+            100% {
+                text-shadow: 0 0 10px rgba(255, 0, 0, 0.6),
+                             0 0 20px rgba(255, 0, 0, 0.4),
+                             0 0 30px rgba(255, 0, 0, 0.2);
+            }
+        }
+
+        @keyframes containerPulse {
+            0% {
+                box-shadow: 0 0 15px rgba(255, 0, 0, 0.2);
+            }
+            50% {
+                box-shadow: 0 0 40px rgba(255, 0, 0, 0.6);
+            }
+            100% {
+                box-shadow: 0 0 15px rgba(255, 0, 0, 0.2);
+            }
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #000;
+            color: #f8f9fa;
+            text-align: center;
+            padding-top: 150px;
+            margin: 0;
+        }
+        h1 {
+            font-size: 72px;
+            margin-bottom: 20px;
+            color: #ff2e2e;
+            animation: pulseGlow 2s infinite;
+        }
+        p {
+            font-size: 22px;
+            margin-bottom: 30px;
+            color: #ccc;
+        }
+        a {
+            text-decoration: none;
+            color: #0d6efd;
+            font-weight: bold;
+        }
+        a:hover {
+            color: #66b3ff;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background: rgba(255, 255, 255, 0.05);
+            padding: 40px;
+            border-radius: 12px;
+            animation: containerPulse 3s infinite ease-in-out;
+        }
+        .icon {
+            font-size: 100px;
+            margin-bottom: 20px;
+            color: #ff2e2e;
+            animation: pulseGlow 2s infinite;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="icon">⛔</div>
+        <h1>Blacklisted</h1>
+        <p>Your account or device has been <strong>blacklisted</strong> from this system.</p>
+        <p>If you believe this is a mistake, please contact an administrator.</p>
+    </div>
+</body>
+</html>

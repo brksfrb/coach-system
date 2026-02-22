@@ -1,0 +1,62 @@
+#flash-overlay {
+  position: fixed;       /* fixed to viewport */
+  top: 0;
+  left: 0;
+  width: 100vw;          /* full width */
+  height: 100vh;         /* full height */
+  background: rgba(0,0,0,0.6); /* dark background */
+  z-index: 9999;         /* above everything */
+}
+
+#flash-modal {
+  position: fixed;       /* fixed to viewport */
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: white;
+  padding: 25px 40px;
+  border-radius: 12px;
+  max-width: 400px;
+  width: 90%;
+  text-align: center;
+  z-index: 10000;        /* above overlay */
+  box-shadow: 0 5px 20px rgba(0,0,0,0.3);
+}
+
+#flash-close {
+  margin-top: 15px;
+  padding: 6px 12px;
+  border: none;
+  border-radius: 8px;
+  background: #007bff;
+  color: white;
+  cursor: pointer;
+}
+
+#flash-close:hover {
+  background: #0056b3;
+}
+
+/* Initial visible state */
+#flash-modal.show {
+  opacity: 1;
+  transition: opacity 0.5s ease; /* Fade in/out duration */
+}
+
+/* Hidden state */
+#flash-modal.hide {
+  opacity: 0;
+  transition: opacity 0.5s ease;
+  pointer-events: none; /* Prevent clicks when hidden */
+}
+
+#flash-overlay.show {
+  opacity: 1;
+  transition: opacity 0.5s ease;
+}
+
+#flash-overlay.hide {
+  opacity: 0;
+  transition: opacity 0.5s ease;
+  pointer-events: none;
+}

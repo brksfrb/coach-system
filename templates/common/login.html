@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>Giriş Yap</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/login.css') }}">
+
+  <link rel="icon" type="image/x-icon" href="{{ url_for('static', filename='images/logo-short.ico') }}">
+</head>
+<body class="login-page">
+
+  <div class="login-card">
+    <img src="{{ url_for('static', filename='images/logo.png') }}" style="width: 200px; height: auto;">
+
+    {% if error %}
+      <p class="error">{{ error }}</p>
+    {% endif %}
+    <form method="POST" action="">
+        {{ form.hidden_tag() }}  <!-- CSRF token, must include -->
+
+        <p>
+            {{ form.username(size=32, placeholder="Kullanıcı Adı") }}
+        </p>
+
+        <p>
+            {{ form.password(size=32, placeholder="Şifre") }}
+        </p>
+
+        <button type="submit">Giriş Yap</button>
+    </form>
+  </div>
+
+</body>
+</html>

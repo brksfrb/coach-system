@@ -1,0 +1,23 @@
+{% extends "layout.html" %}
+{% block content %}
+<style>
+    body { background: linear-gradient(135deg, #fff8e1, #ffcccc); }
+</style>
+<h2 style="margin-bottom: 30px;">🎯 Dashboard</h2>
+
+<!-- 📊 General Info Card -->
+<div class="card" style="height: 50%; margin-bottom:20px;">
+  <h2 style="margin-bottom: 10px;">⚙️ General</h2>
+  <p><strong>👥 Total Users:</strong> {{ numbers[0] }}</p>
+  <p><strong>👩‍🏫 Total Teachers:</strong> {{ numbers[1] }}</p>
+  <p><strong>🎓 Total Students:</strong> {{ numbers[2] }}</p>
+  <p><strong>🧑‍🤝‍🧑 Total Parents:</strong> {{ numbers[3] }}</p>
+</div>
+
+<!-- 🧩 Additional Info Columns -->
+<div class="multiple-columns" style="height: 30%;">
+  <div class="card">📅</div>
+  <div class="card">📈</div>
+  <div class="card">📚</div>
+</div>
+{% endblock %}

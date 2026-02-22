@@ -1,0 +1,57 @@
+{% extends "teacher/manage_student_layout.html" %}
+{% block inner_content %}
+<!-- Confirmation Modal -->
+<div class="modal" id="confirmation-modal">
+  <div class="modal-content">
+    <h3>Şifreyi değiştirmek istediğinize emin misiniz?</h3>
+    <div class="modal-buttons">
+      <button id="yes-btn" class="btn btn-confirm">Evet</button>
+      <button id="no-btn" class="btn btn-cancel">Hayır</button>
+    </div>
+  </div>
+</div>
+
+<!-- Password Modal -->
+<div class="modal" id="password-modal">
+    <div class="modal-content">
+        <h3 style="margin-bottom: 20px;">Yeni Bilgiler</h3>
+        <p><strong>Kullanıcı Adı: </strong>{{ student.username }}</p>
+        <p><strong>Şifre: </strong>{{ student.password }}</p>
+        <button id="okay-btn" class="btn btn-confirm" style="margin-top: 10px;">Kapat</button>
+    </div>
+</div>
+<div class="card">
+    <p style="margin-bottom: 5px;"><strong>Kullanıcı Adı: </strong>{{ student.username }}</p>
+    <p><strong>Şifre: </strong><button id="change-password-button" style="margin-left: 5px; background: #e74c3c">Sıfırla</button></p>
+</div>
+
+<script>
+    function runPageScripts() {
+        const confirmation_modal = document.getElementById("confirmation-modal");
+        const password_modal = document.getElementById("password-modal");
+        const yes_button = document.getElementById("yes-btn");
+        const no_button = document.getElementById("no-btn");
+        const okay_button = document.getElementById("okay-btn");
+        const change_password_button = document.getElementById("change-password-button");
+        change_password_button.addEventListener("click", function() {
+            confirmation_modal.classList.add("show");
+        });
+        yes_button.addEventListener("click", function() {
+            confirmation_modal.classList.remove("show");
+            password_modal.classList.add("show");
+        });
+        no_button.addEventListener("click", function() {
+            confirmation_modal.classList.remove("show");
+        });
+        okay_button.addEventListener("click", function() {
+            password_modal.classList.remove("show");
+        });
+    }
+    if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", runPageScripts);
+    }
+    else {
+        runPageScripts();
+    }
+</script>
+{% endblock %}

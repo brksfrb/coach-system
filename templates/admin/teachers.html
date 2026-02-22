@@ -1,0 +1,27 @@
+{% extends "layout.html" %}
+{% block content %}
+{% set any_teachers = teachers | length > 0 %}
+<h2 style="margin-bottom: 30px;">🧑‍🏫 Teachers {% if any_teachers %} ({{ teachers | length }}) {% endif %}</h2>
+{% if any_teachers %}
+<table class="hover-table">
+    <tr>
+        <th>Username</th>
+        <th>Name</th>
+        <th>Surname</th>
+        <th>Student Count</th>
+        <th></th>
+    </tr>
+    {% for t in teachers %}
+    <tr>
+        <td>{{ t.username }}</td>
+        <td>{{ t.name }}</td>
+        <td>{{ t.surname }}</td>
+        <td>{{ t.students | length }}</td>
+        <td><button class="ajax-btn" data-url="{{ url_for('admin_routes.view_teacher_page', username= t.username) }}">View</button></td>
+    </tr>
+    {% endfor %}
+</table>
+{% else %}
+<p><em>No teachers added yet</em></p>
+{% endif %}
+{% endblock %}

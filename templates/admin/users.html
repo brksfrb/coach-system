@@ -1,0 +1,25 @@
+{% extends "layout.html" %}
+{% block content %}
+{% set any_users = users | length > 0 %}
+<h2 style="margin-bottom: 30px;">🤖 Users {% if any_users %} ({{ users | length }}) {% endif %}</h2>
+{% if any_users %}
+<table class="hover-table">
+    <tr>
+        <th>Username</th>
+        <th>Name</th>
+        <th>Surname</th>
+        <th>Role</th>
+    </tr>
+    {% for user in users %}
+    <tr>
+        <td>{{ user.username }}</td>
+        <td>{{ user.name }}</td>
+        <td>{{ user.surname }}</td>
+        <td>{{ user.role | capitalize }}</td>
+    </tr>
+    {% endfor %}
+</table>
+{% else %}
+<p><em>No users added yet</em></p>
+{% endif %}
+{% endblock %}

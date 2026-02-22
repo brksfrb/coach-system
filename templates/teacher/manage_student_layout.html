@@ -1,0 +1,81 @@
+{% extends "layout.html" %}
+{% block content %}
+<div><button type="button" class="ajax-btn" style="margin-bottom: 20px;" data-url="{{ url_for('teacher_routes.students_page') }}">Öğrencilerim</button></div>
+<h2 style="margin-bottom: 30px;">Öğrenci Bilgileri ({{ student.username }})</h2>
+<div class="multiple-columns" style="margin-bottom: 20px;">
+    <button class="inner-ajax-btn" data-url="{{ url_for('teacher_routes.manage_student_page', username= student.username, section= 'general') }}">Genel</button>
+    <button class="inner-ajax-btn" data-url="{{ url_for('teacher_routes.manage_student_page', username= student.username, section= 'security') }}">Güvenlik</button>
+    <button class="inner-ajax-btn" data-url="{{ url_for('teacher_routes.manage_student_page', username= student.username, section= 'homeworks') }}">Ödevler</button>
+</div>
+<div class="inner-content" data-default-url="{{ url_for('teacher_routes.manage_student_page', username=student.username, section='not_set') }}">
+    {% block inner_content %}
+    <p><em>Başlamak için bir kategori seçin</em></p>
+    {% endblock %}
+</div>
+<script>
+    // Inner-AJAX loader
+    function loadInnerAjaxContent(url, only_inner = false) {
+    const innerContentDiv = document.querySelector(".inner-content");
+    if (!innerContentDiv) return;
+    innerContentDiv.classList.remove("loaded");
+    fetch(url, { headers: { "X-Requested-With": "XMLHttpRequest" } })
+      .then(res => res.text())
+      .then(html => {
+        innerContentDiv.innerHTML = html;
+        if (only_inner) {
+            const tempDiv = document.createElement("div");
+            tempDiv.innerHTML = html;
+            const newInner = tempDiv.querySelector(".inner-content");
+            innerContentDiv.innerHTML = newInner ? newInner.innerHTML : html;
+        }
+        const modals = innerContentDiv.querySelectorAll('.modal');
+        modals.forEach(modal => document.body.appendChild(modal));
+
+        // Run any inline scripts
+        innerContentDiv.querySelectorAll("script").forEach(script => eval(script.textContent));
+
+        const loggedIn = {{ 'true' if logged_in else 'false' }};
+        // If user is no longer logged in, do a full reload
+        if (!loggedIn) {
+            // Use replace to avoid adding a history entry
+            window.location.replace("{{ url_for('common_routes.login_page') }}");
+            location.reload();
+            return;
+        }
+
+        setTimeout(() => innerContentDiv.classList.add("loaded"), 50);
+        window.scrollTo({ top: 0, behavior: "smooth" });
+        window.history.pushState(null, "", url);
+      })
+      .catch(err => console.error(err));
+    }
+
+    // Run any page scripts required
+    function runPageScripts() {
+        const section = window.location.pathname.replace(/\/$/, "").split("/").pop();
+        console.log(section);
+
+        const innerContentDiv = document.querySelector(".inner-content");
+        if (section !== "students") {
+            // Load current section instead of default
+            loadInnerAjaxContent(window.location.pathname, true);
+        } else {
+            // Load default content
+            loadInnerAjaxContent(innerContentDiv.dataset.defaultUrl, true);
+        }
+        document.body.addEventListener('click', e => {
+            const innerAjaxBtn = e.target.closest('.inner-ajax-btn');
+            if (innerAjaxBtn) { e.preventDefault(); const url = innerAjaxBtn.dataset.url; if(url) loadInnerAjaxContent(url, true); return; }
+        });
+    }
+
+    // Initial load
+    if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", runPageScripts);
+    }
+    else {
+        runPageScripts();
+    }
+</script>
+
+{% endblock %}

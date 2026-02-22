@@ -1,0 +1,28 @@
+{% extends "layout.html" %}
+{% block content %}
+
+<h2 style="margin-bottom: 30px;">🗃️ Program</h2>
+<form method="post">
+    {{ form.hidden_tag() }}
+    <table class="bordered-table hover-table">
+        <tr>
+            <th>Empty</th>
+            {% for row in rows %}
+            <th>{{ row.start_hour }} - {{ row.end_hour }}</th>
+            {% endfor %}
+        </tr>
+        {% set days_tr = ["Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar"] %}
+        {% set days_en = ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"] %}
+        {% for day in days_en %}
+        <tr>
+            <td>{{ days_tr[loop.index0] }}</td>
+            {% for i in range(rows | length) %}
+            <td>{{ form[day ~ "_" ~ i]() }}</td>
+            {% endfor %}
+        </tr>
+        {% endfor %}
+    </table>
+<button type="submit" style="margin-top: 15px;">Kaydet</button>
+</form>
+
+{% endblock %}

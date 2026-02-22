@@ -1,0 +1,38 @@
+{% extends "layout.html" %}
+{% block content %}
+<style>
+    body { background: linear-gradient(135deg, #fff8e1, #e6ccff); }
+</style>
+<h2 style="margin-bottom: 30px;">➕ Create Teacher</h2>
+<form method="post">
+    {{ form.hidden_tag() }}
+    <div class="two-columns">
+        <div class="card">
+            <h3 style="margin-bottom:10px;">⚙️ General Information</h3>
+            <div class="divide-columns">
+                <div class="field">
+                    {{ form.name.label }}
+                    {{ form.name() }}
+                </div>
+                <div class="field">
+                    {{ form.surname.label }}
+                    {{ form.surname() }}
+                </div>
+                <div class="field">
+                    {{ form.gender.label }}
+                    {{ form.gender() }}
+                </div>
+                <div class="field">
+                    {{ form.max_students.label }}
+                    {{ form.max_students() }}
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <h3 style="margin-bottom: 20px;">📦 Modules</h3>
+            {{ form.modules() }}
+        </div>
+    </div>
+    <button type="submit" style="margin-top: 20px;">➕ Create</button>
+</form>
+{% endblock %}

@@ -1,0 +1,1786 @@
+[
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959296,
+        "objective_code":"KİM.9.1",
+        "objective":"KİMYA BİLİMİ",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959297,
+        "objective_code":"KİM.9.1.1",
+        "objective":"   Simyadan Kimyaya",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959298,
+        "objective_code":"KİM.9.1.1.1",
+        "objective":"      Kimyanın bilim olma sürecini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959299,
+        "objective_code":"KİM.9.1.2",
+        "objective":"   Kimya Disiplinleri ve Kimyacıların Çalışma Alanları",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959300,
+        "objective_code":"KİM.9.1.2.1",
+        "objective":"      Kimyanın ve kimyacıların başlıca çalışma alanlarını açıklar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959301,
+        "objective_code":"KİM.9.1.3",
+        "objective":"   Kimyanın Sembolik Dili",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959302,
+        "objective_code":"KİM.9.1.3.1",
+        "objective":"      Günlük hayatta sıklıkla etkileşimde bulunulan elementlerin adlarını sembolleriyle eşleştirir.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959303,
+        "objective_code":"KİM.9.1.3.2",
+        "objective":"      Bileşiklerin formüllerini adlarıyla eşleştirir.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959304,
+        "objective_code":"KİM.9.1.4",
+        "objective":"   Kimya Uygulamalarında İş Sağlığı ve Güvenliği",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959305,
+        "objective_code":"KİM.9.1.4.1",
+        "objective":"      Kimya laboratuvarlarında uyulması gereken iş sağlığı ve güvenliği kurallarını açıklar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959306,
+        "objective_code":"KİM.9.1.4.2",
+        "objective":"      Kimyasal maddelerin insan sağlığı ve çevre üzerindeki etkilerini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959307,
+        "objective_code":"KİM.9.1.4.3",
+        "objective":"      Kimya laboratuvarında kullanılan bazı temel malzemeleri tanır.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959308,
+        "objective_code":"KİM.9.2",
+        "objective":"ATOM VE PERİYODİK SİSTEM",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959309,
+        "objective_code":"KİM.9.2.1",
+        "objective":"   Atom Modelleri",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959310,
+        "objective_code":"KİM.9.2.1.1",
+        "objective":"      Dalton, Thomson, Rutherford ve Bohr atom modellerini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959311,
+        "objective_code":"KİM.9.2.2",
+        "objective":"   Atomun Yapısı",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959312,
+        "objective_code":"KİM.9.2.2.1",
+        "objective":"      Elektron, proton ve nötronun yüklerini, kütlelerini ve atomda bulundukları yerleri karşılaştırır",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959313,
+        "objective_code":"KİM.9.2.3",
+        "objective":"   Periyodik Sistem",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959314,
+        "objective_code":"KİM.9.2.3.1",
+        "objective":"      Elementlerin periyodik sistemdeki yerleşim esaslarını açıklar",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959315,
+        "objective_code":"KİM.9.2.3.2",
+        "objective":"      Elementleri periyodik sistemdeki yerlerine göre sınıflandırır.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959316,
+        "objective_code":"KİM.9.2.3.3",
+        "objective":"      Periyodik özelliklerin değişme eğilimlerini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959317,
+        "objective_code":"KİM.9.3",
+        "objective":"KİMYASAL TÜRLER ARASI ETKİLEŞİMLER",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959318,
+        "objective_code":"KİM.9.3.1",
+        "objective":"   Kimyasal Tür",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959319,
+        "objective_code":"KİM.9.3.1.1",
+        "objective":"      Kimyasal türleri açıklar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959320,
+        "objective_code":"KİM.9.3.2",
+        "objective":"   Kimyasal Türler Arası Etkileşimlerin Sınıflandırılması",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959321,
+        "objective_code":"KİM.9.3.2.1",
+        "objective":"      Kimyasal türler arasındaki etkileşimleri sınıflandırır",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959322,
+        "objective_code":"KİM.9.3.3",
+        "objective":"   Güçlü Etkileşimler",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959323,
+        "objective_code":"KİM.9.3.3.1",
+        "objective":"      İyonik bağın oluşumunu iyonlar arası etkileşimler ile ilişkilendirir.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959324,
+        "objective_code":"KİM.9.3.3.2",
+        "objective":"      İyonik bağlı bileşiklerin sistematik adlandırmasını yapar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959325,
+        "objective_code":"KİM.9.3.3.3",
+        "objective":"      Kovalent bağın oluşumunu atomlar arası elektron ortaklaşması temelinde açıklar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959326,
+        "objective_code":"KİM.9.3.3.4",
+        "objective":"      Kovalent bağlı bileşiklerin sistematik adlandırmasını yapar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959327,
+        "objective_code":"KİM.9.3.3.5",
+        "objective":"      Metalik bağın oluşumunu açıklar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959328,
+        "objective_code":"KİM.9.3.4",
+        "objective":"   Zayıf Etkileşimler",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959329,
+        "objective_code":"KİM.9.3.4.1",
+        "objective":"      Zayıf ve güçlü etkileşimleri bağ enerjisi esasına göre ayırt eder.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959330,
+        "objective_code":"KİM.9.3.4.2",
+        "objective":"      Kimyasal türler arasındaki zayıf etkileşimleri sınıflandırır.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959331,
+        "objective_code":"KİM.9.3.4.3",
+        "objective":"      Hidrojen bağları ile maddelerin fiziksel özellikleri arasında ilişki kurar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959332,
+        "objective_code":"KİM.9.3.5",
+        "objective":"   Fiziksel ve Kimyasal Değişimler",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959333,
+        "objective_code":"KİM.9.3.5.1",
+        "objective":"      Fiziksel ve kimyasal değişimi, kopan ve oluşan bağ enerjilerinin büyüklüğü temelinde ayırt eder.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959334,
+        "objective_code":"KİM.9.4",
+        "objective":"MADDENİN HÂLLERİ",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959335,
+        "objective_code":"KİM.9.4.1",
+        "objective":"   Maddenin Fiziksel Hâlleri",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959336,
+        "objective_code":"KİM.9.4.1.1",
+        "objective":"      Maddenin farklı hâllerde olmasının canlılar ve çevre için önemini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959337,
+        "objective_code":"KİM.9.4.2",
+        "objective":"   Katılar",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959338,
+        "objective_code":"KİM.9.4.2.1",
+        "objective":"      Katıların özellikleri ile bağların gücü arasında ilişki kurar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959339,
+        "objective_code":"KİM.9.4.3",
+        "objective":"   Sıvılar",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959340,
+        "objective_code":"KİM.9.4.3.1",
+        "objective":"      Sıvılarda viskozite kavramını açıklar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959341,
+        "objective_code":"KİM.9.4.3.2",
+        "objective":"      Sıvılarda viskoziteyi etkileyen faktörleri açıklar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959342,
+        "objective_code":"KİM.9.4.3.3",
+        "objective":"      Kapalı kaplarda gerçekleşen buharlaşma-yoğuşma süreçleri üzerinden denge buhar basıncı kavramını açıklar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959343,
+        "objective_code":"KİM.9.4.3.4",
+        "objective":"      Doğal olayları açıklamada sıvılar ve özellikleri ile ilgili kavramları kullanır.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959344,
+        "objective_code":"KİM.9.4.4",
+        "objective":"   Gazlar",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959345,
+        "objective_code":"KİM.9.4.4.1",
+        "objective":"      Gazların genel özelliklerini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959346,
+        "objective_code":"KİM.9.4.4.2",
+        "objective":"      Gazların basınç, sıcaklık, hacim ve miktar özelliklerini birimleriyle ifade eder.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959347,
+        "objective_code":"KİM.9.4.4.3",
+        "objective":"      Saf maddelerin hâl değişim grafiklerini yorumlar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959348,
+        "objective_code":"KİM.9.4.5",
+        "objective":"   Plazma",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959349,
+        "objective_code":"KİM.9.4.5.1",
+        "objective":"      Plazma hâlini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959350,
+        "objective_code":"KİM.9.5",
+        "objective":"DOĞA VE KİMYA",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959351,
+        "objective_code":"KİM.9.5.1",
+        "objective":"   Su ve Hayat",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959352,
+        "objective_code":"KİM.9.5.1.1",
+        "objective":"      Suyun varlıklar için önemini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959353,
+        "objective_code":"KİM.9.5.1.2",
+        "objective":"      Su tasarrufuna ve su kaynaklarının korunmasına yönelik çözüm önerileri geliştirir.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959354,
+        "objective_code":"KİM.9.5.1.3",
+        "objective":"      Suyun sertlik ve yumuşaklık özelliklerini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959355,
+        "objective_code":"KİM.9.5.2",
+        "objective":"   Çevre Kimyası",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959356,
+        "objective_code":"KİM.9.5.2.1",
+        "objective":"      Hava, su ve toprak kirliliğine sebep olan kimyasal kirleticileri açıklar",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"chemistry",
+        "code":959357,
+        "objective_code":"KİM.9.5.2.2",
+        "objective":"      Çevreye zarar veren kimyasal kirleticilerin etkilerinin azaltılması konusunda çözüm önerilerinde bulunur.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959358,
+        "objective_code":"KİM.10.1",
+        "objective":"KİMYANIN TEMEL KANUNLARI VE KİMYASAL HESAPLAMALAR",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959359,
+        "objective_code":"KİM.10.1.1",
+        "objective":"   Kimyanın Temel Kanunları",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959360,
+        "objective_code":"KİM.10.1.1.1",
+        "objective":"      Kimyanın temel kanunlarını açıklar.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959361,
+        "objective_code":"KİM.10.1.2",
+        "objective":"   Mol Kavramı",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959362,
+        "objective_code":"KİM.10.1.2.1",
+        "objective":"      Mol kavramını açıklar.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959363,
+        "objective_code":"KİM.10.1.3",
+        "objective":"   Kimyasal Tepkimeler ve Denklemler",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959364,
+        "objective_code":"KİM.10.1.3.1",
+        "objective":"      Kimyasal tepkimeleri açıklar.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959365,
+        "objective_code":"KİM.10.1.4",
+        "objective":"   Kimyasal Tepkimelerde Hesaplamalar",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959366,
+        "objective_code":"KİM.10.1.4.1",
+        "objective":"      Kütle, mol sayısı, molekül sayısı, atom sayısı ve gazlar için normal şartlarda hacim kavramlarını birbirleriyle ilişkilendirerek hesaplamalar yapar.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959367,
+        "objective_code":"KİM.10.2",
+        "objective":"KARIŞIMLAR",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959368,
+        "objective_code":"KİM.10.2.1",
+        "objective":"   Homojen ve Heterojen Karışımlar",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959369,
+        "objective_code":"KİM.10.2.1.1",
+        "objective":"      Karışımları niteliklerine göre sınıflandırır",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959370,
+        "objective_code":"KİM.10.2.1.2",
+        "objective":"      Çözünme sürecini moleküler düzeyde açıklar.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959371,
+        "objective_code":"KİM.10.2.1.3",
+        "objective":"      Çözünmüş madde oranını belirten ifadeleri yorumlar",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959372,
+        "objective_code":"KİM.10.2.1.4",
+        "objective":"      Çözeltilerin özelliklerini günlük hayattan örneklerle açıklar.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959373,
+        "objective_code":"KİM.10.2.2",
+        "objective":"   Ayırma ve Saflaştırma Teknikleri",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959374,
+        "objective_code":"KİM.10.2.2.1",
+        "objective":"      Endüstri ve sağlık alanlarında kullanılan karışım ayırma tekniklerini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959375,
+        "objective_code":"KİM.10.3",
+        "objective":"ASİTLER, BAZLAR VE TUZLAR",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959376,
+        "objective_code":"KİM.10.3.1",
+        "objective":"   Asitler ve Bazlar",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959377,
+        "objective_code":"KİM.10.3.1.1",
+        "objective":"      Asitleri ve bazları bilinen özellikleri yardımıyla ayırt eder.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959378,
+        "objective_code":"KİM.10.3.1.2",
+        "objective":"      Maddelerin asitlik ve bazlık özelliklerini moleküler düzeyde açıklar.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959379,
+        "objective_code":"KİM.10.3.2",
+        "objective":"   Asitlerin ve Bazların Tepkimeleri",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959380,
+        "objective_code":"KİM.10.3.2.1",
+        "objective":"      Asitler ve bazlar arasındaki tepkimeleri açıklar.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959381,
+        "objective_code":"KİM.10.3.2.2",
+        "objective":"      Asitlerin ve bazların günlük hayat açısından önemli tepkimelerini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959382,
+        "objective_code":"KİM.10.3.3",
+        "objective":"   Hayatımızda Asitler ve Bazlar",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959383,
+        "objective_code":"KİM.10.3.3.1",
+        "objective":"      Asitlerin ve bazların fayda ve zararlarını açıklar.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959384,
+        "objective_code":"KİM.10.3.3.2",
+        "objective":"      Asit ve bazlarla çalışırken alınması gereken sağlık ve güvenlik önlemlerini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959385,
+        "objective_code":"KİM.10.3.4",
+        "objective":"   Tuzlar",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959386,
+        "objective_code":"KİM.10.3.4.1",
+        "objective":"      Tuzların özelliklerini ve kullanım alanlarını açıklar",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959387,
+        "objective_code":"KİM.10.4",
+        "objective":"KİMYA HER YERDE",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959388,
+        "objective_code":"KİM.10.4.1",
+        "objective":"   Yaygın Günlük Hayat Kimyasalları",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959389,
+        "objective_code":"KİM.10.4.1.1",
+        "objective":"      Temizlik maddelerinin özelliklerini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959390,
+        "objective_code":"KİM.10.4.1.2",
+        "objective":"      Yaygın polimerlerin kullanım alanlarına örnekler verir.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959391,
+        "objective_code":"KİM.10.4.1.3",
+        "objective":"      Polimer, kâğıt, cam ve metal malzemelerin geri dönüşümünün ülke ekonomisine katkısını açıklar.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959392,
+        "objective_code":"KİM.10.4.1.4",
+        "objective":"      Kozmetik malzemelerin içerebileceği zararlı kimyasalları açıklar.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959393,
+        "objective_code":"KİM.10.4.1.5",
+        "objective":"      İlaçların farklı formlarda kullanılmasının nedenlerini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959394,
+        "objective_code":"KİM.10.4.2",
+        "objective":"   Gıdalar",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959395,
+        "objective_code":"KİM.10.4.2.1",
+        "objective":"      Hazır gıdaları seçerken ve tüketirken dikkat edilmesi gereken hususları açıklar.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"chemistry",
+        "code":959396,
+        "objective_code":"KİM.10.4.2.2",
+        "objective":"      Yenilebilir yağ türlerini sınıflandırır.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959397,
+        "objective_code":"KİM.11.1",
+        "objective":"MODERN ATOM TEORİSİ",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959398,
+        "objective_code":"KİM.11.1.1",
+        "objective":"   Atomun Kuantum Modeli",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959399,
+        "objective_code":"KİM.11.1.1.1",
+        "objective":"      Atomu kuantum modeliyle açıklar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959400,
+        "objective_code":"KİM.11.1.2",
+        "objective":"   Periyodik Sistem ve Elektron Dizilimleri",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959401,
+        "objective_code":"KİM.11.1.2.1",
+        "objective":"      Nötr atomların elektron dizilimleriyle periyodik sistemdeki yerleri arasında ilişki kurar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959402,
+        "objective_code":"KİM.11.1.3",
+        "objective":"   Periyodik Özellikler",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959403,
+        "objective_code":"KİM.11.1.3.1",
+        "objective":"      Periyodik özelliklerdeki değişim eğilimlerini sebepleriyle açıklar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959404,
+        "objective_code":"KİM.11.1.4",
+        "objective":"   Elementleri Tanıyalım",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959405,
+        "objective_code":"KİM.11.1.4.1",
+        "objective":"      Elementlerin periyodik sistemdeki konumu ile özellikleri arasındaki ilişkileri açıklar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959406,
+        "objective_code":"KİM.11.1.5",
+        "objective":"   Yükseltgenme Basamakları",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959407,
+        "objective_code":"KİM.11.1.5.1",
+        "objective":"      Yükseltgenme basamakları ile elektron dizilimleri arasındaki ilişkiyi açıklar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959408,
+        "objective_code":"KİM.11.2",
+        "objective":"GAZLAR",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959409,
+        "objective_code":"KİM.11.2.1",
+        "objective":"   Gazların Özellikleri ve Gaz Yasaları",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959410,
+        "objective_code":"KİM.11.2.1.1",
+        "objective":"      Gazların betimlenmesinde kullanılan özellikleri açıklar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959411,
+        "objective_code":"KİM.11.2.1.2",
+        "objective":"      Gaz yasalarını açıklar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959412,
+        "objective_code":"KİM.11.2.2",
+        "objective":"   İdeal Gaz Yasası",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959413,
+        "objective_code":"KİM.11.2.2.1",
+        "objective":"      Deneysel yoldan türetilmiş gaz yasaları ile ideal gaz yasası arasındaki ilişkiyi açıklar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959414,
+        "objective_code":"KİM.11.2.3",
+        "objective":"   Gazlarda Kinetik Teori",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959415,
+        "objective_code":"KİM.11.2.3.1",
+        "objective":"      Gaz davranışlarını kinetik teori ile açıklar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959416,
+        "objective_code":"KİM.11.2.4",
+        "objective":"   Gaz Karışımları",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959417,
+        "objective_code":"KİM.11.2.4.1",
+        "objective":"      Gaz karışımlarının kısmi basınçlarını günlük hayattan örneklerle açıklar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959418,
+        "objective_code":"KİM.11.2.5",
+        "objective":"   Gerçek Gazlar",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959419,
+        "objective_code":"KİM.11.2.5.1",
+        "objective":"      Gazların sıkışma\/genleşme sürecinde gerçek gaz ve ideal gaz kavramlarını karşılaştırır.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959420,
+        "objective_code":"KİM.11.3",
+        "objective":"SIVI ÇÖZELTİLER VE ÇÖZÜNÜRLÜK",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959421,
+        "objective_code":"KİM.11.3.1",
+        "objective":"   Çözücü Çözünen Etkileşimleri",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959422,
+        "objective_code":"KİM.11.3.1.1",
+        "objective":"      Kimyasal türler arası etkileşimleri kullanarak sıvı ortamda çözünme olayını açıklar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959423,
+        "objective_code":"KİM.11.3.2",
+        "objective":"   Derişim Birimleri",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959424,
+        "objective_code":"KİM.11.3.2.1",
+        "objective":"      Çözünen madde miktarı ile farklı derişim birimlerini ilişkilendirir.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959425,
+        "objective_code":"KİM.11.3.2.2",
+        "objective":"      Farklı derişimlerde çözeltiler hazırlar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959426,
+        "objective_code":"KİM.11.3.3",
+        "objective":"   Koligatif Özellikler",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959427,
+        "objective_code":"KİM.11.3.3.1",
+        "objective":"      Çözeltilerin koligatif özellikleri ile derişimleri arasında ilişki kurar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959428,
+        "objective_code":"KİM.11.3.4",
+        "objective":"   Çözünürlük",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959429,
+        "objective_code":"KİM.11.3.4.1",
+        "objective":"      Çözeltileri çözünürlük kavramı temelinde sınıflandırır.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959430,
+        "objective_code":"KİM.11.3.5",
+        "objective":"   Çözünürlüğe Etki Eden Faktörler",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959431,
+        "objective_code":"KİM.11.3.5.1",
+        "objective":"      Çözünürlüğün sıcaklık ve basınçla ilişkisini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959432,
+        "objective_code":"KİM.11.4",
+        "objective":"KİMYASAL TEPKİMELERDE ENERJİ",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959433,
+        "objective_code":"KİM.11.4.1",
+        "objective":"   Tepkimelerde Isı Değişimi",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959434,
+        "objective_code":"KİM.11.4.1.1",
+        "objective":"      Tepkimelerde meydana gelen enerji değişimlerini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959435,
+        "objective_code":"KİM.11.4.2",
+        "objective":"   Oluşum Entalpisi",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959436,
+        "objective_code":"KİM.11.4.2.1",
+        "objective":"      Standart oluşum entalpileri üzerinden tepkime entalpilerini hesaplar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959437,
+        "objective_code":"KİM.11.4.3",
+        "objective":"   Bağ Enerjileri",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959438,
+        "objective_code":"KİM.11.4.3.1",
+        "objective":"      Bağ enerjileri ile tepkime entalpisi arasındaki ilişkiyi açıklar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959439,
+        "objective_code":"KİM.11.4.4",
+        "objective":"   Tepkime Isılarının Toplanabilirliği",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959440,
+        "objective_code":"KİM.11.4.4.1",
+        "objective":"      Hess Yasasını açıklar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959441,
+        "objective_code":"KİM.11.5",
+        "objective":"KİMYASAL TEPKİMELERDE HIZ",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959442,
+        "objective_code":"KİM.11.5.1",
+        "objective":"   Tepkime Hızları",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959443,
+        "objective_code":"KİM.11.5.1.1",
+        "objective":"      Kimyasal tepkimeler ile tanecik çarpışmaları arasındaki ilişkiyi açıklar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959444,
+        "objective_code":"KİM.11.5.1.2",
+        "objective":"      Kimyasal tepkimelerin hızlarını açıklar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959445,
+        "objective_code":"KİM.11.5.2",
+        "objective":"   Tepkime Hızını Etkileyen Faktörler",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959446,
+        "objective_code":"KİM.11.5.2.1",
+        "objective":"      Tepkime hızına etki eden faktörleri açıklar",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959447,
+        "objective_code":"KİM.11.6",
+        "objective":"KİMYASAL TEPKİMELERDE DENGE",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959448,
+        "objective_code":"KİM.11.6.1",
+        "objective":"   Kimyasal Denge",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959449,
+        "objective_code":"KİM.11.6.1.1",
+        "objective":"      Fiziksel ve kimyasal değişimlerde dengeyi açıklar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959450,
+        "objective_code":"KİM.11.6.2",
+        "objective":"   Dengeyi Etkileyen Faktörler",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959451,
+        "objective_code":"KİM.11.6.2.1",
+        "objective":"      Dengeyi etkileyen faktörleri açıklar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959452,
+        "objective_code":"KİM.11.6.3",
+        "objective":"   Sulu Çözelti Dengeleri",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959453,
+        "objective_code":"KİM.11.6.3.1",
+        "objective":"      pH ve pOH kavramlarını suyun oto-iyonizasyonu üzerinden açıklar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959454,
+        "objective_code":"KİM.11.6.3.2",
+        "objective":"      Brönsted-Lowry asitlerini\/bazlarını karşılaştırır.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959455,
+        "objective_code":"KİM.11.6.3.3",
+        "objective":"      Katyonların asitliğini ve anyonların bazlığını su ile etkileşimleri temelinde açıklar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959456,
+        "objective_code":"KİM.11.6.3.4",
+        "objective":"      Asitlik\/bazlık gücü ile ayrışma denge sabitleri arasında ilişki kurar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959457,
+        "objective_code":"KİM.11.6.3.5",
+        "objective":"      Kuvvetli ve zayıf monoprotik asit\/baz çözeltilerinin pH değerlerini hesaplar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959458,
+        "objective_code":"KİM.11.6.3.6",
+        "objective":"      Tampon çözeltilerin özellikleri ile günlük kullanım alanlarını ilişkilendirir.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959459,
+        "objective_code":"KİM.11.6.3.7",
+        "objective":"      Tuz çözeltilerinin asitlik\/bazlık özelliklerini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959460,
+        "objective_code":"KİM.11.6.3.8",
+        "objective":"      Kuvvetli asit\/baz derişimlerini titrasyon yöntemiyle belirler.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"chemistry",
+        "code":959461,
+        "objective_code":"KİM.11.6.3.9",
+        "objective":"      Sulu ortamlarda çözünme-çökelme dengelerini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959462,
+        "objective_code":"KİM.12.1",
+        "objective":"KİMYA VE ELEKTRİK",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959463,
+        "objective_code":"KİM.12.1.1",
+        "objective":"   İndirgenme-Yükseltgenme Tepkimelerinde Elektrik Akımı",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959464,
+        "objective_code":"KİM.12.1.1.1",
+        "objective":"      Redoks tepkimelerini tanır.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959465,
+        "objective_code":"KİM.12.1.1.2",
+        "objective":"      Redoks tepkimeleriyle elektrik enerjisi arasındaki ilişkiyi açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959466,
+        "objective_code":"KİM.12.1.2",
+        "objective":"   Elektrotlar ve Elektrokimyasal Hücreler",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959467,
+        "objective_code":"KİM.12.1.2.1",
+        "objective":"      Elektrot ve elektrokimyasal hücre kavramlarını açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959468,
+        "objective_code":"KİM.12.1.3",
+        "objective":"   Elektrot Potansiyelleri",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959469,
+        "objective_code":"KİM.12.1.3.1",
+        "objective":"      Redoks tepkimelerinin istemliliğini standart elektrot potansiyellerini kullanarak açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959470,
+        "objective_code":"KİM.12.1.4",
+        "objective":"   Kimyasallardan Elektrik Üretimi",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959471,
+        "objective_code":"KİM.12.1.4.1",
+        "objective":"      Standart koşullarda galvanik pillerin voltajını ve kullanım ömrünü örnekler vererek açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959472,
+        "objective_code":"KİM.12.1.4.2",
+        "objective":"      Lityum iyon pillerinin önemini kullanım alanlarıyla ilişkilendirerek açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959473,
+        "objective_code":"KİM.12.1.5",
+        "objective":"   Elektroliz",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959474,
+        "objective_code":"KİM.12.1.5.1",
+        "objective":"      Elektroliz olayını elektrik akımı, zaman ve değişime uğrayan madde kütlesi açısından açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959475,
+        "objective_code":"KİM.12.1.5.2",
+        "objective":"      Kimyasal maddelerin elektroliz yöntemiyle elde ediliş sürecini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959476,
+        "objective_code":"KİM.12.1.6",
+        "objective":"   Korozyon",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959477,
+        "objective_code":"KİM.12.1.6.1",
+        "objective":"      Korozyon önleme yöntemlerinin elektrokimyasal temellerini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959478,
+        "objective_code":"KİM.12.2",
+        "objective":"KARBON KİMYASINA GİRİŞ",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959479,
+        "objective_code":"KİM.12.2.1",
+        "objective":"   Anorganik ve Organik Bileşikler",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959480,
+        "objective_code":"KİM.12.2.1.1",
+        "objective":"      Anorganik ve organik bileşikleri ayırt eder.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959481,
+        "objective_code":"KİM.12.2.2",
+        "objective":"   Basit Formül ve Molekül Formülü",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959482,
+        "objective_code":"KİM.12.2.2.1",
+        "objective":"      Organik bileşiklerin basit ve molekül formüllerinin bulunması ile ilgili hesaplamalar yapar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959483,
+        "objective_code":"KİM.12.2.3",
+        "objective":"   Doğada Karbon",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959484,
+        "objective_code":"KİM.12.2.3.1",
+        "objective":"      Karbon allotroplarının özelliklerini yapılarıyla ilişkilendirir.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959485,
+        "objective_code":"KİM.12.2.4",
+        "objective":"   Lewis Formülleri",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959486,
+        "objective_code":"KİM.12.2.4.1",
+        "objective":"      Kovalent bağlı kimyasal türlerin Lewis formüllerini yazar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959487,
+        "objective_code":"KİM.12.2.5",
+        "objective":"   Hibritleşme-Molekül Geometrileri",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959488,
+        "objective_code":"KİM.12.2.5.1",
+        "objective":"      Tek, çift ve üçlü bağların oluşumunu hibrit ve atom orbitalleri temelinde açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959489,
+        "objective_code":"KİM.12.2.5.2",
+        "objective":"      Moleküllerin geometrilerini merkez atomu orbitallerinin hibritleşmesi esasına göre belirler.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959490,
+        "objective_code":"KİM.12.3",
+        "objective":"ORGANİK BİLEŞİKLER",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959491,
+        "objective_code":"KİM.12.3.1",
+        "objective":"   Hidrokarbonlar",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959492,
+        "objective_code":"KİM.12.3.1.1",
+        "objective":"      Hidrokarbon türlerini ayırt eder.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959493,
+        "objective_code":"KİM.12.3.1.2",
+        "objective":"      Basit alkanların adlarını, formüllerini, özelliklerini ve kullanım alanlarını açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959494,
+        "objective_code":"KİM.12.3.1.3",
+        "objective":"      Basit alkenlerin adlarını, formüllerini, özelliklerini ve kullanım alanlarını açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959495,
+        "objective_code":"KİM.12.3.1.4",
+        "objective":"      Basit alkinlerin adlarını, formüllerini, özelliklerini ve kullanım alanlarını açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959496,
+        "objective_code":"KİM.12.3.1.5",
+        "objective":"      Basit aromatik bileşiklerin adlarını, formüllerini ve kullanım alanlarını açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959497,
+        "objective_code":"KİM.12.3.2",
+        "objective":"   Fonksiyonel Gruplar",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959498,
+        "objective_code":"KİM.12.3.2.1",
+        "objective":"      Organik bileşikleri fonksiyonel gruplarına göre sınıflandırır.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959499,
+        "objective_code":"KİM.12.3.3",
+        "objective":"   Alkoller",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959500,
+        "objective_code":"KİM.12.3.3.1",
+        "objective":"      Alkolleri sınıflandırarak adlarını, formüllerini, özelliklerini ve kullanım alanlarını açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959501,
+        "objective_code":"KİM.12.3.4",
+        "objective":"   Eterler",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959502,
+        "objective_code":"KİM.12.3.4.1",
+        "objective":"      Eterleri sınıflandırarak adlarını, formüllerini, özelliklerini ve kullanım alanlarını açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959503,
+        "objective_code":"KİM.12.3.5",
+        "objective":"   Karbonil Bileşikleri",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959504,
+        "objective_code":"KİM.12.3.5.1",
+        "objective":"      Karbonil bileşiklerini sınıflandırarak adlarını, formüllerini, özelliklerini ve kullanım alanlarını açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959505,
+        "objective_code":"KİM.12.3.6",
+        "objective":"   Karboksilik Asitler",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959506,
+        "objective_code":"KİM.12.3.6.1",
+        "objective":"      Karboksilik asitleri sınıflandırarak adlarını, formüllerini ve kullanım alanlarını açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959507,
+        "objective_code":"KİM.12.3.7",
+        "objective":"   Esterler",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959508,
+        "objective_code":"KİM.12.3.7.1",
+        "objective":"      Esterlerin adlarını, formüllerini ve kullanım alanlarını açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959509,
+        "objective_code":"KİM.12.4",
+        "objective":"ENERJİ KAYNAKLARI VE BİLİMSEL GELİŞMELER",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959510,
+        "objective_code":"KİM.12.4.1",
+        "objective":"   Fosil Yakıtlar",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959511,
+        "objective_code":"KİM.12.4.1.1",
+        "objective":"      Fosil yakıtların çevreye zararlı etkilerini azaltmak için çözüm önerilerinde bulunur.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959512,
+        "objective_code":"KİM.12.4.2",
+        "objective":"   Alternatif Enerji Kaynakları",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959513,
+        "objective_code":"KİM.12.4.2.1",
+        "objective":"      Alternatif enerji kaynaklarını tanır.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959514,
+        "objective_code":"KİM.12.4.2.2",
+        "objective":"      Nükleer enerji kullanımını bilim, toplum, teknoloji, çevre ve ekonomi açısından değerlendirir.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959515,
+        "objective_code":"KİM.12.4.3",
+        "objective":"   Sürdürülebilirlik",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959516,
+        "objective_code":"KİM.12.4.3.1",
+        "objective":"      Sürdürülebilir hayat ve kalkınmanın toplum ve çevre için önemini kimya bilimi ile ilişkilendirerek açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959517,
+        "objective_code":"KİM.12.4.4",
+        "objective":"   Nanoteknoloji",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"chemistry",
+        "code":959518,
+        "objective_code":"KİM.12.4.4.1",
+        "objective":"      Nanoteknoloji alanındaki gelişmeleri bilim, toplum, teknoloji, çevre ve ekonomiye etkileri açısından değerlendirir.",
+        "depth":3
+    }
+]

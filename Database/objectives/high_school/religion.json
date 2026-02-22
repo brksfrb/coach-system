@@ -1,0 +1,874 @@
+[
+    {
+        "grade":9,
+        "subject":"religion",
+        "code":959950,
+        "objective_code":"DKAB.9.1",
+        "objective":"BİLGİ VE İNANÇ",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"religion",
+        "code":959951,
+        "objective_code":"DKAB.9.1.1",
+        "objective":"   İslam’da bilginin kaynaklarını açıklar.",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"religion",
+        "code":959952,
+        "objective_code":"DKAB.9.1.2",
+        "objective":"   İslam inancında imanın mahiyetini araştırır.",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"religion",
+        "code":959953,
+        "objective_code":"DKAB.9.1.3",
+        "objective":"   İsrâ suresi 36. ayet ile Mülk suresi 23. ayetlerinde verilen mesajları değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"religion",
+        "code":959954,
+        "objective_code":"DKAB.9.2",
+        "objective":"DİN VE İSLAM",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"religion",
+        "code":959955,
+        "objective_code":"DKAB.9.2.1",
+        "objective":"   Kaynağı ve unsurları bakımından din tanımlarını karşılaştırır.",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"religion",
+        "code":959956,
+        "objective_code":"DKAB.9.2.2",
+        "objective":"   İnsanın doğası ile din arasında ilişki kurar.",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"religion",
+        "code":959957,
+        "objective_code":"DKAB.9.2.3",
+        "objective":"   İman ve İslam kavramları arasındaki ilişkiyi fark eder.",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"religion",
+        "code":959958,
+        "objective_code":"DKAB.9.2.4",
+        "objective":"   İslam’ın inanç esaslarının özelliklerini ayet ve hadisler ışığında analiz eder.",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"religion",
+        "code":959959,
+        "objective_code":"DKAB.9.2.5",
+        "objective":"   Nisâ suresi 136. ayette verilen mesajları değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"religion",
+        "code":959960,
+        "objective_code":"DKAB.9.3",
+        "objective":"İSLAM VE İBADET",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"religion",
+        "code":959961,
+        "objective_code":"DKAB.9.3.1",
+        "objective":"   İslam’da ibadet kavramını ve ibadetin kapsamını açıklar.",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"religion",
+        "code":959962,
+        "objective_code":"DKAB.9.3.2",
+        "objective":"   İslam’da ibadetlerin yapılış amacını ve önemini fark eder.",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"religion",
+        "code":959963,
+        "objective_code":"DKAB.9.3.3",
+        "objective":"   İbadet yükümlülüğü ile ilgili bazı kavramları sınıflandırır.",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"religion",
+        "code":959964,
+        "objective_code":"DKAB.9.3.4",
+        "objective":"   İslam’da ibadetlerin temel ilkelerini değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"religion",
+        "code":959965,
+        "objective_code":"DKAB.9.3.5",
+        "objective":"   İbadetlerin, bireyin ahlaki gelişimi üzerindeki etkisini yorumlar.",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"religion",
+        "code":959966,
+        "objective_code":"DKAB.9.3.6",
+        "objective":"   Bakara suresi 177. ayette verilen mesajları değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"religion",
+        "code":959967,
+        "objective_code":"DKAB.9.4",
+        "objective":"GENÇLİK VE DEĞERLER",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"religion",
+        "code":959968,
+        "objective_code":"DKAB.9.4.1",
+        "objective":"   Değerlerin oluşumuna etki eden unsurları analiz eder.",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"religion",
+        "code":959969,
+        "objective_code":"DKAB.9.4.2",
+        "objective":"   Gençlerin kişilik gelişiminde dinî ve ahlaki değerler ile örf ve âdetlerin yerini tartışır.",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"religion",
+        "code":959970,
+        "objective_code":"DKAB.9.4.3",
+        "objective":"   Temel değerleri ayet ve hadislerle ilişkilendirir.",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"religion",
+        "code":959971,
+        "objective_code":"DKAB.9.4.4",
+        "objective":"   İsrâ suresi 23-29. ayetlerde verilen mesajları değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"religion",
+        "code":959972,
+        "objective_code":"DKAB.9.5",
+        "objective":"GÖNÜL COĞRAFYAMIZ",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"religion",
+        "code":959973,
+        "objective_code":"DKAB.9.5.1",
+        "objective":"   İslam medeniyeti kavramını izah eder.",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"religion",
+        "code":959974,
+        "objective_code":"DKAB.9.5.2",
+        "objective":"   İslam medeniyetinin, dünyanın farklı bölgelerindeki etkilerini fark eder.",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"religion",
+        "code":959975,
+        "objective_code":"DKAB.9.5.3",
+        "objective":"   Hucurât suresi 13. ayette verilen mesajları değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"religion",
+        "code":959976,
+        "objective_code":"DKAB.10.1",
+        "objective":"ALLAH İNSAN İLİŞKİSİ",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"religion",
+        "code":959977,
+        "objective_code":"DKAB.10.1.1",
+        "objective":"   Allah inancının insan hayatındaki yeri ve önemini yorumlar.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"religion",
+        "code":959978,
+        "objective_code":"DKAB.10.1.2",
+        "objective":"   Allah’ın varlığı ve birliği konusunda akli ve naklî delilleri analiz eder.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"religion",
+        "code":959979,
+        "objective_code":"DKAB.10.1.3",
+        "objective":"   İsim ve sıfatlarının yansımalarıyla Allah'ı tanır.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"religion",
+        "code":959980,
+        "objective_code":"DKAB.10.1.4",
+        "objective":"   İnsanın özelliklerini ayetlerle açıklar.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"religion",
+        "code":959981,
+        "objective_code":"DKAB.10.1.5",
+        "objective":"   İnsanın Allah ile irtibat yollarını fark eder.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"religion",
+        "code":959982,
+        "objective_code":"DKAB.10.1.6",
+        "objective":"   Rûm suresi 18-27. ayetlerde verilen mesajları değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"religion",
+        "code":959983,
+        "objective_code":"DKAB.10.2",
+        "objective":"HZ. MUHAMMED VE GENÇLİK",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"religion",
+        "code":959984,
+        "objective_code":"DKAB.10.2.1",
+        "objective":"   Kur’an-ı Kerim’den gençlerle ilgili ayetlere örnekler verir.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"religion",
+        "code":959985,
+        "objective_code":"DKAB.10.2.2",
+        "objective":"   Hz. Muhammed'in gençlik yıllarındaki erdemli davranışlarını kendi hayatıyla ilişkilendirir.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"religion",
+        "code":959986,
+        "objective_code":"DKAB.10.2.3",
+        "objective":"   Hz. Muhammed ile genç sahabiler arasındaki iletişimi değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"religion",
+        "code":959987,
+        "objective_code":"DKAB.10.2.4",
+        "objective":"   Bazı genç sahabilerin öne çıkan özelliklerini örnek alır.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"religion",
+        "code":959988,
+        "objective_code":"DKAB.10.2.5",
+        "objective":"   Âl-i İmrân suresi 159. ayette verilen mesajları değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"religion",
+        "code":959989,
+        "objective_code":"DKAB.10.3",
+        "objective":"DİN VE HAYAT",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"religion",
+        "code":959990,
+        "objective_code":"DKAB.10.3.1",
+        "objective":"   İslam dininin aile kurumuna verdiği önemi fark eder.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"religion",
+        "code":959991,
+        "objective_code":"DKAB.10.3.2",
+        "objective":"   İslam dininin kültür, sanat ve düşünce üzerindeki etkilerini analiz eder.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"religion",
+        "code":959992,
+        "objective_code":"DKAB.10.3.3",
+        "objective":"   İslam dininin çevre sorunlarına yaklaşımını ve çözüm önerilerini değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"religion",
+        "code":959993,
+        "objective_code":"DKAB.10.3.4",
+        "objective":"   İslam dini ve sosyal değişim arasında ilişki kurar.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"religion",
+        "code":959994,
+        "objective_code":"DKAB.10.3.5",
+        "objective":"   İslam dininin ekonomik hayatla ilgili ilkelerini yorumlar.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"religion",
+        "code":959995,
+        "objective_code":"DKAB.10.3.6",
+        "objective":"   İslam dininin sosyal adaletle ilgili ilkelerini açıklar.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"religion",
+        "code":959996,
+        "objective_code":"DKAB.10.3.7",
+        "objective":"   Âl-i İmrân suresi 103-105. ayetlerdeki mesajları değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"religion",
+        "code":959997,
+        "objective_code":"DKAB.10.4",
+        "objective":"AHLAKİ TUTUM VE DAVRANIŞLAR",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"religion",
+        "code":959998,
+        "objective_code":"DKAB.10.4.1",
+        "objective":"   İslam ahlakının konusu ve gayesini açıklar.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"religion",
+        "code":959999,
+        "objective_code":"DKAB.10.4.2",
+        "objective":"   Ahlak ile terbiye arasındaki ilişki kurar.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"religion",
+        "code":960000,
+        "objective_code":"DKAB.10.4.3",
+        "objective":"   İslam ahlakında yerilen bazı davranışları ayet ve hadislerle açıklar.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"religion",
+        "code":960001,
+        "objective_code":"DKAB.10.4.4",
+        "objective":"   Tutum ve davranışlarında ölçülü olmaya özen gösterir.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"religion",
+        "code":960002,
+        "objective_code":"DKAB.10.4.5",
+        "objective":"   Hucurât suresi 11-12. ayetlerde verilen mesajları değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"religion",
+        "code":960003,
+        "objective_code":"DKAB.10.5",
+        "objective":"İSLAM DÜŞÜNCESİNDE İTİKADİ, SİYASİ VE FIKHİ YORUMLAR",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"religion",
+        "code":960004,
+        "objective_code":"DKAB.10.5.1",
+        "objective":"   Din ve dinin yorumu arasındaki farkı ayırt eder.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"religion",
+        "code":960005,
+        "objective_code":"DKAB.10.5.2",
+        "objective":"   İslam düşüncesindeki yorum farklılıklarının sebeplerini tartışır.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"religion",
+        "code":960006,
+        "objective_code":"DKAB.10.5.3",
+        "objective":"   Dinî yorumlarla ilgili bazı kavramları değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"religion",
+        "code":960007,
+        "objective_code":"DKAB.10.5.4",
+        "objective":"   İslam düşüncesinde itikadi ve siyasi yorumları genel özelliklerine göre sınıflandırır.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"religion",
+        "code":960008,
+        "objective_code":"DKAB.10.5.5",
+        "objective":"   İslam düşüncesindeki amelî fıkhi yorumları tanır.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"religion",
+        "code":960009,
+        "objective_code":"DKAB.10.5.6",
+        "objective":"   Nisâ suresi 59. ayette verilen mesajları değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"religion",
+        "code":960010,
+        "objective_code":"DKAB.11.1",
+        "objective":"DÜNYA VE AHİRET",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"religion",
+        "code":960011,
+        "objective_code":"DKAB.11.1.1",
+        "objective":"   Hayatı anlamlandırmada ahiret inancının önemini fark eder.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"religion",
+        "code":960012,
+        "objective_code":"DKAB.11.1.2",
+        "objective":"   Dünya hayatı ile ahiret hayatı arasında ilişki kurar.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"religion",
+        "code":960013,
+        "objective_code":"DKAB.11.1.3",
+        "objective":"   Ahiret hayatının aşamalarını ayet ve hadislerle temellendirir.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"religion",
+        "code":960014,
+        "objective_code":"DKAB.11.1.4",
+        "objective":"   Cenaze uğurlama ile ilgili dinî uygulamaları örneklerle açıklar.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"religion",
+        "code":960015,
+        "objective_code":"DKAB.11.1.5",
+        "objective":"   Bakara suresi 153-157. ayetlerde verilen mesajları değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"religion",
+        "code":960016,
+        "objective_code":"DKAB.11.2",
+        "objective":"KUR’AN’A GÖRE HZ. MUHAMMED",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"religion",
+        "code":960017,
+        "objective_code":"DKAB.11.2.1",
+        "objective":"   Hz. Muhammed’in örnek şahsiyetini tanır.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"religion",
+        "code":960018,
+        "objective_code":"DKAB.11.2.2",
+        "objective":"   Hz. Muhammed’in peygamberlikle ilgili görevlerini açıklar.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"religion",
+        "code":960019,
+        "objective_code":"DKAB.11.2.3",
+        "objective":"   Hz. Peygamber’e bağlılık ve itaati ayet ve hadislerden hareketle yorumlar.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"religion",
+        "code":960020,
+        "objective_code":"DKAB.11.2.4",
+        "objective":"   Ahzâb suresi 45-46. ayetlerde verilen mesajları değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"religion",
+        "code":960021,
+        "objective_code":"DKAB.11.3",
+        "objective":"KUR’AN’DA BAZI KAVRAMLAR",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"religion",
+        "code":960022,
+        "objective_code":"DKAB.11.3.1",
+        "objective":"   Kur’an’ı Kerim’de geçen bazı kavramları yorumlar.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"religion",
+        "code":960023,
+        "objective_code":"DKAB.11.3.2",
+        "objective":"   Kur’an’ı Kerim’de geçen kavramları tanımanın İslam’ı doğru anlamadaki önemini fark eder.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"religion",
+        "code":960024,
+        "objective_code":"DKAB.11.3.3",
+        "objective":"   Kehf suresi 107-110. ayetlerde verilen mesajları değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"religion",
+        "code":960025,
+        "objective_code":"DKAB.11.4",
+        "objective":"İNANÇLA İLGİLİ MESELELER",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"religion",
+        "code":960026,
+        "objective_code":"DKAB.11.4.1",
+        "objective":"   İnançla ilgili yaklaşımları tartışır.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"religion",
+        "code":960027,
+        "objective_code":"DKAB.11.4.2",
+        "objective":"   Yeni dinî akımların özelliklerini değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"religion",
+        "code":960028,
+        "objective_code":"DKAB.11.4.3",
+        "objective":"   En’âm suresi 59 ve Lokmân suresi 27. ayetlerde verilen mesajları değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"religion",
+        "code":960029,
+        "objective_code":"DKAB.11.5",
+        "objective":"YAHUDİLİK VE HIRİSTİYANLIK",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"religion",
+        "code":960030,
+        "objective_code":"DKAB.11.5.1",
+        "objective":"   Yahudiliğin doğuşunu ve gelişim sürecini özetler.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"religion",
+        "code":960031,
+        "objective_code":"DKAB.11.5.2",
+        "objective":"   Hıristiyanlığın doğuşunu ve gelişim sürecini özetler.",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"religion",
+        "code":960032,
+        "objective_code":"DKAB.12.1",
+        "objective":"İSLAM VE BİLİM",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"religion",
+        "code":960033,
+        "objective_code":"DKAB.12.1.1",
+        "objective":"   Din-bilim ilişkisini tartışır.",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"religion",
+        "code":960034,
+        "objective_code":"DKAB.12.1.2",
+        "objective":"   İslam medeniyetinde bilim ve düşüncenin gelişim sürecini değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"religion",
+        "code":960035,
+        "objective_code":"DKAB.12.1.3",
+        "objective":"   İslam medeniyetinde öne çıkan eğitim ve bilim kurumlarını tanır.",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"religion",
+        "code":960036,
+        "objective_code":"DKAB.12.1.4",
+        "objective":"   Müslümanların bilim alanında yaptığı özgün çalışmaları sınıflandırır.",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"religion",
+        "code":960037,
+        "objective_code":"DKAB.12.1.5",
+        "objective":"   Fâtır suresi 27-28. ayette verilen mesajları değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"religion",
+        "code":960038,
+        "objective_code":"DKAB.12.2",
+        "objective":"ANADOLU’DA İSLAM",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"religion",
+        "code":960039,
+        "objective_code":"DKAB.12.2.1",
+        "objective":"   Türklerin Müslüman olma sürecini açıklar.",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"religion",
+        "code":960040,
+        "objective_code":"DKAB.12.2.2",
+        "objective":"   Dinî anlayış ve kültürümüzün oluşmasında etkili olan bazı şahsiyetleri tanır.",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"religion",
+        "code":960041,
+        "objective_code":"DKAB.12.2.3",
+        "objective":"   Nisâ suresi 69. ayette verilen mesajları değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"religion",
+        "code":960042,
+        "objective_code":"DKAB.12.3",
+        "objective":"İSLAM DÜŞÜNCESİNDE TASAVVUFİ YORUMLAR",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"religion",
+        "code":960043,
+        "objective_code":"DKAB.12.3.1",
+        "objective":"   İslam düşüncesinde tasavvufi düşüncenin oluşum sürecini değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"religion",
+        "code":960044,
+        "objective_code":"DKAB.12.3.2",
+        "objective":"   Tasavvufi düşüncede ahlaki boyutun önemini fark eder.",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"religion",
+        "code":960045,
+        "objective_code":"DKAB.12.3.3",
+        "objective":"   Kültürümüzde etkin olan bazı tasavvufi yorumları tanır.",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"religion",
+        "code":960046,
+        "objective_code":"DKAB.12.3.4",
+        "objective":"   Alevilik-Bektaşilikteki temel kavram ve erkânları tanır.",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"religion",
+        "code":960047,
+        "objective_code":"DKAB.12.3.5",
+        "objective":"   Hucurât Suresi 10. ayette verilen mesajları değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"religion",
+        "code":960048,
+        "objective_code":"DKAB.12.4",
+        "objective":"GÜNCEL DİNÎ MESELELER",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"religion",
+        "code":960049,
+        "objective_code":"DKAB.12.4.1",
+        "objective":"   Dinî meselelerin çözümüyle ilgili temel ilke ve yöntemleri analiz eder.",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"religion",
+        "code":960050,
+        "objective_code":"DKAB.12.4.2",
+        "objective":"   İslam’ın ekonomik hayatla ilgili ahlaki ölçülerini yorumlar.",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"religion",
+        "code":960051,
+        "objective_code":"DKAB.12.4.3",
+        "objective":"   Gıda maddeleri ve bağımlılık konusundaki dinî ve ahlaki ilkeleri açıklar.",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"religion",
+        "code":960052,
+        "objective_code":"DKAB.12.4.4",
+        "objective":"   Sağlık ve tıpla ilgili bazı meseleleri dinî ve ahlaki ölçüler çerçevesinde yorumlar.",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"religion",
+        "code":960053,
+        "objective_code":"DKAB.12.4.5",
+        "objective":"   En’âm suresi 151-152. ayetlerde verilen mesajları değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"religion",
+        "code":960054,
+        "objective_code":"DKAB.12.5",
+        "objective":"HİNT VE ÇİN DİNLERİ",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"religion",
+        "code":960055,
+        "objective_code":"DKAB.12.5.1",
+        "objective":"   Hinduizm’in doğuşunu ve gelişim sürecini özetler.",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"religion",
+        "code":960056,
+        "objective_code":"DKAB.12.5.2",
+        "objective":"   Budizm’in doğuşunu ve gelişim sürecini özetler.",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"religion",
+        "code":960057,
+        "objective_code":"DKAB.12.5.3",
+        "objective":"   Konfüçyanizm’in doğuşunu ve gelişim sürecini özetler.",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"religion",
+        "code":960058,
+        "objective_code":"DKAB.12.5.4",
+        "objective":"   Taoizm’in doğuşunu ve gelişim sürecini özetler.",
+        "depth":2
+    }
+]

@@ -1,0 +1,31 @@
+{% extends "layout.html" %}
+{% block content %}
+{% set any_students = students | length > 0 %}
+<h2 style="margin-bottom: 30px;">👨‍🎓 Students {% if any_students %} ({{ students | length }}) {% endif %}</h2>
+{% if any_students %}
+<table class="hover-table">
+    <tr>
+        <th>Username</th>
+        <th>Name</th>
+        <th>Surname</th>
+        <th>Teacher</th>
+        <th>Grade</th>
+    </tr>
+    {% for s in students %}
+    <tr>
+        <td>{{ s.username }}</td>
+        <td>{{ s.name }}</td>
+        <td>{{ s.surname }}</td>
+        {% if s.teacher %}
+        <td>{{ s.teacher.fullname }} ({{ s.teacher.username }})</td>
+        {% else %}
+        <td>-</td>
+        {% endif %}
+        <td>{{ s.grade }}</td>
+    </tr>
+    {% endfor %}
+</table>
+{% else %}
+<p><em>No students added yet</em></p>
+{% endif %}
+{% endblock %}

@@ -1,0 +1,386 @@
+[
+    {
+        "grade":10,
+        "subject":"philosophy",
+        "code":959902,
+        "objective_code":"FEL.10.1",
+        "objective":"FELSEFEYİ TANIMA",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"philosophy",
+        "code":959903,
+        "objective_code":"FEL.10.1.1",
+        "objective":"   Felsefenin anlamını açıklar.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"philosophy",
+        "code":959904,
+        "objective_code":"FEL.10.1.2",
+        "objective":"   Felsefi düşüncenin özelliklerini açıklar.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"philosophy",
+        "code":959905,
+        "objective_code":"FEL.10.1.3",
+        "objective":"   Felsefenin insan ve toplum hayatı üzerindeki rolünü örneklerle açıklar.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"philosophy",
+        "code":959906,
+        "objective_code":"FEL.10.2",
+        "objective":"FELSEFE İLE DÜŞÜNME",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"philosophy",
+        "code":959907,
+        "objective_code":"FEL.10.2.1",
+        "objective":"   Düşünme ve akıl yürütmeye ilişkin kavramları açıklar.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"philosophy",
+        "code":959908,
+        "objective_code":"FEL.10.2.2",
+        "objective":"   Düşünme ve akıl yürütmede dili doğru kullanmanın önemini açıklar.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"philosophy",
+        "code":959909,
+        "objective_code":"FEL.10.2.3",
+        "objective":"   Bir konuyla ilgili felsefi sorular oluşturur.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"philosophy",
+        "code":959910,
+        "objective_code":"FEL.10.2.4",
+        "objective":"   Felsefi bir görüşü veya argümanı sorgular.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"philosophy",
+        "code":959911,
+        "objective_code":"FEL.10.3",
+        "objective":"FELSEFENİN TEMEL KONULARI VE PROBLEMLERİ",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"philosophy",
+        "code":959912,
+        "objective_code":"FEL.10.3.1",
+        "objective":"   Varlık felsefesinin konusunu ve problemlerini açıklar.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"philosophy",
+        "code":959913,
+        "objective_code":"FEL.10.3.2",
+        "objective":"   Bilgi felsefesinin konusunu ve problemlerini açıklar.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"philosophy",
+        "code":959914,
+        "objective_code":"FEL.10.3.3",
+        "objective":"   Bilim felsefesinin konusunu ve problemlerini açıklar.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"philosophy",
+        "code":959915,
+        "objective_code":"FEL.10.3.4",
+        "objective":"   Ahlak felsefesinin konusunu ve problemlerini açıklar.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"philosophy",
+        "code":959916,
+        "objective_code":"FEL.10.3.5",
+        "objective":"   Din felsefesinin konusunu ve sorularını açıklar.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"philosophy",
+        "code":959917,
+        "objective_code":"FEL.10.3.6",
+        "objective":"   Siyaset felsefesinin konusunu ve problemlerini açıklar.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"philosophy",
+        "code":959918,
+        "objective_code":"FEL.10.3.7",
+        "objective":"   Sanat felsefesinin konusunu ve problemlerini açıklar.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"philosophy",
+        "code":959919,
+        "objective_code":"FEL.10.4",
+        "objective":"FELSEFİ OKUMA VE YAZMA",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"philosophy",
+        "code":959920,
+        "objective_code":"FEL.10.4.1",
+        "objective":"   Felsefi bir metni analiz eder.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"philosophy",
+        "code":959921,
+        "objective_code":"FEL.10.4.2",
+        "objective":"   Verilen konu hakkında alternatif görüşler geliştirir.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"philosophy",
+        "code":959922,
+        "objective_code":"FEL.10.4.3",
+        "objective":"   Bir konu hakkında felsefi bir deneme yazar.",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"philosophy",
+        "code":959923,
+        "objective_code":"FEL.10.4.4",
+        "objective":"   Felsefi akıl yürütme becerilerini diğer alanlarda kullanır.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"philosophy",
+        "code":959924,
+        "objective_code":"FEL.11.1",
+        "objective":"MÖ 6. YÜZYIL-MS 2. YÜZYIL FELSEFESİ",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"philosophy",
+        "code":959925,
+        "objective_code":"FEL.11.1.1",
+        "objective":"   Felsefenin ortaya çıkışını hazırlayan düşünce ortamını açıklar.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"philosophy",
+        "code":959926,
+        "objective_code":"FEL.11.1.2",
+        "objective":"   MÖ 6. yüzyıl-MS 2. yüzyıl felsefesinin karakteristik özelliklerini açıklar.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"philosophy",
+        "code":959927,
+        "objective_code":"FEL.11.1.3",
+        "objective":"   Örnek felsefi metinlerden hareketle MÖ 6. yüzyıl-MS 2. yüzyıl filozoflarının felsefi görüşlerini analiz eder.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"philosophy",
+        "code":959928,
+        "objective_code":"FEL.11.1.4",
+        "objective":"   MÖ 6. yüzyıl-MS 2. yüzyıl felsefesindeki örnek düşünce ve argümanları felsefi açıdan değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"philosophy",
+        "code":959929,
+        "objective_code":"FEL.11.2",
+        "objective":"MS 2. YÜZYIL-MS 15. YÜZYIL FELSEFESİ",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"philosophy",
+        "code":959930,
+        "objective_code":"FEL.11.2.1",
+        "objective":"   MS 2. yüzyıl-MS 15. yüzyıl felsefesini hazırlayan düşünce ortamını açıklar.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"philosophy",
+        "code":959931,
+        "objective_code":"FEL.11.2.2",
+        "objective":"   MS 2. yüzyıl-MS 15. yüzyıl felsefesinin karakteristik özelliklerini açıklar.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"philosophy",
+        "code":959932,
+        "objective_code":"FEL.11.2.3",
+        "objective":"   Örnek felsefi metinlerden hareketle MS 2. yüzyıl-MS 15. yüzyıl filozoflarının felsefi görüşlerini analiz eder.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"philosophy",
+        "code":959933,
+        "objective_code":"FEL.11.2.4",
+        "objective":"   MS 2. yüzyıl-MS 15. yüzyıl felsefesindeki örnek düşünce ve argümanları felsefi açıdan değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"philosophy",
+        "code":959934,
+        "objective_code":"FEL.11.3",
+        "objective":"15. YÜZYIL-17. YÜZYIL FELSEFESİ",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"philosophy",
+        "code":959935,
+        "objective_code":"FEL.11.3.1",
+        "objective":"   15. yüzyıl-17. yüzyıl felsefesini hazırlayan düşünce ortamını açıklar.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"philosophy",
+        "code":959936,
+        "objective_code":"FEL.11.3.2",
+        "objective":"   15. yüzyıl-17. yüzyıl felsefesinin karakteristik özelliklerini açıklar.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"philosophy",
+        "code":959937,
+        "objective_code":"FEL.11.3.3",
+        "objective":"   Örnek felsefi metinlerden hareketle 15. yüzyıl-17. yüzyıl filozoflarının felsefi görüşlerini analiz eder.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"philosophy",
+        "code":959938,
+        "objective_code":"FEL.11.3.4",
+        "objective":"   15. yüzyıl-17. yüzyıl felsefesindeki örnek düşünce ve argümanları felsefi açıdan değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"philosophy",
+        "code":959939,
+        "objective_code":"FEL.11.4",
+        "objective":"18. YÜZYIL-19. YÜZYIL FELSEFESİ",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"philosophy",
+        "code":959940,
+        "objective_code":"FEL.11.4.1",
+        "objective":"   18. yüzyıl -19. yüzyıl felsefesini hazırlayan düşünce ortamını açıklar.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"philosophy",
+        "code":959941,
+        "objective_code":"FEL.11.4.2",
+        "objective":"   18. yüzyıl -19. yüzyıl felsefesinin karakteristik özelliklerini açıklar.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"philosophy",
+        "code":959942,
+        "objective_code":"FEL.11.4.3",
+        "objective":"   Örnek felsefi metinlerinden hareketle 18. yüzyıl -19. yüzyıl filozoflarının felsefi görüşlerini analiz eder.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"philosophy",
+        "code":959943,
+        "objective_code":"FEL.11.4.4",
+        "objective":"   18. yüzyıl -19. yüzyıl felsefesindeki örnek düşünce ve argümanları felsefi açıdan değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"philosophy",
+        "code":959944,
+        "objective_code":"FEL.11.5",
+        "objective":"20. YÜZYIL FELSEFESİ",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"philosophy",
+        "code":959945,
+        "objective_code":"FEL.11.5.1",
+        "objective":"   20. yüzyıl felsefesini hazırlayan düşünce ortamını açıklar.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"philosophy",
+        "code":959946,
+        "objective_code":"FEL.11.5.2",
+        "objective":"   20. yüzyıl felsefesinin karakteristik özelliklerini açıklar.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"philosophy",
+        "code":959947,
+        "objective_code":"FEL.11.5.3",
+        "objective":"   Örnek felsefi metinlerden hareketle 20. yüzyıl filozoflarının felsefi görüşlerini analiz eder.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"philosophy",
+        "code":959948,
+        "objective_code":"FEL.11.5.4",
+        "objective":"   20. yüzyıl felsefesi örnek düşünce ve argümanları felsefi açıdan değerlendirir.",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"philosophy",
+        "code":959949,
+        "objective_code":"FEL.11.5.5",
+        "objective":"   Harita üzerinde 20 ve 21. yüzyıl felsefecilerinin isimlerini ve yaşadıkları coğrafyayı gösterir.",
+        "depth":2
+    }
+]

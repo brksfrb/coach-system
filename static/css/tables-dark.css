@@ -1,0 +1,53 @@
+/* Tablolar */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 15px;
+  background: #1f1f1f; /* dark background */
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.8);
+}
+
+table th, table td {
+  padding: 14px;
+  text-align: left;
+  border-bottom: 1px solid #444; /* darker border */
+  color: #e0e0e0; /* light text */
+}
+
+table th {
+  background: #1abc9c;
+  color: white;
+  font-weight: 600;
+}
+
+table tr:hover {
+  background: #2a2a2a; /* darker hover */
+}
+
+/* Listeler */
+ul.list {
+  margin-top: 15px;
+}
+
+ul.list li {
+  background: #2a2a2a; /* dark item background */
+  padding: 12px;
+  margin: 6px 0;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.5);
+  color: #e0e0e0; /* light text */
+}
+
+.hover-table {
+  transition: transform 0.3s ease, box-shadow 0.3s ease !important;
+}
+
+.hover-table:hover {
+  transform: translateY(-8px) !important;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.8) !important;
+}

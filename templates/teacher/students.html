@@ -1,0 +1,25 @@
+{% extends "layout.html" %}
+{% block content %}
+{% set any_students = students | length > 0 %}
+<h2 style="margin-bottom: 30px;">👨‍🎓 Öğrencilerim {% if any_students %} ({{ students | length }}) {% endif %}</h2>
+{% if any_students %}
+<table class="hover-table">
+    <tr>
+        <th>Adı</th>
+        <th>Soyadı</th>
+        <th>Sınıf Düzeyi</th>
+        <th></th>
+    </tr>
+    {% for s in students %}
+    <tr>
+        <td>{{ s.name }}</td>
+        <td>{{ s.surname }}</td>
+        <td>{{ s.grade }}</td>
+        <td><button class="ajax-btn" data-url="{{ url_for('teacher_routes.manage_student_page', username= s.username, section= 'not_set') }}">Görüntüle</button></td>
+    </tr>
+    {% endfor %}
+</table>
+{% else %}
+<p><em>Henüz öğrenci eklenmemiş</em></p>
+{% endif %}
+{% endblock %}

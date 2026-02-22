@@ -1,0 +1,117 @@
+{% extends "layout.html" %}
+{% block content %}
+<h2 style="margin-bottom: 30px;">➕ Yeni Öğrenci</h2>
+<form method="post">
+    {{ form.hidden_tag() }}
+    <div class="two-columns">
+        <div class="card">
+            <h3>Öğrenci Bilgileri</h3>
+            <div class="divide-columns">
+                <div class="field">
+                    {{ form.name.label }}
+                    {{ form.name() }}
+                </div>
+                <div class="field">
+                    {{ form.surname.label }}
+                    {{ form.surname() }}
+                </div>
+                <div class="field">
+                    {{ form.gender.label }}
+                    {{ form.gender() }}
+                </div>
+                <div class="field">
+                    {{ form.grade.label }}
+                    {{ form.grade() }}
+                </div>
+                <div class="field">
+                    {{ form.num_parents.label }}
+                    {{ form.num_parents(id="num_parents_selector") }}
+                </div>
+            </div>
+        </div>
+        <div class="two-columns">
+            <!-- First Parent Information --->
+            <div class="card" id="first-parent-information">
+                <h3>1. Veli Bilgileri</h3>
+                <div class="divide-columns">
+                    <div class="field">
+                        {{ form.first_parent_name.label }}
+                        {{ form.first_parent_name() }}
+                        {% for error in form.first_parent_name.errors %}
+                            <span style="color:red; font-size:0.9em;">{{ error }}</span>
+                        {% endfor %}
+                    </div>
+                    <div class="field">
+                        {{ form.first_parent_surname.label }}
+                        {{ form.first_parent_surname() }}
+                        {% for error in form.first_parent_surname.errors %}
+                            <span style="color:red; font-size:0.9em;">{{ error }}</span>
+                        {% endfor %}
+                    </div>
+                    <div class="field">
+                        {{ form.first_parent_gender.label }}
+                        {{ form.first_parent_gender() }}
+                    </div>
+                    <div class="field">
+                        {{ form.first_parent_relation.label }}
+                        {{ form.first_parent_relation() }}
+                    </div>
+                </div>
+            </div>
+            <!-- Second Parent Information -->
+            <div class="card" id="second-parent-information">
+                <h3>2. Veli Bilgileri</h3>
+                <div class="divide-columns">
+                    <div class="field">
+                        {{ form.second_parent_name.label }}
+                        {{ form.second_parent_name() }}
+                        {% for error in form.second_parent_name.errors %}
+                            <span style="color:red; font-size:0.9em;">{{ error }}</span>
+                        {% endfor %}
+                    </div>
+                    <div class="field">
+                        {{ form.second_parent_surname.label }}
+                        {{ form.second_parent_surname() }}
+                        {% for error in form.second_parent_surname.errors %}
+                            <span style="color:red; font-size:0.9em;">{{ error }}</span>
+                        {% endfor %}
+                    </div>
+                    <div class="field">
+                        {{ form.second_parent_gender.label }}
+                        {{ form.second_parent_gender() }}
+                    </div>
+                    <div class="field">
+                        {{ form.second_parent_relation.label }}
+                        {{ form.second_parent_relation() }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <p style="margin-top: 20px; color: red;">{{ extra_errors }}</p>
+    {% if extra_messages %}<p style="margin-top: 20px; color: green;">{{ extra_messages }}</p>{% endif %}
+    <button type="submit" style="margin-top: 20px;">➕ Oluştur</button>
+</form>
+<script>
+    function runPageScripts() {
+        const fpi = document.getElementById("first-parent-information");
+        const spi = document.getElementById("second-parent-information");
+        const np_selector = document.getElementById("num_parents_selector");
+        np_selector.addEventListener("change", function(event) {
+            console.log(event.target.value);
+            parent_count_changed(event.target.value);
+        });
+        function parent_count_changed(np) {
+            fpi.style.visibility = (np >= 1) ? "visible" : "hidden";
+            spi.style.visibility = (np == 2) ? "visible" : "hidden";
+        }
+        parent_count_changed(0);
+    }
+    if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", runPageScripts);
+    }
+    else {
+        runPageScripts();
+    }
+</script>
+{% endblock %}

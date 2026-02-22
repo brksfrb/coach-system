@@ -1,0 +1,2474 @@
+[
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":958987,
+        "objective_code":"FİZ.9.1",
+        "objective":"FİZİK BİLİMİNE GİRİŞ ",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":958988,
+        "objective_code":"FİZ.9.1.1",
+        "objective":"   FİZİK BİLİMİNİN ÖNEMİ ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":958989,
+        "objective_code":"FİZ.9.1.1.1",
+        "objective":"      Evrendeki olayların anlaşılmasında fizik biliminin önemini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":958990,
+        "objective_code":"FİZ.9.1.2",
+        "objective":"   FİZİĞİN UYGULAMA ALANLARI ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":958991,
+        "objective_code":"FİZ.9.1.2.1",
+        "objective":"      Fiziğin uygulama alanlarını, alt dalları ve diğer disiplinlerle ilişkilendirir. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":958992,
+        "objective_code":"FİZ.9.1.3",
+        "objective":"   FİZİKSEL NİCELİKLERİN SINIFLANDIRILMASI ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":958993,
+        "objective_code":"FİZ.9.1.3.1",
+        "objective":"      Fiziksel nicelikleri sınıflandırır. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":958994,
+        "objective_code":"FİZ.9.1.4",
+        "objective":"   BİLİM ARAŞTIRMA MERKEZLERİ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":958995,
+        "objective_code":"FİZ.9.1.4.1",
+        "objective":"      Bilim araştırma merkezlerinin fizik bilimi için önemini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":958996,
+        "objective_code":"FİZ.9.2",
+        "objective":"MADDE VE ÖZELLİKLERİ",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":958997,
+        "objective_code":"FİZ.9.2.1",
+        "objective":"   MADDE VE ÖZKÜTLE ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":958998,
+        "objective_code":"FİZ.9.2.1.1",
+        "objective":"      Özkütleyi, kütle ve hacimle ilişkilendirerek açıklar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":958999,
+        "objective_code":"FİZ.9.2.1.2",
+        "objective":"      Günlük hayatta saf maddelerin ve karışımların özkütlelerinden faydalanılan durumlara örnekler verir. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959000,
+        "objective_code":"FİZ.9.2.2",
+        "objective":"   DAYANIKLILIK ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959001,
+        "objective_code":"FİZ.9.2.2.1",
+        "objective":"      Dayanıklılık kavramını açıklar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959002,
+        "objective_code":"FİZ.9.2.3",
+        "objective":"   YAPIŞMA VE BİRBİRİNİ TUTMA",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959003,
+        "objective_code":"FİZ.9.2.3.1",
+        "objective":"      Yapışma (adezyon) ve birbirini tutma (kohezyon) olaylarını örneklerle açıklar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959004,
+        "objective_code":"FİZ.9.3",
+        "objective":"HAREKET VE KUVVET",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959005,
+        "objective_code":"FİZ.9.3.1",
+        "objective":"   HAREKET ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959006,
+        "objective_code":"FİZ.9.3.1.1",
+        "objective":"      Cisimlerin hareketlerini sınıflandırır.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959007,
+        "objective_code":"FİZ.9.3.1.2",
+        "objective":"      Konum, alınan yol, yer değiştirme, sürat ve hız kavramlarını birbirleri ile ilişkilendirir. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959008,
+        "objective_code":"FİZ.9.3.1.3",
+        "objective":"      Düzgün doğrusal hareket için konum, hız ve zaman kavramlarını ilişkilendirir. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959009,
+        "objective_code":"FİZ.9.3.1.4",
+        "objective":"      Ortalama hız kavramını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959010,
+        "objective_code":"FİZ.9.3.1.5",
+        "objective":"      İvme kavramını hızlanma ve yavaşlama olayları ile ilişkilendirir. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959011,
+        "objective_code":"FİZ.9.3.1.6",
+        "objective":"      Bir cismin hareketini farklı referans noktalarına göre açıklar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959012,
+        "objective_code":"FİZ.9.3.2",
+        "objective":"   KUVVET ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959013,
+        "objective_code":"FİZ.9.3.2.1",
+        "objective":"      Kuvvet kavramını örneklerle açıklar",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959014,
+        "objective_code":"FİZ.9.3.3",
+        "objective":"   NEWTON’IN HAREKET YASALARI ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959015,
+        "objective_code":"FİZ.9.3.3.1",
+        "objective":"      Dengelenmiş kuvvetlerin etkisindeki cisimlerin hareket durumlarını örneklerle açıklar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959016,
+        "objective_code":"FİZ.9.3.3.2",
+        "objective":"      Kuvvet, ivme ve kütle kavramları arasındaki ilişkiyi açıklar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959017,
+        "objective_code":"FİZ.9.3.3.3",
+        "objective":"      Etki-tepki kuvvetlerini örneklerle açıklar",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959018,
+        "objective_code":"FİZ.9.3.4",
+        "objective":"   SÜRTÜNME KUVVETİ ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959019,
+        "objective_code":"FİZ.9.3.4.1",
+        "objective":"      Sürtünme kuvvetinin bağlı olduğu değişkenleri analiz eder. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959020,
+        "objective_code":"FİZ.9.4",
+        "objective":"ENERJİ ",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959021,
+        "objective_code":"FİZ.9.4.1",
+        "objective":"   İŞ, ENERJİ VE GÜÇ ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959022,
+        "objective_code":"FİZ.9.4.1.1",
+        "objective":"      İş, enerji ve güç kavramlarını birbirleriyle ilişkilendirir. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959023,
+        "objective_code":"FİZ.9.4.1.2",
+        "objective":"      Mekanik iş ve mekanik güç ile ilgili hesaplamalar yapar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959024,
+        "objective_code":"FİZ.9.4.2",
+        "objective":"   MEKANİK ENERJİ ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959025,
+        "objective_code":"FİZ.9.4.2.1",
+        "objective":"      Öteleme kinetik enerjisi, yer çekimi potansiyel enerjisi ve esneklik potansiyel enerjisinin bağlı olduğu değişkenleri analiz eder.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959026,
+        "objective_code":"FİZ.9.4.3",
+        "objective":"   ENERJİNİN KORUNUMU VE ENERJİ DÖNÜŞÜMLERİ ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959027,
+        "objective_code":"FİZ.9.4.3.1",
+        "objective":"      Enerjinin bir biçimden diğer bir biçime (mekanik, ısı, ışık, ses gibi) dönüşümünde toplam enerjinin korunduğu çıkarımını yapar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959028,
+        "objective_code":"FİZ.9.4.3.2",
+        "objective":"      Canlıların besinlerden kazandıkları enerji ile günlük aktiviteler için harcadıkları enerjiyi karşılaştırır. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959029,
+        "objective_code":"FİZ.9.4.4",
+        "objective":"   VERİM ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959030,
+        "objective_code":"FİZ.9.4.4.1",
+        "objective":"      Verim kavramını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959031,
+        "objective_code":"FİZ.9.4.4.2",
+        "objective":"      Örnek bir sistem veya tasarımın verimini artıracak öneriler geliştirir. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959032,
+        "objective_code":"FİZ.9.4.5",
+        "objective":"   ENERJİ KAYNAKLARI",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959033,
+        "objective_code":"FİZ.9.4.5.1",
+        "objective":"      Yenilenebilir ve yenilenemez enerji kaynaklarını avantaj ve dezavantajları açısından değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959034,
+        "objective_code":"FİZ.9.5",
+        "objective":"ISI VE SICAKLIK ",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959035,
+        "objective_code":"FİZ.9.5.1",
+        "objective":"   ISI VE SICAKLIK ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959036,
+        "objective_code":"FİZ.9.5.1.1",
+        "objective":"      Isı, sıcaklık ve iç enerji kavramlarını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959037,
+        "objective_code":"FİZ.9.5.1.2",
+        "objective":"      Termometre çeşitlerini kullanım amaçları açısından karşılaştırır. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959038,
+        "objective_code":"FİZ.9.5.1.3",
+        "objective":"      Sıcaklık birimleri ile ilgili hesaplamalar yapar. oC",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959039,
+        "objective_code":"FİZ.9.5.1.4",
+        "objective":"      Öz ısı ve ısı sığası kavramlarını birbiriyle ilişkilendirir.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959040,
+        "objective_code":"FİZ.9.5.1.5",
+        "objective":"      Isı alan veya ısı veren saf maddelerin sıcaklığında meydana gelen değişimin bağlı olduğu değişkenleri analiz eder. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959041,
+        "objective_code":"FİZ.9.5.2",
+        "objective":"   HÂL DEĞİŞİMİ ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959042,
+        "objective_code":"FİZ.9.5.2.1",
+        "objective":"      Saf maddelerde hâl değişimi için gerekli olan ısı miktarının bağlı olduğu değişkenleri analiz eder.  ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959043,
+        "objective_code":"FİZ.9.5.3",
+        "objective":"   ISIL DENGE ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959044,
+        "objective_code":"FİZ.9.5.3.1",
+        "objective":"      Isıl denge kavramının sıcaklık farkı ve ısı kavramı ile olan ilişkisini analiz eder. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959045,
+        "objective_code":"FİZ.9.5.4",
+        "objective":"   ENERJİ İLETİM YOLLARI VE ENERJİ İLETİM HIZI ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959046,
+        "objective_code":"FİZ.9.5.4.1",
+        "objective":"      Enerji iletim yollarını örneklerle açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959047,
+        "objective_code":"FİZ.9.5.4.2",
+        "objective":"      Katı maddedeki enerji iletim hızını etkileyen değişkenleri analiz eder.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959048,
+        "objective_code":"FİZ.9.5.4.3",
+        "objective":"      Enerji tasarrufu için yaşam alanlarının yalıtımına yönelik tasarım yapar",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959049,
+        "objective_code":"FİZ.9.5.4.4",
+        "objective":"      Hissedilen ve gerçek sıcaklık arasındaki farkın sebeplerini yorumlar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959050,
+        "objective_code":"FİZ.9.5.4.5",
+        "objective":"      Küresel ısınmaya karşı alınacak tedbirlere yönelik proje geliştirir. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959051,
+        "objective_code":"FİZ.9.5.5",
+        "objective":"   GENLEŞME",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959052,
+        "objective_code":"FİZ.9.5.5.1",
+        "objective":"      Katı ve sıvılarda genleşme ve büzülme olaylarının günlük hayattaki etkilerini yorumlar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959053,
+        "objective_code":"FİZ.9.6",
+        "objective":"ELEKTROSTATİK",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959054,
+        "objective_code":"FİZ.9.6.1",
+        "objective":"   ELEKTRİK YÜKLERİ ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959055,
+        "objective_code":"FİZ.9.6.1.1",
+        "objective":"      Elektrikle yüklenme çeşitlerini örneklerle açıklar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959056,
+        "objective_code":"FİZ.9.6.1.2",
+        "objective":"      Elektriklenen iletken ve yalıtkan maddelerde yük dağılımlarını karşılaştırır. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959057,
+        "objective_code":"FİZ.9.6.1.3",
+        "objective":"      Elektrik yüklü cisimler arasındaki etkileşimi açıklar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"physics",
+        "code":959058,
+        "objective_code":"FİZ.9.6.1.4",
+        "objective":"      Elektrik alan kavramını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959059,
+        "objective_code":"FİZ.10.1",
+        "objective":"ELEKTRİK VE MANYETİZMA ",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959060,
+        "objective_code":"FİZ.10.1.1",
+        "objective":"   ELEKTRİK AKIMI, POTANSİYEL FARKI VE DİRENÇ ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959061,
+        "objective_code":"FİZ.10.1.1.1",
+        "objective":"      Elektrik akımı, direnç ve potansiyel farkı kavramlarını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959062,
+        "objective_code":"FİZ.10.1.1.2",
+        "objective":"      Katı bir iletkenin direncinin bağlı olduğu değişkenleri analiz eder. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959063,
+        "objective_code":"FİZ.10.1.2",
+        "objective":"   ELEKTRİK DEVRELERİ ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959064,
+        "objective_code":"FİZ.10.1.2.1",
+        "objective":"      Elektrik Akımı, direnç ve potansiyel farkı arasındaki ilişkiyi analiz eder. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959065,
+        "objective_code":"FİZ.10.1.2.2",
+        "objective":"      Üreteçlerin seri ve paralel bağlanma gerekçelerini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959066,
+        "objective_code":"FİZ.10.1.2.3",
+        "objective":"      Elektrik enerjisi ve elektriksel güç kavramlarını ilişkilendirir. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959067,
+        "objective_code":"FİZ.10.1.2.4",
+        "objective":"      Elektrik akımının oluşturabileceği tehlikelere karşı alınması gereken sağlık ve güvenlik  önlemlerini açıklar",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959068,
+        "objective_code":"FİZ.10.1.3",
+        "objective":"   MIKNATIS VE MANYETİK ALAN ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959069,
+        "objective_code":"FİZ.10.1.3.1",
+        "objective":"      Mıknatısların oluşturduğu manyetik alanı ve özelliklerini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959070,
+        "objective_code":"FİZ.10.1.4",
+        "objective":"   AKIM VE MANYETİK ALAN",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959071,
+        "objective_code":"FİZ.10.1.4.1",
+        "objective":"      Üzerinden akım geçen düz bir iletken telin oluşturduğu manyetik alanı etkileyen değişkenleri analiz eder. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959072,
+        "objective_code":"FİZ.10.1.4.2",
+        "objective":"      Dünya’nın manyetik alanının sonuçlarını açıklar",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959073,
+        "objective_code":"FİZ.10.2",
+        "objective":"BASINÇ VE KALDIRMA KUVVETİ ",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959074,
+        "objective_code":"FİZ.10.2.1",
+        "objective":"   BASINÇ ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959075,
+        "objective_code":"FİZ.10.2.1.1",
+        "objective":"      Basınç ve basınç kuvveti kavramlarının katı, durgun sıvı ve gazlarda bağlı olduğu değişkenleri açıklar.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959076,
+        "objective_code":"FİZ.10.2.1.2",
+        "objective":"      Akışkanlarda akış sürati ile akışkan basıncı arasında ilişki kurar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959077,
+        "objective_code":"FİZ.10.2.2",
+        "objective":"   KALDIRMA KUVVETİ ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959078,
+        "objective_code":"FİZ.10.2.2.1",
+        "objective":"      Durgun akışkanlarda cisimlere etki eden kaldırma kuvvetinin basınç kuvveti farkından kaynaklandığını açıklar.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959079,
+        "objective_code":"FİZ.10.2.2.2",
+        "objective":"      Kaldırma kuvvetiyle ilgili belirlediği günlük hayattaki problemlere kaldırma kuvveti ve\/veya Bernoulli İlkesi’ni kullanarak çözüm önerisi üretir. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959080,
+        "objective_code":"FİZ.10.3",
+        "objective":"DALGALAR",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959081,
+        "objective_code":"FİZ.10.3.1",
+        "objective":"   DALGALAR",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959082,
+        "objective_code":"FİZ.10.3.1.1",
+        "objective":"      Titreşim, dalga hareketi, dalga boyu, periyot, frekans, hız ve genlik kavramlarını açıklar",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959083,
+        "objective_code":"FİZ.10.3.1.2",
+        "objective":"      Dalgaları taşıdığı enerjiye ve titreşim doğrultusuna göre sınıflandırır. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959084,
+        "objective_code":"FİZ.10.3.2",
+        "objective":"   YAY DALGASI ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959085,
+        "objective_code":"FİZ.10.3.2.1",
+        "objective":"      Atma ve periyodik dalga oluşturarak aralarındaki farkı açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959086,
+        "objective_code":"FİZ.10.3.2.2",
+        "objective":"      Yaylarda atmanın yansımasını ve iletilmesini analiz eder. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959087,
+        "objective_code":"FİZ.10.3.3",
+        "objective":"   SU DALGASI ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959088,
+        "objective_code":"FİZ.10.3.3.1",
+        "objective":"      Dalgaların ilerleme yönü, dalga tepesi ve dalga çukuru kavramlarını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959089,
+        "objective_code":"FİZ.10.3.3.2",
+        "objective":"      Doğrusal ve dairesel su dalgalarının yansıma hareketlerini analiz eder. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959090,
+        "objective_code":"FİZ.10.3.3.3",
+        "objective":"      Ortam derinliği ile su dalgalarının yayılma hızını ilişkilendirir. a",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959091,
+        "objective_code":"FİZ.10.3.3.4",
+        "objective":"      Doğrusal su dalgalarının kırılma hareketini analiz eder. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959092,
+        "objective_code":"FİZ.10.3.4",
+        "objective":"   SES DALGASI ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959093,
+        "objective_code":"FİZ.10.3.4.1",
+        "objective":"      Ses dalgaları ile ilgili temel kavramları örneklerle açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959094,
+        "objective_code":"FİZ.10.3.4.2",
+        "objective":"      Ses dalgalarının tıp, denizcilik, sanat ve coğrafya alanlarında kullanımına örnekler verir. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959095,
+        "objective_code":"FİZ.10.3.5",
+        "objective":"   DEPREM DALGASI",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959096,
+        "objective_code":"FİZ.10.3.5.1",
+        "objective":"      Deprem dalgasını tanımlar",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959097,
+        "objective_code":"FİZ.10.3.5.2",
+        "objective":"      Deprem kaynaklı can ve mal kayıplarını önlemeye yönelik çözüm önerileri geliştirir. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959098,
+        "objective_code":"FİZ.10.4",
+        "objective":"OPTİK",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959099,
+        "objective_code":"FİZ.10.4.1",
+        "objective":"   AYDINLANMA ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959100,
+        "objective_code":"FİZ.10.4.1.1",
+        "objective":"      Işığın davranış modellerini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959101,
+        "objective_code":"FİZ.10.4.1.2",
+        "objective":"      Işık şiddeti, ışık akısı ve aydınlanma şiddeti kavramları arasında ilişki kurar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959102,
+        "objective_code":"FİZ.10.4.2",
+        "objective":"   GÖLGE",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959103,
+        "objective_code":"FİZ.10.4.2.1",
+        "objective":"      Saydam, yarı saydam ve saydam olmayan maddelerin ışık geçirme özelliklerini açıklar",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959104,
+        "objective_code":"FİZ.10.4.3",
+        "objective":"   YANSIMA ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959105,
+        "objective_code":"FİZ.10.4.3.1",
+        "objective":"      Işığın yansımasını, su dalgalarında yansıma olayıyla ilişkilendirir. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959106,
+        "objective_code":"FİZ.10.4.4",
+        "objective":"   DÜZLEM AYNA ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959107,
+        "objective_code":"FİZ.10.4.4.1",
+        "objective":"      Düzlem aynada görüntü oluşumunu açıklar.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959108,
+        "objective_code":"FİZ.10.4.5",
+        "objective":"   KÜRESEL AYNALAR ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959109,
+        "objective_code":"FİZ.10.4.5.1",
+        "objective":"      Küresel aynalarda odak noktası, merkez, tepe noktası ve asal eksen kavramlarını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959110,
+        "objective_code":"FİZ.10.4.5.2",
+        "objective":"      Küresel aynalarda görüntü oluşumunu ve özelliklerini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959111,
+        "objective_code":"FİZ.10.4.6",
+        "objective":"   KIRILMA ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959112,
+        "objective_code":"FİZ.10.4.6.1",
+        "objective":"      Işığın kırılmasını, su dalgalarında kırılma olayı ile ilişkilendirir. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959113,
+        "objective_code":"FİZ.10.4.6.2",
+        "objective":"      Işığın tam yansıma olayını ve sınır açısını analiz eder. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959114,
+        "objective_code":"FİZ.10.4.6.3",
+        "objective":"      Farklı ortamda bulunan bir cismin görünür uzaklığını etkileyen sebepleri açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959115,
+        "objective_code":"FİZ.10.4.7",
+        "objective":"   MERCEKLER ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959116,
+        "objective_code":"FİZ.10.4.7.1",
+        "objective":"      Merceklerin özelliklerini ve mercek çeşitlerini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959117,
+        "objective_code":"FİZ.10.4.7.2",
+        "objective":"      Merceklerin oluşturduğu görüntünün özelliklerini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959118,
+        "objective_code":"FİZ.10.4.8",
+        "objective":"   PRİZMALAR ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959119,
+        "objective_code":"FİZ.10.4.8.1",
+        "objective":"      Işık prizmalarının özelliklerini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959120,
+        "objective_code":"FİZ.10.4.9",
+        "objective":"   RENK ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"physics",
+        "code":959121,
+        "objective_code":"FİZ.10.4.9.1",
+        "objective":"      Cisimlerin renkli görülmesinin sebeplerini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959122,
+        "objective_code":"FİZ.11.1",
+        "objective":"KUVVET VE HAREKET ",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959123,
+        "objective_code":"FİZ.11.1.1",
+        "objective":"   VEKTÖRLER ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959124,
+        "objective_code":"FİZ.11.1.1.1",
+        "objective":"      Vektörlerin özelliklerini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959125,
+        "objective_code":"FİZ.11.1.1.2",
+        "objective":"      İki ve üç boyutlu kartezyen koordinat sisteminde vektörleri çizer.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959126,
+        "objective_code":"FİZ.11.1.1.3",
+        "objective":"      Vektörlerin bileşkelerini farklı yöntemleri kullanarak hesaplar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959127,
+        "objective_code":"FİZ.11.1.1.4",
+        "objective":"      Bir vektörün iki boyutlu kartezyen koordinat sisteminde bileşenlerini çizerek büyüklüklerini hesaplar",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959162,
+        "objective_code":"FİZ.11.1.10",
+        "objective":"   BASİT MAKİNELER ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959163,
+        "objective_code":"FİZ.11.1.10.1",
+        "objective":"      Günlük hayatta kullanılan basit makinelerin işlevlerini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959164,
+        "objective_code":"FİZ.11.1.10.2",
+        "objective":"      Basit makineler ile ilgili hesaplamalar yapar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959165,
+        "objective_code":"FİZ.11.1.10.3",
+        "objective":"      Hayatı kolaylaştırmak amacıyla basit makinelerden oluşan güvenli bir sistem tasarlar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959128,
+        "objective_code":"FİZ.11.1.2",
+        "objective":"   BAĞIL HAREKET",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959129,
+        "objective_code":"FİZ.11.1.2.1",
+        "objective":"      Sabit hızlı iki cismin hareketini birbirine göre yorumlar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959130,
+        "objective_code":"FİZ.11.1.2.2",
+        "objective":"      Hareketli bir ortamdaki sabit hızlı cisimlerin hareketini farklı gözlem çerçevelerine göre yorumlar",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959131,
+        "objective_code":"FİZ.11.1.2.3",
+        "objective":"      Bağıl hareket ile ilgili hesaplamalar yapar",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959132,
+        "objective_code":"FİZ.11.1.3",
+        "objective":"   NEWTON’IN HAREKET YASALARI ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959133,
+        "objective_code":"FİZ.11.1.3.1",
+        "objective":"      Net kuvvetin yönünü belirleyerek büyüklüğünü hesaplar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959134,
+        "objective_code":"FİZ.11.1.3.2",
+        "objective":"      Net kuvvet etkisindeki cismin hareketi ile ilgili hesaplamalar yapar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959135,
+        "objective_code":"FİZ.11.1.4",
+        "objective":"   BİR BOYUTTA SABİT İVMELİ HAREKET ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959136,
+        "objective_code":"FİZ.11.1.4.1",
+        "objective":"      Bir boyutta sabit ivmeli hareketi analiz eder. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959137,
+        "objective_code":"FİZ.11.1.4.2",
+        "objective":"      Bir boyutta sabit ivmeli hareket ile ilgili hesaplamalar yapar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959138,
+        "objective_code":"FİZ.11.1.4.3",
+        "objective":"      Hava direncinin ihmal edildiği ortamda düşen cisimlerin hareketlerini analiz eder. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959139,
+        "objective_code":"FİZ.11.1.4.4",
+        "objective":"      Düşen cisimlere etki eden hava direnç kuvvetinin bağlı olduğu değişkenleri analiz eder. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959140,
+        "objective_code":"FİZ.11.1.4.5",
+        "objective":"      Limit hız kavramını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959141,
+        "objective_code":"FİZ.11.1.4.6",
+        "objective":"      Düşey doğrultuda ilk hızı olan ve sabit ivmeli hareket yapan cisimlerin hareketlerini analiz eder. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959142,
+        "objective_code":"FİZ.11.1.5",
+        "objective":"   İKİ BOYUTTA HAREKET ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959143,
+        "objective_code":"FİZ.11.1.5.1",
+        "objective":"      Atış hareketlerini yatay ve düşey boyutta analiz eder. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959144,
+        "objective_code":"FİZ.11.1.5.2",
+        "objective":"      İki boyutta sabit ivmeli hareket ile ilgili hesaplamalar yapar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959145,
+        "objective_code":"FİZ.11.1.6",
+        "objective":"   ENERJİ VE HAREKET ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959146,
+        "objective_code":"FİZ.11.1.6.1",
+        "objective":"      Yapılan iş ile enerji arasındaki ilişkiyi analiz eder. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959147,
+        "objective_code":"FİZ.11.1.6.2",
+        "objective":"      Cisimlerin hareketini mekanik enerjinin korunumunu kullanarak analiz eder. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959148,
+        "objective_code":"FİZ.11.1.6.3",
+        "objective":"      Sürtünmeli yüzeylerde enerji korunumunu ve dönüşümlerini analiz eder. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959149,
+        "objective_code":"FİZ.11.1.7",
+        "objective":"   İTME VE ÇİZGİSEL MOMENTUM ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959150,
+        "objective_code":"FİZ.11.1.7.1",
+        "objective":"      İtme ve çizgisel momentum kavramlarını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959151,
+        "objective_code":"FİZ.11.1.7.2",
+        "objective":"      İtme ile çizgisel momentum değişimi arasında ilişki kurar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959152,
+        "objective_code":"FİZ.11.1.7.3",
+        "objective":"      Çizgisel momentumun korunumunu analiz eder. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959153,
+        "objective_code":"FİZ.11.1.7.4",
+        "objective":"      Çizgisel momentumun korunumu ile ilgili hesaplamalar yapar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959154,
+        "objective_code":"FİZ.11.1.8",
+        "objective":"   TORK ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959155,
+        "objective_code":"FİZ.11.1.8.1",
+        "objective":"      Tork kavramını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959156,
+        "objective_code":"FİZ.11.1.8.2",
+        "objective":"      Torkun bağlı olduğu değişkenleri analiz eder. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959157,
+        "objective_code":"FİZ.11.1.8.3",
+        "objective":"      Tork ile ilgili hesaplamalar yapar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959158,
+        "objective_code":"FİZ.11.1.9",
+        "objective":"   DENGE VE DENGE ŞARTLARI ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959159,
+        "objective_code":"FİZ.11.1.9.1",
+        "objective":"      Cisimlerin denge şartlarını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959160,
+        "objective_code":"FİZ.11.1.9.2",
+        "objective":"      Kütle merkezi ve ağırlık merkezi kavramlarını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959161,
+        "objective_code":"FİZ.11.1.9.3",
+        "objective":"      Kütle merkezi ve ağırlık merkezi ile ilgili hesaplamalar yapar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959166,
+        "objective_code":"FİZ.11.2",
+        "objective":"ELEKTRİK VE MANYETİZMA ",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959167,
+        "objective_code":"FİZ.11.2.1",
+        "objective":"   ELEKTRİKSEL KUVVET VE ELEKTRİK ALAN ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959168,
+        "objective_code":"FİZ.11.2.1.1",
+        "objective":"      Yüklü cisimler arasındaki elektriksel kuvveti etkileyen değişkenleri  belirler. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959169,
+        "objective_code":"FİZ.11.2.1.2",
+        "objective":"      Noktasal yük için elektrik alanı açıklar",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959170,
+        "objective_code":"FİZ.11.2.1.3",
+        "objective":"      Noktasal yüklerde elektriksel kuvvet ve elektrik alanı ile ilgili hesaplamalar yapar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959171,
+        "objective_code":"FİZ.11.2.2",
+        "objective":"   ELEKTRİKSEL POTANSİYEL ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959172,
+        "objective_code":"FİZ.11.2.2.1",
+        "objective":"      Noktasal yükler için elektriksel potansiyel enerji, elektriksel potansiyel, elektriksel potansiyel farkı ve elektriksel iş kavramlarını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959173,
+        "objective_code":"FİZ.11.2.2.2",
+        "objective":"      Düzgün bir elektrik alan içinde iki nokta arasındaki potansiyel farkını hesaplar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959174,
+        "objective_code":"FİZ.11.2.2.3",
+        "objective":"      Noktasal yükler için elektriksel potansiyel enerji, elektriksel potansiyel, elektriksel potansiyel farkı ve elektriksel iş ile ilgili hesaplamalar yapar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959175,
+        "objective_code":"FİZ.11.2.3",
+        "objective":"   DÜZGÜN ELEKTRİK ALAN VE SIĞA",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959176,
+        "objective_code":"FİZ.11.2.3.1",
+        "objective":"      Yüklü, iletken ve paralel levhalar arasında oluşan elektrik alanı, alan çizgilerini çizerek açıklar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959177,
+        "objective_code":"FİZ.11.2.3.2",
+        "objective":"      Yüklü, iletken ve paralel levhalar arasında oluşan elektrik alanının bağlı olduğu değişkenleri analiz eder. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959178,
+        "objective_code":"FİZ.11.2.3.3",
+        "objective":"      Yüklü parçacıkların düzgün elektrik alanıdaki davranışını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959179,
+        "objective_code":"FİZ.11.2.3.4",
+        "objective":"      Sığa (kapasite) kavramını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959180,
+        "objective_code":"FİZ.11.2.3.5",
+        "objective":"      Sığanın bağlı olduğu değişkenleri analiz eder. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959181,
+        "objective_code":"FİZ.11.2.3.6",
+        "objective":"      Yüklü levhaların özelliklerinden faydalanarak sığacın (kondansatör) işlevini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959182,
+        "objective_code":"FİZ.11.2.4",
+        "objective":"   MANYETİZMA VE ELEKTROMANYETİK İNDÜKLENME ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959183,
+        "objective_code":"FİZ.11.2.4.1",
+        "objective":"      Üzerinden akım geçen iletken düz bir telin çevresinde, halkanın merkezinde ve akım makarasının (bobin) merkez ekseninde oluşan manyetik alanın şiddetini etkileyen eder. değişkenleri analiz ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959192,
+        "objective_code":"FİZ.11.2.4.10",
+        "objective":"      Yüklü parçacıkların manyetik alan ve elektrik alandaki davranışını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959193,
+        "objective_code":"FİZ.11.2.4.11",
+        "objective":"      Elektromotor kuvveti oluşturan sebeplere ilişkin çıkarım yapar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959184,
+        "objective_code":"FİZ.11.2.4.2",
+        "objective":"      Üzerinden akım geçen iletken düz bir telin çevresinde, halkanın merkezinde ve akım makarasının merkez ekseninde oluşan manyetik alan ile ilgili hesaplamalar yapar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959185,
+        "objective_code":"FİZ.11.2.4.3",
+        "objective":"      Üzerinden akım geçen iletken düz bir tele manyetik alanda etki eden kuvvetin yönünün ve şiddetinin bağlı olduğu değişkenleri analiz eder. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959186,
+        "objective_code":"FİZ.11.2.4.4",
+        "objective":"      Manyetik alan içerisinde akım taşıyan dikdörtgen tel çerçeveye etki eden kuvvetlerin döndürme etkisini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959187,
+        "objective_code":"FİZ.11.2.4.5",
+        "objective":"      Yüklü parçacıkların manyetik alan içindeki hareketini analiz eder.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959188,
+        "objective_code":"FİZ.11.2.4.6",
+        "objective":"      Manyetik akı kavramını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959189,
+        "objective_code":"FİZ.11.2.4.7",
+        "objective":"      İndüksiyon akımını oluşturan sebeplere ilişkin çıkarım yapar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959190,
+        "objective_code":"FİZ.11.2.4.8",
+        "objective":"      Manyetik akı ve indüksiyon akımı ile ilgili hesaplamalar yapar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959191,
+        "objective_code":"FİZ.11.2.4.9",
+        "objective":"      Öz-indüksiyon akımının oluşum sebebini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959194,
+        "objective_code":"FİZ.11.2.5",
+        "objective":"   ALTERNATİF AKIM ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959195,
+        "objective_code":"FİZ.11.2.5.1",
+        "objective":"      Alternatif akımı açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959196,
+        "objective_code":"FİZ.11.2.5.2",
+        "objective":"      Alternatif ve doğru akımı karşılaştırır. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959197,
+        "objective_code":"FİZ.11.2.5.3",
+        "objective":"      Alternatif ve doğru akım devrelerinde direncin, bobinin ve sığacın davranışını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959198,
+        "objective_code":"FİZ.11.2.5.4",
+        "objective":"      İndüktans, kapasitans, rezonans ve empedans kavramlarını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959199,
+        "objective_code":"FİZ.11.2.6",
+        "objective":"   TRANSFORMATÖRLER ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959200,
+        "objective_code":"FİZ.11.2.6.1",
+        "objective":"      Transformatörlerin çalışma prensibini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"physics",
+        "code":959201,
+        "objective_code":"FİZ.11.2.6.2",
+        "objective":"      Transformatörlerin kullanım amaçlarını açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959202,
+        "objective_code":"FİZ.12.1",
+        "objective":"ÇEMBERSEL HAREKET",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959203,
+        "objective_code":"FİZ.12.1.1",
+        "objective":"   DÜZGÜN ÇEMBERSEL HAREKET ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959204,
+        "objective_code":"FİZ.12.1.1.1",
+        "objective":"      Düzgün çembersel hareketi açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959205,
+        "objective_code":"FİZ.12.1.1.2",
+        "objective":"      Düzgün  çembersel  harekette  merkezcil  kuvvetin  bağlı  olduğu  değişkenleri  analiz  eder. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959206,
+        "objective_code":"FİZ.12.1.1.3",
+        "objective":"      Düzgün çembersel hareket yapan cisimlerin hareketini analiz eder. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959207,
+        "objective_code":"FİZ.12.1.1.4",
+        "objective":"      Yatay, düşey, eğimli zeminlerde araçların emniyetli dönüş şartları ile ilgili hesaplamalar yapar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959208,
+        "objective_code":"FİZ.12.1.2",
+        "objective":"   DÖNEREK ÖTELEME HAREKETİ ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959209,
+        "objective_code":"FİZ.12.1.2.1",
+        "objective":"      Öteleme ve dönme hareketini karşılaştırır. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959210,
+        "objective_code":"FİZ.12.1.2.2",
+        "objective":"      Eylemsizlik momenti kavramını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959211,
+        "objective_code":"FİZ.12.1.2.3",
+        "objective":"      Dönme ve dönerek öteleme hareketi yapan cismin kinetik enerjisinin bağlı olduğu değişkenleri açıklar",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959212,
+        "objective_code":"FİZ.12.1.3",
+        "objective":"   AÇISAL MOMENTUM",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959213,
+        "objective_code":"FİZ.12.1.3.1",
+        "objective":"      Açısal momentumun fiziksel bir nicelik olduğunu  açıklar",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959214,
+        "objective_code":"FİZ.12.1.3.2",
+        "objective":"      Açısal momentumu çizgisel momentum ile ilişkilendirerek açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959215,
+        "objective_code":"FİZ.12.1.3.3",
+        "objective":"      Açısal momentumu torkla ilişkilendirir. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959216,
+        "objective_code":"FİZ.12.1.3.4",
+        "objective":"      Açısal momentumun korunumunu günlük hayattan örneklerle  açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959217,
+        "objective_code":"FİZ.12.1.4",
+        "objective":"   KÜTLE ÇEKİM KUVVETİ ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959218,
+        "objective_code":"FİZ.12.1.4.1",
+        "objective":"      Kütle çekim kuvvetini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959219,
+        "objective_code":"FİZ.12.1.4.2",
+        "objective":"      Newton’ın Hareket Kanunları’nı kullanarak kütle çekim ivmesinin bağlı olduğu değişkenleri belirler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959220,
+        "objective_code":"FİZ.12.1.4.3",
+        "objective":"      Kütle çekim potansiyel enerjisini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959221,
+        "objective_code":"FİZ.12.1.5",
+        "objective":"   KEPLER KANUNLARI",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959222,
+        "objective_code":"FİZ.12.1.5.1",
+        "objective":"      Kepler Kanunları’nı açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959223,
+        "objective_code":"FİZ.12.2",
+        "objective":"BASİT HARMONİK HAREKET ",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959224,
+        "objective_code":"FİZ.12.2.1",
+        "objective":"   BASİT HARMONİK HAREKET ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959225,
+        "objective_code":"FİZ.12.2.1.1",
+        "objective":"      Basit harmonik hareketi düzgün çembersel hareketi kullanarak açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959226,
+        "objective_code":"FİZ.12.2.1.2",
+        "objective":"      Basit harmonik harekette konumun zamana göre değişimini analiz eder. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959227,
+        "objective_code":"FİZ.12.2.1.3",
+        "objective":"      Basit harmonik harekette kuvvet, hız ve ivmenin konuma göre değişimi ile ilgili hesaplamalar yapar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959228,
+        "objective_code":"FİZ.12.2.1.4",
+        "objective":"      Yay sarkacı ve basit sarkaçta periyodun bağlı olduğu değişkenleri belirler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959229,
+        "objective_code":"FİZ.12.2.1.5",
+        "objective":"      Yay sarkacı ve basit sarkacın periyodu ile ilgili hesaplamalar yapar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959230,
+        "objective_code":"FİZ.12.3",
+        "objective":"DALGA MEKANİĞİ",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959231,
+        "objective_code":"FİZ.12.3.1",
+        "objective":"   DALGALARDA KIRINIM, GİRİŞİM VE DOPPLER OLAYI ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959232,
+        "objective_code":"FİZ.12.3.1.1",
+        "objective":"      Su dalgalarında kırınım olayının dalga boyu ve yarık genişliği ile ilişkisini belirler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959233,
+        "objective_code":"FİZ.12.3.1.2",
+        "objective":"      Su dalgalarında girişim olayını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959234,
+        "objective_code":"FİZ.12.3.1.3",
+        "objective":"      Işığın çift yarıkta girişimine etki eden değişkenleri açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959235,
+        "objective_code":"FİZ.12.3.1.4",
+        "objective":"      Işığın tek yarıkta kırınımına etki eden değişkenleri açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959236,
+        "objective_code":"FİZ.12.3.1.5",
+        "objective":"      Kırınım ve girişim olaylarını inceleyerek ışığın dalga doğası hakkında çıkarım yapar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959237,
+        "objective_code":"FİZ.12.3.1.6",
+        "objective":"      Doppler olayının etkilerini ışık ve ses dalgalarından örneklerle açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959238,
+        "objective_code":"FİZ.12.3.2",
+        "objective":"   ELEKTROMANYETİK DALGALAR",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959239,
+        "objective_code":"FİZ.12.3.2.1",
+        "objective":"      Elektromanyetik dalgaların ortak özelliklerini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959240,
+        "objective_code":"FİZ.12.3.2.2",
+        "objective":"      Elektromanyetik spektrumu günlük hayattan örneklerle ilişkilendirerek açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959241,
+        "objective_code":"FİZ.12.4",
+        "objective":"ATOM FİZİĞİNE GİRİŞ VE RADYOAKTİVİTE ",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959242,
+        "objective_code":"FİZ.12.4.1",
+        "objective":"   ATOM KAVRAMININ TARİHSEL GELİŞİMİ ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959243,
+        "objective_code":"FİZ.12.4.1.1",
+        "objective":"      Atom kavramını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959244,
+        "objective_code":"FİZ.12.4.1.2",
+        "objective":"      Atomun uyarılma yollarını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959245,
+        "objective_code":"FİZ.12.4.1.3",
+        "objective":"      Modern atom teorisinin önemini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959246,
+        "objective_code":"FİZ.12.4.2",
+        "objective":"   BÜYÜK PATLAMA VE EVRENİN OLUŞUMU ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959247,
+        "objective_code":"FİZ.12.4.2.1",
+        "objective":"      Büyük patlama teorisini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959248,
+        "objective_code":"FİZ.12.4.2.2",
+        "objective":"      Atom altı parçacıkların özelliklerini temel düzeyde açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959249,
+        "objective_code":"FİZ.12.4.2.3",
+        "objective":"      Madde oluşum sürecini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959250,
+        "objective_code":"FİZ.12.4.2.4",
+        "objective":"      Madde ve antimadde kavramlarını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959251,
+        "objective_code":"FİZ.12.4.3",
+        "objective":"   RADYOAKTİVİTE ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959252,
+        "objective_code":"FİZ.12.4.3.1",
+        "objective":"      Kararlı ve kararsız durumdaki atomların özelliklerini karşılaştırır",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959253,
+        "objective_code":"FİZ.12.4.3.2",
+        "objective":"      Radyoaktif bozunma sonucu atomun kütle numarası, atom numarası ve enerjisindeki değişimi açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959254,
+        "objective_code":"FİZ.12.4.3.3",
+        "objective":"      Nükleer fisyon ve füzyon olaylarını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959255,
+        "objective_code":"FİZ.12.4.3.4",
+        "objective":"      Radyasyonun canlılar üzerindeki etkilerini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959256,
+        "objective_code":"FİZ.12.5",
+        "objective":"MODERN FİZİK",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959257,
+        "objective_code":"FİZ.12.5.1",
+        "objective":"   ÖZEL GÖRELİLİK ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959258,
+        "objective_code":"FİZ.12.5.1.1",
+        "objective":"      Michelson–Morley deneyinin amacını ve sonuçlarını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959259,
+        "objective_code":"FİZ.12.5.1.2",
+        "objective":"      Einstein’ın özel görelilik teorisinin temel postülalarını ifade eder. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959260,
+        "objective_code":"FİZ.12.5.1.3",
+        "objective":"      Göreli zaman ve göreli uzunluk kavramlarını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959261,
+        "objective_code":"FİZ.12.5.1.4",
+        "objective":"      Kütle-enerji eşdeğerliğini açıklar",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959262,
+        "objective_code":"FİZ.12.5.2",
+        "objective":"   KUANTUM FİZİĞİNE GİRİŞ ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959263,
+        "objective_code":"FİZ.12.5.2.1",
+        "objective":"      Siyah cisim ışımasını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959264,
+        "objective_code":"FİZ.12.5.3",
+        "objective":"   FOTOELEKTRİK OLAYI ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959265,
+        "objective_code":"FİZ.12.5.3.1",
+        "objective":"      Foton kavramını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959266,
+        "objective_code":"FİZ.12.5.3.2",
+        "objective":"      Fotoelektrik olayını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959267,
+        "objective_code":"FİZ.12.5.3.3",
+        "objective":"      Farklı metaller için maksimum kinetik enerji-frekans grafiğini çizer. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959268,
+        "objective_code":"FİZ.12.5.3.4",
+        "objective":"      Fotoelektronların sahip olduğu maksimum kinetik enerji, durdurma gerilimi ve metalin eşik enerjisi arasındaki matematiksel ilişkiyi açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959269,
+        "objective_code":"FİZ.12.5.3.5",
+        "objective":"      Fotoelektrik olayın günlük hayattaki uygulamalarına örnekler verir. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959270,
+        "objective_code":"FİZ.12.5.3.6",
+        "objective":"      Fotoelektrik olayla ilgili hesaplamalar yapar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959271,
+        "objective_code":"FİZ.12.5.4",
+        "objective":"   COMPTON SAÇILMASI VE DE BROGLİE DALGA BOYU ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959272,
+        "objective_code":"FİZ.12.5.4.1",
+        "objective":"      Compton olayında foton ve elektron etkileşimini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959273,
+        "objective_code":"FİZ.12.5.4.2",
+        "objective":"      Compton ve fotoelektrik olaylarının benzer yönlerini belirterek ışığın tanecik doğası hakkında çıkarım yapar",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959274,
+        "objective_code":"FİZ.12.5.4.3",
+        "objective":"      Işığın ikili doğasını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959275,
+        "objective_code":"FİZ.12.5.4.4",
+        "objective":"      Madde ve dalga arasındaki ilişkiyi açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959276,
+        "objective_code":"FİZ.12.6",
+        "objective":"MODERN FİZİĞİN TEKNOLOJİDEKİ UYGULAMALARI ",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959277,
+        "objective_code":"FİZ.12.6.1",
+        "objective":"   GÖRÜNTÜLEME TEKNOLOJİLERİ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959278,
+        "objective_code":"FİZ.12.6.1.1",
+        "objective":"      Görüntüleme cihazlarının çalışma prensiplerini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959279,
+        "objective_code":"FİZ.12.6.1.2",
+        "objective":"      LCD ve plazma teknolojilerinde fizik biliminin yerini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959280,
+        "objective_code":"FİZ.12.6.2",
+        "objective":"   YARI İLETKEN TEKNOLOJİSİ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959281,
+        "objective_code":"FİZ.12.6.2.1",
+        "objective":"      Yarı iletken maddelerin genel özelliklerini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959282,
+        "objective_code":"FİZ.12.6.2.2",
+        "objective":"      Yarı iletken malzemelerin teknolojideki önemini açıklar",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959283,
+        "objective_code":"FİZ.12.6.2.3",
+        "objective":"      LED teknolojisinin kullanıldığı yerlere örnekler verir. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959284,
+        "objective_code":"FİZ.12.6.2.4",
+        "objective":"      Güneş pillerinin çalışma şeklini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959285,
+        "objective_code":"FİZ.12.6.2.5",
+        "objective":"      Günlük hayatı kolaylaştıran, güneş pillerinin kullanıldığı sistem tasarlar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959286,
+        "objective_code":"FİZ.12.6.3",
+        "objective":"   SÜPER İLETKENLER ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959287,
+        "objective_code":"FİZ.12.6.3.1",
+        "objective":"      Süper iletken maddenin temel özelliklerini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959288,
+        "objective_code":"FİZ.12.6.3.2",
+        "objective":"      Süper iletkenlerin teknolojideki kullanım alanlarına örnekler verir. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959289,
+        "objective_code":"FİZ.12.6.4",
+        "objective":"   NANOTEKNOLOJİ ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959290,
+        "objective_code":"FİZ.12.6.4.1",
+        "objective":"      Nanobilimin temellerini açıklar",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959291,
+        "objective_code":"FİZ.12.6.4.2",
+        "objective":"      Nanomalzemelerin temel özelliklerini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959292,
+        "objective_code":"FİZ.12.6.4.3",
+        "objective":"      Nanomalzemelerin teknolojideki kullanım alanlarına örnekler verir. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959293,
+        "objective_code":"FİZ.12.6.5",
+        "objective":"   LASER IŞINLARI ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959294,
+        "objective_code":"FİZ.12.6.5.1",
+        "objective":"      LASER ışınlarının elde edilişini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"physics",
+        "code":959295,
+        "objective_code":"FİZ.12.6.5.2",
+        "objective":"      LASER ışınlarının teknolojideki kullanım alanlarına örnekler verir.",
+        "depth":3
+    }
+]

@@ -1,0 +1,25 @@
+{% extends "layout.html" %}
+{% block content %}
+<style>
+    p { margin-bottom: 5px; }
+</style>
+<h2 style="margin-bottom: 30px;">Teacher Information ({{ teacher.username }})</h2>
+<div class="multiple-columns">
+    <div class="card">
+        <h3 style="margin-bottom: 20px;">General</h3>
+        <p><strong>Name: </strong>{{ teacher.name }}</p>
+        <p><strong>Surname: </strong>{{ teacher.surname }}</p>
+        <p><strong>Username: </strong>{{ teacher.username }}</p>
+        <p><strong>Gender: </strong>{{ teacher.gender }}</p>
+    </div>
+    <div class="card">
+        <h3 style="margin-bottom: 20px;">Config</h3>
+        <p><strong>Max Students: </strong>{{ teacher.config.MAX_STUDENTS }}</p>
+    </div>
+    <div class="card">
+        <h3 style="margin-bottom: 20px;">Security</h3>
+        <p><strong>Username: </strong>{{ teacher.username }}</p>
+        <p><strong>Password: </strong>*****</p>
+    </div>
+</div>
+{% endblock %}

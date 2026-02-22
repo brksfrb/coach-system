@@ -1,0 +1,2002 @@
+[
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958737,
+        "objective_code":"M.9.1",
+        "objective":"SAYILAR VE CEBİR \/ Mantık",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958738,
+        "objective_code":"M.9.1.1",
+        "objective":"   Önermeler ve Bileşik Önermeler ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958739,
+        "objective_code":"M.9.1.1.1",
+        "objective":"      Önermeyi, önermenin doğruluk değerini, iki önermenin denkliğini ve önermenin değilini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958740,
+        "objective_code":"M.9.1.1.2",
+        "objective":"      Bileşik önermeyi örneklerle açıklar, ‘‘ve, veya, ya da’’ bağlaçları ile kurulan bileşik önermelerin özelliklerini ve De Morgan kurallarını doğruluk tablosu kullanarak gösterir. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958741,
+        "objective_code":"M.9.1.1.3",
+        "objective":"      Koşullu önermeyi ve iki yönlü koşullu önermeyi açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958742,
+        "objective_code":"M.9.1.1.4",
+        "objective":"      Her (∀) ve bazı (∃) niceleyicilerini örneklerle açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958743,
+        "objective_code":"M.9.1.1.5",
+        "objective":"      Tanım, aksiyom, teorem ve ispat kavramlarını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958744,
+        "objective_code":"M.9.2",
+        "objective":"SAYILAR VE CEBİR \/ Kümeler",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958745,
+        "objective_code":"M.9.2.1",
+        "objective":"   Kümelerde Temel Kavramlar ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958746,
+        "objective_code":"M.9.2.1.1",
+        "objective":"      Kümeler ile ilgili temel kavramlar hatırlatılır.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958747,
+        "objective_code":"M.9.2.1.2",
+        "objective":"      Alt kümeyi kullanarak işlemler yapar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958748,
+        "objective_code":"M.9.2.1.3",
+        "objective":"      İki kümenin eşitliğini kullanarak işlemler yapar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958749,
+        "objective_code":"M.9.2.2",
+        "objective":"   Kümelerde İşlemler ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958750,
+        "objective_code":"M.9.2.2.1",
+        "objective":"      Kümelerde birleşim, kesişim, fark, tümleme işlemleri yardımıyla problemler çözer",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958751,
+        "objective_code":"M.9.2.2.2",
+        "objective":"      İki kümenin kartezyen çarpımıyla ilgili işlemler yapar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958752,
+        "objective_code":"M.9.3",
+        "objective":"SAYILAR VE CEBİR \/ Denklemler ve Eşitsizlikler ",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958753,
+        "objective_code":"M.9.3.1",
+        "objective":"   Sayı Kümeleri ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958754,
+        "objective_code":"M.9.3.1.1",
+        "objective":"      Sayı kümelerini birbiriyle ilişkilendirir.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958755,
+        "objective_code":"M.9.3.2",
+        "objective":"   Bölünebilme Kuralları ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958756,
+        "objective_code":"M.9.3.2.1",
+        "objective":"      Tam sayılarda bölünebilme kurallarıyla ilgili problemler çözer. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958757,
+        "objective_code":"M.9.3.2.2",
+        "objective":"      Tam sayılarda EBOB ve EKOK ile ilgili uygulamalar yapar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958758,
+        "objective_code":"M.9.3.2.3",
+        "objective":"      Gerçek hayatta periyodik olarak tekrar eden durumları içeren problemleri çözer. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958759,
+        "objective_code":"M.9.3.3",
+        "objective":"   Birinci Dereceden Denklemler ve Eşitsizlikler ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958760,
+        "objective_code":"M.9.3.3.1",
+        "objective":"      Gerçek sayılar kümesinde aralık kavramını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958761,
+        "objective_code":"M.9.3.3.2",
+        "objective":"      Birinci dereceden bir bilinmeyenli denklem ve eşitsizliklerin çözüm kümelerini bulur. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958762,
+        "objective_code":"M.9.3.3.3",
+        "objective":"      Mutlak değer içeren birinci dereceden bir bilinmeyenli denklem ve eşitsizliklerin çözüm kümelerini bulur.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958763,
+        "objective_code":"M.9.3.3.4",
+        "objective":"      Birinci dereceden iki bilinmeyenli denklem ve eşitsizlik sistemlerinin çözüm kümelerini bulur. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958764,
+        "objective_code":"M.9.3.4",
+        "objective":"   Üslü İfadeler ve Denklemler ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958765,
+        "objective_code":"M.9.3.4.1",
+        "objective":"      Üslü ifadeleri içeren denklemleri çözer.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958766,
+        "objective_code":"M.9.3.4.2",
+        "objective":"      Köklü ifadeleri içeren denklemleri çözer. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958767,
+        "objective_code":"M.9.3.5",
+        "objective":"   Denklemler ve Eşitsizliklerle İlgili Uygulamalar",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958768,
+        "objective_code":"M.9.3.5.1",
+        "objective":"      Oran ve orantı kavramlarını kullanarak problemler çözer. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958769,
+        "objective_code":"M.9.3.5.2",
+        "objective":"      Denklemler  ve eşitsizlikler ile ilgili problemler çözer. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958770,
+        "objective_code":"M.9.4",
+        "objective":"GEOMETRİ \/ Üçgenler",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958771,
+        "objective_code":"M.9.4.1",
+        "objective":"   Üçgenlerde Temel Kavramlar ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958772,
+        "objective_code":"M.9.4.1.1",
+        "objective":"      Üçgende açı özellikleri ile ilgili işlemler yapar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958773,
+        "objective_code":"M.9.4.1.2",
+        "objective":"      Üçgenin kenar uzunlukları ile bu kenarların karşılarındaki açıların ölçülerini ilişkilendirir. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958774,
+        "objective_code":"M.9.4.1.3",
+        "objective":"      Uzunlukları verilen üç doğru parçasının hangi durumlarda üçgen oluşturduğunu değerlendirir.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958775,
+        "objective_code":"M.9.4.2",
+        "objective":"   Üçgenlerde Eşlik ve Benzerlik ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958776,
+        "objective_code":"M.9.4.2.1",
+        "objective":"      İki üçgenin eş olması için gerekli olan asgari koşulları değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958777,
+        "objective_code":"M.9.4.2.2",
+        "objective":"      İki üçgenin benzer olması için gerekli olan asgari koşulları değerlendirir.  ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958778,
+        "objective_code":"M.9.4.2.3",
+        "objective":"      Üçgenin bir kenarına paralel ve diğer iki kenarı kesecek şekilde çizilen doğrunun ayırdığı doğru parçaları arasındaki ilişkiyi kurar.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958779,
+        "objective_code":"M.9.4.2.4",
+        "objective":"      Üçgenlerin benzerliği ile ilgili problemler çözer.  ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958780,
+        "objective_code":"M.9.4.3",
+        "objective":"   Üçgenin Yardımcı Elemanları ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958781,
+        "objective_code":"M.9.4.3.1",
+        "objective":"      Üçgenin iç ve dış açıortaylarının özelliklerini elde eder.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958782,
+        "objective_code":"M.9.4.3.2",
+        "objective":"      Üçgenin kenarortaylarının özelliklerini elde eder. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958783,
+        "objective_code":"M.9.4.3.3",
+        "objective":"      Üçgenin kenar orta dikmelerinin bir noktada kesiştiğini gösterir.  ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958784,
+        "objective_code":"M.9.4.3.4",
+        "objective":"      Üçgenin çeşidine göre yüksekliklerinin kesiştiği noktanın konumunu belirler. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958785,
+        "objective_code":"M.9.4.4",
+        "objective":"   Dik Üçgen ve Trigonometri ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958786,
+        "objective_code":"M.9.4.4.1",
+        "objective":"      Dik üçgende Pisagor teoremini elde ederek problemler çözer. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958787,
+        "objective_code":"M.9.4.4.2",
+        "objective":"      Öklid teoremini elde ederek problemler çözer. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958788,
+        "objective_code":"M.9.4.4.3",
+        "objective":"      Dik üçgende dar açıların trigonometrik oranlarını hesaplar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958789,
+        "objective_code":"M.9.4.4.4",
+        "objective":"      Birim çemberi tanımlar ve trigonometrik oranları birim çemberin üzerindeki noktanın koordinatlarıyla ilişkilendirir. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958790,
+        "objective_code":"M.9.4.5",
+        "objective":"   Üçgenin Alanı ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958791,
+        "objective_code":"M.9.4.5.1",
+        "objective":"      Üçgenin alanı ile ilgili problemler çözer. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958792,
+        "objective_code":"M.9.5",
+        "objective":"VERİ, SAYMA VE OLASILIK \/ Veri",
+        "depth":1
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958793,
+        "objective_code":"M.9.5.1",
+        "objective":"   Merkezî Eğilim ve Yayılım Ölçüleri ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958794,
+        "objective_code":"M.9.5.1.1",
+        "objective":"      Verileri merkezî eğilim ve yayılım ölçülerini hesaplayarak yorumlar. ",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958795,
+        "objective_code":"M.9.5.2",
+        "objective":"   Verilerin Grafikle Gösterilmesi ",
+        "depth":2
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958796,
+        "objective_code":"M.9.5.2.1",
+        "objective":"      Bir veri grubuna ilişkin histogram oluşturur.",
+        "depth":3
+    },
+    {
+        "grade":9,
+        "subject":"mathematics",
+        "code":958797,
+        "objective_code":"M.9.5.2.2",
+        "objective":"      Gerçek hayat durumunu yansıtan veri gruplarını uygun grafik türleriyle temsil ederek yorumlar",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958798,
+        "objective_code":"M.10.1",
+        "objective":"VERİ, SAYMA VE OLASILIK \/ Sayma ve Olasılık",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958799,
+        "objective_code":"M.10.1.1",
+        "objective":"   Sıralama ve Seçme ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958800,
+        "objective_code":"M.10.1.1.1",
+        "objective":"      Olayların gerçekleşme sayısını toplama ve çarpma yöntemlerini kullanarak hesaplar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958801,
+        "objective_code":"M.10.1.1.2",
+        "objective":"      n çeşit nesne ile oluşturulabilecek r li dizilişlerin (permütasyonların) kaç farklı şekilde yapılabileceğini hesaplar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958802,
+        "objective_code":"M.10.1.1.3",
+        "objective":"      Sınırlı sayıda tekrarlayan nesnelerin dizilişlerini (permütasyonlarını) açıklayarak problemler çözer",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958803,
+        "objective_code":"M.10.1.1.4",
+        "objective":"      n elemanlı bir kümenin r tane elemanının kaç farklı şekilde seçilebileceğini hesaplar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958804,
+        "objective_code":"M.10.1.1.5",
+        "objective":"      Pascal üçgenini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958805,
+        "objective_code":"M.10.1.1.6",
+        "objective":"      Binom açılımını yapar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958806,
+        "objective_code":"M.10.1.2",
+        "objective":"   Basit Olayların Olasılıkları ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958807,
+        "objective_code":"M.10.1.2.1",
+        "objective":"      Örnek uzay, deney, çıktı, bir olayın tümleyeni, kesin olay, imkânsız olay, ayrık olay ve ayrık olmayan olay kavramlarını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958808,
+        "objective_code":"M.10.1.2.2",
+        "objective":"      Olasılık kavramı ile ilgili uygulamalar yapar.  ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958809,
+        "objective_code":"M.10.2",
+        "objective":"SAYILAR VE CEBİR \/ Fonksiyonlar",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958810,
+        "objective_code":"M.10.2.1",
+        "objective":"   Fonksiyon Kavramı ve Gösterimi",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958811,
+        "objective_code":"M.10.2.1.1",
+        "objective":"      Fonksiyonlarla ilgili problemler çözer.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958812,
+        "objective_code":"M.10.2.1.2",
+        "objective":"      Fonksiyonların grafiklerini çizer. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958813,
+        "objective_code":"M.10.2.1.3",
+        "objective":"      Fonksiyonların grafiklerini yorumlar.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958814,
+        "objective_code":"M.10.2.1.4",
+        "objective":"      Gerçek hayat durumlarından doğrusal fonksiyonlarla ifade edilebilenlerin grafik gösterimlerini yapar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958815,
+        "objective_code":"M.10.2.2",
+        "objective":"   İki Fonksiyonun Bileşkesi ve Bir Fonksiyonun Tersi ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958816,
+        "objective_code":"M.10.2.2.1",
+        "objective":"      Bire bir ve örten fonksiyonlar ile ilgili uygulamalar yapar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958817,
+        "objective_code":"M.10.2.2.2",
+        "objective":"      Fonksiyonlarda bileşke işlemiyle ilgili işlemler yapar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958818,
+        "objective_code":"M.10.2.2.3",
+        "objective":"      Verilen bir fonksiyonun tersini bulur.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958819,
+        "objective_code":"M.10.3",
+        "objective":"SAYILAR VE CEBİR \/ Polinomlar",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958820,
+        "objective_code":"M.10.3.1",
+        "objective":"   Polinom Kavramı ve Polinomlarla İşlemler",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958821,
+        "objective_code":"M.10.3.1.1",
+        "objective":"      Bir değişkenli polinom kavramını açıklar.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958822,
+        "objective_code":"M.10.3.1.2",
+        "objective":"      Polinomlarla toplama, çıkarma, çarpma ve bölme işlemlerini yapar.  ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958823,
+        "objective_code":"M.10.3.2",
+        "objective":"   Polinomların Çarpanlara Ayrılması",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958824,
+        "objective_code":"M.10.3.2.1",
+        "objective":"      Bir polinomu çarpanlarına ayırır.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958825,
+        "objective_code":"M.10.3.2.2",
+        "objective":"      Rasyonel ifadelerin sadeleştirilmesi ile ilgili işlemler yapar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958826,
+        "objective_code":"M.10.4",
+        "objective":"SAYILAR VE CEBİR \/ İkinci Dereceden Denklemler ",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958827,
+        "objective_code":"M.10.4.1",
+        "objective":"   İkinci Dereceden Bir Bilinmeyenli Denklemler",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958828,
+        "objective_code":"M.10.4.1.1",
+        "objective":"      İkinci dereceden bir bilinmeyenli denklem kavramını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958829,
+        "objective_code":"M.10.4.1.2",
+        "objective":"      İkinci dereceden bir bilinmeyenli denklemleri çözer.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958830,
+        "objective_code":"M.10.4.1.3",
+        "objective":"      Bir karmaşık sayının a+ib (a,b ∈ℝ) biçiminde ifade edildiğini açıklar.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958831,
+        "objective_code":"M.10.4.1.4",
+        "objective":"      İkinci dereceden bir bilinmeyenli denklemin kökleri ile katsayıları arasındaki ilişkileri kullanarak işlemler yapar.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958832,
+        "objective_code":"M.10.5",
+        "objective":"GEOMETRİ \/ Dörtgenler ve Çokgenler",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958833,
+        "objective_code":"M.10.5.1",
+        "objective":"   Çokgenler ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958834,
+        "objective_code":"M.10.5.1.1",
+        "objective":"      Çokgen kavramını açıklayarak işlemler yapar",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958835,
+        "objective_code":"M.10.5.2",
+        "objective":"   Dörtgenler ve Özellikleri ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958836,
+        "objective_code":"M.10.5.2.1",
+        "objective":"      Dörtgenin temel elemanlarını ve özelliklerini açıklayarak problemler çözer.  ",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958837,
+        "objective_code":"M.10.5.3",
+        "objective":"   Özel Dörtgenler ",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958838,
+        "objective_code":"M.10.5.3.1",
+        "objective":"      Özel dörtgenlerin açı, kenar, köşegen ve alan özelliklerini açıklayarak problemler çözer.",
+        "depth":3
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958839,
+        "objective_code":"M.10.6",
+        "objective":"GEOMETRİ \/ Uzay Geometri",
+        "depth":1
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958840,
+        "objective_code":"M.10.6.1",
+        "objective":"   Katı Cisimler",
+        "depth":2
+    },
+    {
+        "grade":10,
+        "subject":"mathematics",
+        "code":958841,
+        "objective_code":"M.10.6.1.1",
+        "objective":"      Dik prizmalar ve dik piramitlerin uzunluk, alan ve hacim bağıntılarını oluşturur. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958842,
+        "objective_code":"M.11.1",
+        "objective":"GEOMETRİ \/ Trigonometri ",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958843,
+        "objective_code":"M.11.1.1",
+        "objective":"   Yönlü Açılar",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958844,
+        "objective_code":"M.11.1.1.1",
+        "objective":"      Yönlü açıyı açıklar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958845,
+        "objective_code":"M.11.1.1.2",
+        "objective":"      Açı ölçü birimlerini açıklayarak birbiri ile ilişkilendirir. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958846,
+        "objective_code":"M.11.1.2",
+        "objective":"   Trigonometrik Fonksiyonlar ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958847,
+        "objective_code":"M.11.1.2.1",
+        "objective":"      Trigonometrik fonksiyonları birim çember yardımıyla açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958848,
+        "objective_code":"M.11.1.2.2",
+        "objective":"      Kosinüs teoremiyle ilgili problemler çözer.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958849,
+        "objective_code":"M.11.1.2.3",
+        "objective":"      Sinüs teoremiyle ilgili problemler çözer. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958850,
+        "objective_code":"M.11.1.2.4",
+        "objective":"      Trigonometrik fonksiyon grafiklerini çizer. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958851,
+        "objective_code":"M.11.1.2.5",
+        "objective":"      Sinüs, kosinüs, tanjant fonksiyonlarının ters fonksiyonlarını açıklar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958905,
+        "objective_code":"M.11.10",
+        "objective":"SAYILAR VE CEBİR\/Denklem ve Eşitsizlikler",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958906,
+        "objective_code":"M.11.10.1",
+        "objective":"   Birinci Dereceden Denklem ve Eşitsizlikler",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958907,
+        "objective_code":"M.11.10.1.1",
+        "objective":"      Birinci dereceden bir veya iki bilinmeyenli denklemlerle ilgili problemler çözer.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958908,
+        "objective_code":"M.11.10.1.2",
+        "objective":"      Birinci dereceden bir bilinmeyenli eşitsizliklerle ilgili problemler çözer.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958909,
+        "objective_code":"M.11.10.2",
+        "objective":"   Bilinçli Tüketici Aritmetiği",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958910,
+        "objective_code":"M.11.10.2.1",
+        "objective":"      Gelir-giderleri göz önüne alarak birey, aile ve kurum bütçesi oluşturur.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958911,
+        "objective_code":"M.11.10.2.2",
+        "objective":"      Seyahatlerde mümkün olan alternatifleri karşılaştırır.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958912,
+        "objective_code":"M.11.11",
+        "objective":"GEOMETRİ \/ Çember ve Daire",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958913,
+        "objective_code":"M.11.11.1",
+        "objective":"   Çemberin Temel Elemanları",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958914,
+        "objective_code":"M.11.11.1.1",
+        "objective":"      Çemberin temel elemanlarını tanır.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958915,
+        "objective_code":"M.11.11.2",
+        "objective":"   Çemberde Açılar",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958916,
+        "objective_code":"M.11.11.2.1",
+        "objective":"      Çemberlerde açıların özelliklerini kullanarak işlemler yapar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958917,
+        "objective_code":"M.11.11.3",
+        "objective":"   Dairenin Çevresi ve Alanı",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958918,
+        "objective_code":"M.11.11.3.1",
+        "objective":"      Dairenin çevre ve alan bağıntılarını oluşturur.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958852,
+        "objective_code":"M.11.2",
+        "objective":"GEOMETRİ \/ Analitik Geometri ",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958853,
+        "objective_code":"M.11.2.1",
+        "objective":"   Doğrunun Analitik İncelenmesi ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958854,
+        "objective_code":"M.11.2.1.1",
+        "objective":"      Analitik düzlemde iki nokta arasındaki uzaklığı veren bağıntıyı elde ederek problemler çözer. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958855,
+        "objective_code":"M.11.2.1.2",
+        "objective":"      Bir doğru parçasını belli bir oranda (içten veya dıştan) bölen noktanın koordinatlarını hesaplar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958856,
+        "objective_code":"M.11.2.1.3",
+        "objective":"      Analitik düzlemde doğruları inceleyerek işlemler yapar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958857,
+        "objective_code":"M.11.2.1.4",
+        "objective":"      Bir noktanın bir doğruya uzaklığını hesaplar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958858,
+        "objective_code":"M.11.3",
+        "objective":"SAYILAR VE CEBİR \/ Fonksiyonlarda Uygulamalar ",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958859,
+        "objective_code":"M.11.3.1",
+        "objective":"   Fonksiyonlarla İlgili Uygulamalar ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958860,
+        "objective_code":"M.11.3.1.1",
+        "objective":"      Fonksiyonun grafik ve tablo temsilini kullanarak problem çözer. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958861,
+        "objective_code":"M.11.3.2",
+        "objective":"   İkinci Dereceden Fonksiyonlar ve Grafikleri ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958862,
+        "objective_code":"M.11.3.2.1",
+        "objective":"      İkinci dereceden bir değişkenli fonksiyonun grafiğini çizerek yorumlar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958863,
+        "objective_code":"M.11.3.2.2",
+        "objective":"      İkinci dereceden fonksiyonlarla modellenebilen problemleri çözer. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958864,
+        "objective_code":"M.11.3.3",
+        "objective":"   Fonksiyonların Dönüşümleri",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958865,
+        "objective_code":"M.11.3.3.1",
+        "objective":"      Bir fonksiyonun grafiğinden, dönüşümler yardımı ile yeni fonksiyon grafikleri çizer. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958866,
+        "objective_code":"M.11.4",
+        "objective":"SAYILAR VE CEBİR \/ Denklem ve Eşitsizlik Sistemleri ",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958867,
+        "objective_code":"M.11.4.1",
+        "objective":"   İkinci Dereceden İki Bilinmeyenli Denklem Sistemleri ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958868,
+        "objective_code":"M.11.4.1.1",
+        "objective":"      İkinci dereceden İki bilinmeyenli denklem sistemlerinin çözüm kümesini bulur. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958869,
+        "objective_code":"M.11.4.2",
+        "objective":"   İkinci Dereceden Bir Bilinmeyenli Eşitsizlikler ve Eşitsizlik Sistemleri ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958870,
+        "objective_code":"M.11.4.2.1",
+        "objective":"      İkinci dereceden bir bilinmeyenli eşitsizliklerin çözüm kümesini bulur.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958871,
+        "objective_code":"M.11.4.2.2",
+        "objective":"      İkinci dereceden bir bilinmeyenli eşitsizlik sistemlerinin çözüm kümesini bulur. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958872,
+        "objective_code":"M.11.5",
+        "objective":"GEOMETRİ \/ Çember ve Daire ",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958873,
+        "objective_code":"M.11.5.1",
+        "objective":"   Çemberin Temel Elemanları ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958874,
+        "objective_code":"M.11.5.1.1",
+        "objective":"      Çemberde teğet, kiriş, çap, yay ve kesen kavramlarını açıklar.  ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958875,
+        "objective_code":"M.11.5.1.2",
+        "objective":"      Çemberde kirişin özelliklerini göstererek işlemler yapar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958876,
+        "objective_code":"M.11.5.2",
+        "objective":"   Çemberde Açılar",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958877,
+        "objective_code":"M.11.5.2.1",
+        "objective":"      Bir çemberde merkez, çevre, iç, dış ve teğet-kiriş açıların özelliklerini kullanarak işlemler yapar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958878,
+        "objective_code":"M.11.5.3",
+        "objective":"   Çemberde Teğet",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958879,
+        "objective_code":"M.11.5.3.1",
+        "objective":"      Çemberde teğetin özelliklerini göstererek işlemler yapar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958880,
+        "objective_code":"M.11.5.4",
+        "objective":"   Dairenin Çevresi ve Alanı ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958881,
+        "objective_code":"M.11.5.4.1",
+        "objective":"      Dairenin çevre ve alan bağıntılarını oluşturur. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958882,
+        "objective_code":"M.11.6",
+        "objective":"GEOMETRİ \/ Uzay Geometri ",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958883,
+        "objective_code":"M.11.6.1",
+        "objective":"   Katı Cisimler ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958884,
+        "objective_code":"M.11.6.1.1",
+        "objective":"      Küre, dik dairesel silindir ve dik dairesel koninin alan ve hacim bağıntılarını oluşturarak işlemler yapar. ",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958885,
+        "objective_code":"M.11.7",
+        "objective":"VERİ, SAYMA VE OLASILIK \/ Olasılık",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958886,
+        "objective_code":"M.11.7.1",
+        "objective":"   Koşullu Olasılık ",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958887,
+        "objective_code":"M.11.7.1.1",
+        "objective":"      Koşullu olasılığı açıklayarak problemler çözer.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958888,
+        "objective_code":"M.11.7.1.2",
+        "objective":"      Bağımlı ve bağımsız olayları açıklayarak gerçekleşme olasılıklarını hesaplar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958889,
+        "objective_code":"M.11.7.1.3",
+        "objective":"      Bileşik olayı açıklayarak gerçekleşme olasılığını hesaplar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958890,
+        "objective_code":"M.11.7.2",
+        "objective":"   Deneysel ve Teorik Olasılık",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958891,
+        "objective_code":"M.11.7.2.1",
+        "objective":"      Deneysel olasılık ile teorik olasılığı ilişkilendirir.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958892,
+        "objective_code":"M.11.8",
+        "objective":"SAYILAR VE CEBİR \/ Sayılar",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958893,
+        "objective_code":"M.11.8.1",
+        "objective":"   Sayı Kümeleri",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958894,
+        "objective_code":"M.11.8.1.1",
+        "objective":"      Sayı kümelerini birbiriyle ilişkilendirir.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958895,
+        "objective_code":"M.11.8.1.2",
+        "objective":"      Doğal sayıların çözümlenmesi ile ilgili problemler çözer.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958896,
+        "objective_code":"M.11.8.1.3",
+        "objective":"      Eşit miktarda artarak devam eden sınırlı sayıdaki doğal sayıların toplamını bulur.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958897,
+        "objective_code":"M.11.8.2",
+        "objective":"   Bölünebilme",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958898,
+        "objective_code":"M.11.8.2.1",
+        "objective":"      Tam sayılarda bölünebilme kurallarıyla ilgili işlemler yapar.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958899,
+        "objective_code":"M.11.8.2.2",
+        "objective":"      Bir tamsayının pozitif tamsayı bölenlerinin sayısını bulur.",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958900,
+        "objective_code":"M.11.9",
+        "objective":"GEOMETRİ\/Üçgenler",
+        "depth":1
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958901,
+        "objective_code":"M.11.9.1",
+        "objective":"   Dik Üçgen",
+        "depth":2
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958902,
+        "objective_code":"M.11.9.1.1",
+        "objective":"      Dik üçgenlerle ilgili problemler çözer",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958903,
+        "objective_code":"M.11.9.1.2",
+        "objective":"      Dik üçgende trigonometrik oranlarla ilgili problemler çözer",
+        "depth":3
+    },
+    {
+        "grade":11,
+        "subject":"mathematics",
+        "code":958904,
+        "objective_code":"M.11.9.1.3",
+        "objective":"      Üçgenlerin benzerliğiyle ilgili problemler çözer",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958919,
+        "objective_code":"M.12.1",
+        "objective":"SAYILAR VE CEBİR \/ Üstel ve Logaritmik Fonksiyonlar ",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958920,
+        "objective_code":"M.12.1.1",
+        "objective":"   Üstel Fonksiyon ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958921,
+        "objective_code":"M.12.1.1.1",
+        "objective":"      Üstel fonksiyonu açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958922,
+        "objective_code":"M.12.1.2",
+        "objective":"   Logaritma Fonksiyonu ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958923,
+        "objective_code":"M.12.1.2.1",
+        "objective":"      Logaritma fonksiyonu ile üstel fonksiyonu ilişkilendirerek problemler çözer. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958924,
+        "objective_code":"M.12.1.2.2",
+        "objective":"      10 ve e tabanında logaritma fonksiyonunu tanımlayarak problemler çözer.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958925,
+        "objective_code":"M.12.1.2.3",
+        "objective":"      Logaritma fonksiyonunun özelliklerini kullanarak işlemler yapar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958926,
+        "objective_code":"M.12.1.3",
+        "objective":"   Üstel, Logaritmik Denklemler ve Eşitsizlikler ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958927,
+        "objective_code":"M.12.1.3.1",
+        "objective":"      Üstel, logaritmik denklemlerin ve eşitsizliklerin çözüm kümelerini bulur.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958928,
+        "objective_code":"M.12.1.3.2",
+        "objective":"      Üstel ve logaritmik fonksiyonları gerçek hayat durumlarını modellemede kullanır. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958981,
+        "objective_code":"M.12.10",
+        "objective":"GEOMETRİ\/Ölçme",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958982,
+        "objective_code":"M.12.10.1",
+        "objective":"   Çevre, Alan ve Hacim Ölçme",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958983,
+        "objective_code":"M.12.10.1.1",
+        "objective":"      Çevre, alan ve hacim ölçmeye yönelik problemler çözer.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958984,
+        "objective_code":"M.12.11",
+        "objective":"GEOMETRİ \/ Katı Cisimler",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958985,
+        "objective_code":"M.12.11.1",
+        "objective":"   Küre ve Silindir",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958986,
+        "objective_code":"M.12.11.1.1",
+        "objective":"      Küre ve dik dairesel silindirin alan ve hacim ölçmeye yönelik problemler çözer.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958929,
+        "objective_code":"M.12.2",
+        "objective":"SAYILAR VE CEBİR \/ Diziler ",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958930,
+        "objective_code":"M.12.2.1",
+        "objective":"   Gerçek Sayı Dizileri",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958931,
+        "objective_code":"M.12.2.1.1",
+        "objective":"      Dizi kavramını fonksiyon kavramıyla ilişkilendirerek açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958932,
+        "objective_code":"M.12.2.1.2",
+        "objective":"      Genel terimi veya indirgeme bağıntısı verilen bir sayı dizisinin terimlerini bulur. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958933,
+        "objective_code":"M.12.2.1.3",
+        "objective":"      Aritmetik ve geometrik dizilerin özelliklerini kullanarak işlemler yapar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958934,
+        "objective_code":"M.12.2.1.4",
+        "objective":"      Diziler yardımıyla gerçek hayat durumları ile ilgili problemler çözer. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958935,
+        "objective_code":"M.12.3",
+        "objective":"GEOMETRİ \/ Trigonometri ",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958936,
+        "objective_code":"M.12.3.1",
+        "objective":"   Toplam-Fark ve İki kat Açı Formülleri",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958937,
+        "objective_code":"M.12.3.1.1",
+        "objective":"      İki açının ölçüleri toplamının ve farkının trigonometrik değerlerine ait formülleri oluşturarak işlemler yapar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958938,
+        "objective_code":"M.12.3.1.2",
+        "objective":"      İki kat açı formüllerini oluşturarak işlemler yapar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958939,
+        "objective_code":"M.12.3.2",
+        "objective":"   Trigonometrik Denklemler",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958940,
+        "objective_code":"M.12.3.2.1",
+        "objective":"      Trigonometrik denklemlerin çözüm kümelerini bulur.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958941,
+        "objective_code":"M.12.4",
+        "objective":"GEOMETRİ \/ Dönüşümler ",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958942,
+        "objective_code":"M.12.4.1",
+        "objective":"   Analitik Düzlemde Temel Dönüşümler ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958943,
+        "objective_code":"M.12.4.1.1",
+        "objective":"      Analitik düzlemde koordinatları verilen bir noktanın öteleme, dönme ve simetri dönüşümleri altındaki görüntüsünün koordinatlarını bulur. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958944,
+        "objective_code":"M.12.4.1.2",
+        "objective":"      Temel dönüşümler ve bileşkeleriyle ilgili problem çözer.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958945,
+        "objective_code":"M.12.5",
+        "objective":"SAYILAR VE CEBİR \/ Türev",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958946,
+        "objective_code":"M.12.5.1",
+        "objective":"   Limit ve Süreklilik ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958947,
+        "objective_code":"M.12.5.1.1",
+        "objective":"      Bir fonksiyonun bir noktadaki limiti, soldan limit ve sağdan limit kavramlarını açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958948,
+        "objective_code":"M.12.5.1.2",
+        "objective":"      Limit ile ilgili özellikleri belirterek uygulamalar yapar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958949,
+        "objective_code":"M.12.5.1.3",
+        "objective":"      Bir fonksiyonun bir noktadaki sürekliliğini açıklar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958950,
+        "objective_code":"M.12.5.2",
+        "objective":"   Anlık Değişim Oranı ve Türev ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958951,
+        "objective_code":"M.12.5.2.1",
+        "objective":"      Türev kavramını açıklayarak işlemler yapar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958952,
+        "objective_code":"M.12.5.2.2",
+        "objective":"      Bir fonksiyonun bir noktada ve bir aralıkta türevlenebilirliğini değerlendirir. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958953,
+        "objective_code":"M.12.5.2.3",
+        "objective":"      Türevlenebilen iki fonksiyonun toplamı, farkı, çarpımı ve bölümünün türevine ait kurallar yardımıyla işlemler yapar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958954,
+        "objective_code":"M.12.5.2.4",
+        "objective":"      İki fonksiyonun bileşkesinin türevine ait kuralı (zincir kuralı) oluşturularak türev hesabı yapar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958955,
+        "objective_code":"M.12.5.3",
+        "objective":"   Türevin Uygulamaları ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958956,
+        "objective_code":"M.12.5.3.1",
+        "objective":"      Bir fonksiyonun artan veya azalan olduğu aralıkları türev yardımıyla belirler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958957,
+        "objective_code":"M.12.5.3.2",
+        "objective":"      Bir fonksiyonun mutlak maksimum ve mutlak minimum, yerel maksimum, yerel minimum noktalarını belirler. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958958,
+        "objective_code":"M.12.5.3.3",
+        "objective":"      Türevi yardımıyla bir fonksiyonun grafiğini çizer. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958959,
+        "objective_code":"M.12.5.3.4",
+        "objective":"      Maksimum ve minimum problemlerini türev yardımıyla çözer.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958960,
+        "objective_code":"M.12.6",
+        "objective":"SAYILAR VE CEBİR \/ İntegral ",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958961,
+        "objective_code":"M.12.6.1",
+        "objective":"   Belirsiz İntegral",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958962,
+        "objective_code":"M.12.6.1.1",
+        "objective":"      Bir fonksiyonun belirsiz integralini açıklayarak integral alma kurallarını oluşturur.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958963,
+        "objective_code":"M.12.6.1.2",
+        "objective":"      Değişken değiştirme yoluyla integral alma işlemleri yapar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958964,
+        "objective_code":"M.12.6.2",
+        "objective":"   Belirli İntegral ve Uygulamaları ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958965,
+        "objective_code":"M.12.6.2.1",
+        "objective":"      Bir fonksiyonun grafiği ile x ekseni arasında kalan sınırlı bölgenin alanını Riemann toplamı yardımıyla yaklaşık olarak hesaplar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958966,
+        "objective_code":"M.12.6.2.2",
+        "objective":"      Bir fonksiyonun belirli ve belirsiz integralleri arasındaki ilişkiyi açıklayarak işlemler yapar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958967,
+        "objective_code":"M.12.6.2.3",
+        "objective":"      Belirli integralin özelliklerini kullanarak işlemler yapar",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958968,
+        "objective_code":"M.12.6.2.4",
+        "objective":"      Belirli integral ile alan hesabı yapar.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958969,
+        "objective_code":"M.12.7",
+        "objective":"GEOMETRİ \/ Analitik Geometri ",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958970,
+        "objective_code":"M.12.7.1",
+        "objective":"   Çemberin Analitik İncelenmesi ",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958971,
+        "objective_code":"M.12.7.1.1",
+        "objective":"      Merkezi ve yarıçapı verilen çemberin denklemini oluşturur.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958972,
+        "objective_code":"M.12.7.1.2",
+        "objective":"      Denklemleri verilen doğru ile çemberin birbirine göre durumlarını belirleyerek işlemler yapar. ",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958973,
+        "objective_code":"M.12.8",
+        "objective":"SAYILAR VE CEBİR\/Denklem ve Eşitsizlikler",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958974,
+        "objective_code":"M.12.8.1",
+        "objective":"   Üslü ve Köklü İfadeler",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958975,
+        "objective_code":"M.12.8.1.1",
+        "objective":"      Üslü ve köklü ifadeler içeren denklemler çözer.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958976,
+        "objective_code":"M.12.8.2",
+        "objective":"   Bilinçli Tüketici Aritmetiği",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958977,
+        "objective_code":"M.12.8.2.1",
+        "objective":"      Yüzde, oran ve orantı kavramlarıyla ilgili problemler çözer.",
+        "depth":3
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958978,
+        "objective_code":"M.12.9",
+        "objective":"VERİ, SAYMA VE OLASILIK\/Veri",
+        "depth":1
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958979,
+        "objective_code":"M.12.9.1",
+        "objective":"   Veri Analizi",
+        "depth":2
+    },
+    {
+        "grade":12,
+        "subject":"mathematics",
+        "code":958980,
+        "objective_code":"M.12.9.1.1",
+        "objective":"      Gerçek hayat durumlarıyla ilgili istatistik problemleri çözer.",
+        "depth":3
+    }
+]
