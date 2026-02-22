@@ -42,6 +42,8 @@ CoachSystem is a lightweight, real-life tested backend system for tutors and tea
 - Reset password inside "My Students" may not work in all cases
 - Some pages marked as **Under Construction**
 - Uses default admin credentials; no seeding required
+- Server status may not be available in all cases
+- ⚠️ **UI language is primarily Turkish, with some pages in English**
 
 ---
 
@@ -52,3 +54,14 @@ CoachSystem is a lightweight, real-life tested backend system for tutors and tea
 ```bash
 git clone https://github.com/yourusername/CoachSystem.git
 cd CoachSystem
+```
+> ⚠️ **Warning:** CoachSystem is tested and fully supports **Python 3.13**. Using older versions may cause unexpected behavior.
+---
+
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Admin Panel
+![Messaging](screenshots/admin_panel.png)

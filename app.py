@@ -25,7 +25,7 @@ register_error_handlers(app)
 for r in routes:
     app.register_blueprint(r)
 
-socketio = SocketIO(app, manage_session=True, async_mode="threading")
+socketio = SocketIO(app, manage_session=False, async_mode="threading")
 
 # Pre-Check
 @app.before_request
@@ -131,18 +131,21 @@ def socket_disconnect_message():
 
 @socketio.on("message_in", namespace="/messaging")
 def socket_handle_message(data):
-    message = data.get("message") # Message as str
+    message = data.get("message")
     md_id = data.get("md_id")
     from_who = session.get("username")
     md = cm.get_md_by_id(md_id)
-    if md is None: return
+    if md is None:
+        return
+
     cm.new_message(message, md, cm.get_user_by_username(from_who))
+
     for contact_object in md.contacts:
         contact = contact_object.username
-        if from_who not in connected_users_message:
-            logger.warning("Contact is not connected")
-            continue
         target_sids = connected_users_message.get(contact)
+        if not target_sids:  # None or empty list
+            logger.warning(f"{contact} is not connected, skipping")
+            continue
         for target_sid in target_sids:
             emit("message_out", {
                 "message": message,
